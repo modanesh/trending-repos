@@ -38,6 +38,23 @@
 - [the-rise-of-dna-data-storage](https://www.wired.com/story/the-rise-of-dna-data-storage/)
 
 
+-------
+
+6/7
+
+- [UBS puts digital clone of chief investment officer in branch](https://www.finextra.com/newsarticle/32350/ubs-puts-digital-clone-of-chief-investment-officer-in-branch)
+- [AI will help, but may also kill people, say US doctors](https://internetofbusiness.com/healthcare-leaders-expect-ai-dominance-in-five-years-nervously/)
+- [SAP Survey Finds AI Divide Among Business Leaders](https://www.itbusinessedge.com/blogs/it-unmasked/sap-survey-finds-ai-divide-among-business-leaders.html)
+- [Can GDPR Hit on AI?](https://www.dqindia.com/can-gdpr-hit-ai/)
+- [Baidu creates Kunlun silicon for AI](https://www.zdnet.com/article/baidu-creates-kunlun-silicon-for-ai/)
+- [Facebook acquires Bloomsbury AI team to automate the fight against fake news](https://www.zdnet.com/article/facebook-acquires-bloomsbury-ai-team-brings-ai-to-the-fight-against-fake-news/#ftag=RSSbaffb68)
+- [SMC, Intel to create AI-based medical research infrastructure](http://www.koreabiomed.com/news/articleView.html?idxno=3665)
+- [Government response to House of Lords
+Artificial Intelligence Select Committee’s
+Report on AI in the UK: Ready, Willing
+and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Intelligence/AI-Government-Response.pdf)
+- [AI applications that are human-centred, unbiased, fair](https://www.livemint.com/AI/5ixVrSb5hAn66jAloTt4cJ/AI-applications-that-are-humancentred-unbiased-fair.html)
+
 ---------
 
 **Maintainer**
