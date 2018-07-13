@@ -22,6 +22,7 @@
 
 ### Research News
 
+
 - [OpenAI: AI Beats Amateur Human Dota 2 Players](https://blog.openai.com/openai-five/)
 - [IBM to release world’s largest annotation dataset for studying bias in facial analysis](https://www.ibm.com/blogs/research/2018/06/ai-facial-analytics/)
 - [Facebook Research at CVPR 2018](https://research.fb.com/facebook-research-at-cvpr-2018/)
@@ -39,6 +40,24 @@
 
 
 -------
+
+6/13
+
+- [China, France, the U.K. and the European Union all have articulated AI strategies](https://www.rcrwireless.com/20180711/policy/is-the-us-lagging-in-ai-leadership)
+- [The three biggest AI challenges for businesses](https://it-online.co.za/2018/07/11/the-three-biggest-ai-challenges-for-businesses/)
+- [Your Raise Is Now Based on Next Year’s Performance](https://www.bloomberg.com/news/articles/2018-07-09/your-raise-is-now-based-on-next-year-s-performance)
+- [Morgan Stanley draws from ‘hundreds of conversations’ with experts to build its AI](https://www.americanbanker.com/news/morgan-stanley-draws-from-millions-of-conversations-to-build-its-ai)
+- [Effective artificial intelligence requires a healthy diet of data](https://www.cio.com/article/3287151/artificial-intelligence/effective-artificial-intelligence-requires-a-healthy-diet-of-data.html)
+- [Apple put Google's former AI boss in charge of Siri and machine learning](https://www.cnbc.com/2018/07/10/apples-new-aiml-team-will-be-led-by-an-exec-poached-from-google.html)
+- [Google’s DeepMind developed an IQ test for AI models](https://venturebeat.com/2018/07/11/googles-deepmind-developed-an-iq-test-for-ai-models/)
+- [Salesforce Service Cloud Einstein adds AI to CRM to boost customer service](https://www.techrepublic.com/article/salesforce-service-cloud-einstein-adds-ai-to-crm-to-boost-customer-service/)
+- [Nokia, China Mobile to Establish 5G + AI Lab](https://www.lightreading.com/artificial-intelligence-machine-learning/nokia-china-mobile-to-establish-5g--ai-lab/d/d-id/744479)
+- [Most Health Organizations Can't Ensure Responsible AI Use](https://www.informationweek.com/strategic-cio/it-strategy/most-health-organizations-cant-ensure-responsible-ai-use/d/d-id/1332276)
+- [Facebook's DensePose Tech Raises Concerns About Potential Misuse](https://spectrum.ieee.org/tech-talk/robotics/artificial-intelligence/surveillance-concerns-follow-facebooks-densepose-tech)
+- [AI Will Take Longer To Change The World Than Forecasters Say](https://www.forbes.com/sites/miltonezrati/2018/07/11/ai-will-take-it-will-take-longer-to-change-the-world-than-forecasters-say/#14c1a7153d08)
+
+
+--------------
 
 6/7
 
