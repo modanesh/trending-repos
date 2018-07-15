@@ -41,7 +41,7 @@
 
 -------
 
-6/13
+7/13
 
 - [China, France, the U.K. and the European Union all have articulated AI strategies](https://www.rcrwireless.com/20180711/policy/is-the-us-lagging-in-ai-leadership)
 - [The three biggest AI challenges for businesses](https://it-online.co.za/2018/07/11/the-three-biggest-ai-challenges-for-businesses/)
@@ -59,7 +59,7 @@
 
 --------------
 
-6/7
+7/6
 
 - [UBS puts digital clone of chief investment officer in branch](https://www.finextra.com/newsarticle/32350/ubs-puts-digital-clone-of-chief-investment-officer-in-branch)
 - [AI will help, but may also kill people, say US doctors](https://internetofbusiness.com/healthcare-leaders-expect-ai-dominance-in-five-years-nervously/)
