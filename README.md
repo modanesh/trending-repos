@@ -18,7 +18,7 @@
 - [Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) : this repository accompanies my forthcoming book "Grokking Deep Learning"
 - [mxnet-the-straight-dope](https://github.com/zackchase/mxnet-the-straight-dope) : An interactive book on deep learning. Much easy, so MXNet. Wow. http://gluon.mxnet.io
 - [unet](https://github.com/zhixuhao/unet) : unet for image segmentation
-
+- [tvm](https://github.com/dmlc/tvm) :Open deep learning compiler stack for cpu, gpu and specialized accelerators https://tvm.ai
 
 ----------------
 
