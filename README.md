@@ -15,9 +15,9 @@
 - [react-values](https://github.com/ianstormtaylor/react-values) : A set of tiny React components for handling state with render props.
 - [fathom](https://github.com/usefathom/fathom):Fathom. Simple, trustworthy website analytics. Built with Golang & Preact. https://usefathom.com/
 - [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap): Roadmap to becoming a React developer in 2018
-
-
-
+- [Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) : this repository accompanies my forthcoming book "Grokking Deep Learning"
+- [mxnet-the-straight-dope](https://github.com/zackchase/mxnet-the-straight-dope) : An interactive book on deep learning. Much easy, so MXNet. Wow. http://gluon.mxnet.io
+- [unet](https://github.com/zhixuhao/unet) : unet for image segmentation
 
 
 ----------------
