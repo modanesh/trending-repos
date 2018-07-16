@@ -4,6 +4,8 @@
 
 - [Github](#github)
 - [Research News](#research-news)
+- [github-trending](https://github.com/josephyzhou/github-trending)
+
 
 ----------------
 
