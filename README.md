@@ -11,6 +11,7 @@
 
 ### Github
 
+- [Mask-RCNN](https://github.com/wannabeOG/Mask-RCNN) : A PyTorch implementation of the architecture of Mask RCNN, serves as an introduction to working with PyTorch
 - [cascade-rcnn](https://github.com/zhaoweicai/cascade-rcnn) : Caffe implementation of multiple popular object detection frameworks
 - [google/data-transfer-project](https://github.com/google/data-transfer-project) : The Data Transfer Project makes it easy for people to transfer their data between online service providers. We are establishing a common framework, including data models and protocols, to enable direct transfer of data both into and out of participating online service providers. http://datatransferproject.dev
 - [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) : Python sample codes for robotics algorithms. https://atsushisakai.github.io/PythonRobotics/
