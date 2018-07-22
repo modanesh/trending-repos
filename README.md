@@ -21,6 +21,9 @@
 - [mxnet-the-straight-dope](https://github.com/zackchase/mxnet-the-straight-dope) : An interactive book on deep learning. Much easy, so MXNet. Wow. http://gluon.mxnet.io
 - [unet](https://github.com/zhixuhao/unet) : unet for image segmentation
 - [tvm](https://github.com/dmlc/tvm) :Open deep learning compiler stack for cpu, gpu and specialized accelerators https://tvm.ai
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) : The only Front-End Performance Checklist that runs faster than the others https://frontendchecklist.io(soon on)
+- [InterviewMap](https://github.com/InterviewMap/InterviewMap) : Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc. https://yuchengkai.cn/docs/
 
 ----------------
 
