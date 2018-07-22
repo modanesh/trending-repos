@@ -21,6 +21,13 @@ ml/dl
 - [mxnet-the-straight-dope](https://github.com/zackchase/mxnet-the-straight-dope) : An interactive book on deep learning. Much easy, so MXNet. Wow. http://gluon.mxnet.io
 - [unet](https://github.com/zhixuhao/unet) : unet for image segmentation
 - [tvm](https://github.com/dmlc/tvm) :Open deep learning compiler stack for cpu, gpu and specialized accelerators https://tvm.ai
+- [albumentations](https://github.com/albu/albumentations) : fast image augmentation library and easy to use wrapper around other libraries
+- [Slides-SciPyConf-2018](https://github.com/deniederhut/Slides-SciPyConf-2018) : A repository for public storage of slides given at the 17th Python in Science Conferences (2018)
+- [probability](https://github.com/tensorflow/probability) : Probabilistic reasoning and statistical analysis in TensorFlow
+- [MATRIXAI](https://github.com/MatrixAINetwork/MATRIXAI) : Matrix's AI research and related contents
+- [ansible-jupyter-kernel](https://github.com/ansible/ansible-jupyter-kernel) : Jupyter Notebook Kernel for running Ansible Tasks and Playbooks
+- [compare_gan](https://github.com/google/compare_gan) : Compare GAN code
+
 
 
 other
