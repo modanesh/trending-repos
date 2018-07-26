@@ -28,10 +28,18 @@ ml/dl
 - [MATRIXAI](https://github.com/MatrixAINetwork/MATRIXAI) : Matrix's AI research and related contents
 - [ansible-jupyter-kernel](https://github.com/ansible/ansible-jupyter-kernel) : Jupyter Notebook Kernel for running Ansible Tasks and Playbooks
 - [compare_gan](https://github.com/google/compare_gan) : Compare GAN code
+- [serving](https://github.com/tensorflow/serving) : A flexible, high-performance serving system for machine learning models https://www.tensorflow.org/serving
+- [Detectron.pytorch](https://github.com/roytseng-tw/Detectron.pytorch) : 
+A pytorch implementation of Detectron. Both training from scratch and inferring directly from pretrained Detectron weights are available.
+- [distiller](https://github.com/NervanaSystems/distiller) : Neural Network Distiller by Intel AI Lab: a Python package for neural network compression research. https://nervanasystems.github.io/distiller
+- [Improved_WGAN](https://github.com/bgavran/Improved_WGAN) : Implementation of the "Improved Training of Wasserstein GANs" paper in TensorFlow
+- [docker-tensorflow-builder](https://github.com/hadim/docker-tensorflow-builder) : Docker images to compile TensorFlow yourself.
+- [Attentive-Group-Recommendation](https://github.com/LianHaiMiao/Attentive-Group-Recommendation) : Atentive Group Recommendation
+- [mlens](https://github.com/flennerhag/mlens) : ML-Ensemble – high performance ensemble learning http://ml-ensemble.com
+- [relaax](https://github.com/deeplearninc/relaax) : Reinforcement Learning framework to facilitate development and use of scalable RL algorithms and applications
 
 
-
-other
+others
 
 - [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap): Roadmap to becoming a React developer in 2018
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : Algorithms and data structures implemented in JavaScript with explanations and links to further readings
@@ -40,6 +48,7 @@ other
 - [react-values](https://github.com/ianstormtaylor/react-values) : A set of tiny React components for handling state with render props.
 - [fathom](https://github.com/usefathom/fathom):Fathom. Simple, trustworthy website analytics. Built with Golang & Preact. https://usefathom.com/
 - [graphql-engine](https://github.com/hasura/graphql-engine) : Blazing fast, instant GraphQL APIs on Postgres with fine grained access control https://hasura.io
+- [storybook](https://github.com/storybooks/storybook)
 
 ----------------
 
