@@ -37,7 +37,7 @@ A pytorch implementation of Detectron. Both training from scratch and inferring 
 - [Attentive-Group-Recommendation](https://github.com/LianHaiMiao/Attentive-Group-Recommendation) : Atentive Group Recommendation
 - [mlens](https://github.com/flennerhag/mlens) : ML-Ensemble – high performance ensemble learning http://ml-ensemble.com
 - [relaax](https://github.com/deeplearninc/relaax) : Reinforcement Learning framework to facilitate development and use of scalable RL algorithms and applications
-
+- [QuantumKatas](https://github.com/Microsoft/QuantumKatas)
 
 others
 
@@ -49,6 +49,8 @@ others
 - [fathom](https://github.com/usefathom/fathom):Fathom. Simple, trustworthy website analytics. Built with Golang & Preact. https://usefathom.com/
 - [graphql-engine](https://github.com/hasura/graphql-engine) : Blazing fast, instant GraphQL APIs on Postgres with fine grained access control https://hasura.io
 - [storybook](https://github.com/storybooks/storybook)
+- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+
 
 ----------------
 
