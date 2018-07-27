@@ -4,7 +4,6 @@
 
 - [Github](#github)
 - [Research News](#research-news)
-- [github-trending](https://github.com/josephyzhou/github-trending)
 
 
 ----------------
@@ -39,6 +38,10 @@ A pytorch implementation of Detectron. Both training from scratch and inferring 
 - [relaax](https://github.com/deeplearninc/relaax) : Reinforcement Learning framework to facilitate development and use of scalable RL algorithms and applications
 - [QuantumKatas](https://github.com/Microsoft/QuantumKatas)
 - [tensorflow-without-a-phd](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd) : A crash course in six episodes for software developers who want to become machine learning practitioners.
+- [ML_Learning_In_Action](https://github.com/matrixgardener/ML_Learning_In_Action) : 
+ML study process record
+- [PyTorch-Deep-Learning-Minicourse](https://github.com/Atcold/PyTorch-Deep-Learning-Minicourse) : Minicourse in Deep Learning with PyTorch
+- [pytorch-book](https://github.com/chenyuntc/pytorch-book) : PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation
 
 others
 
