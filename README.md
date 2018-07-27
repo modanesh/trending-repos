@@ -38,6 +38,7 @@ A pytorch implementation of Detectron. Both training from scratch and inferring 
 - [mlens](https://github.com/flennerhag/mlens) : ML-Ensemble – high performance ensemble learning http://ml-ensemble.com
 - [relaax](https://github.com/deeplearninc/relaax) : Reinforcement Learning framework to facilitate development and use of scalable RL algorithms and applications
 - [QuantumKatas](https://github.com/Microsoft/QuantumKatas)
+- [tensorflow-without-a-phd](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd) : A crash course in six episodes for software developers who want to become machine learning practitioners.
 
 others
 
