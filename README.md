@@ -65,8 +65,8 @@ others
 
 - [Ways to think about machine learning](https://www.ben-evans.com/benedictevans/2018/06/22/ways-to-think-about-machine-learning-8nefy)
 - [Nvidia's AI to Power Daimler Robotaxi Fleet by 2020](https://www.thestreet.com/technology/nvidia-s-ai-topower-daimler-robotaxi-fleet-by-2020-14646825)
-- []()
-- []()
+- [Great Power, Great Responsibility: The 2018 Big Data & AI Landscape](http://mattturck.com/bigdata2018/)
+- [The Visual Python Debugger for Jupyter Notebooks You’ve Always Wanted](https://medium.com/ibm-watson-data-lab/the-visual-python-debugger-for-jupyter-notebooks-youve-always-wanted-761713babc62)
 - []()
 - []()
 - []()
