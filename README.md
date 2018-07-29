@@ -62,6 +62,20 @@ others
 ### Research News
 
 
+
+- [Ways to think about machine learning](https://www.ben-evans.com/benedictevans/2018/06/22/ways-to-think-about-machine-learning-8nefy)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+------------------
 - [OpenAI: AI Beats Amateur Human Dota 2 Players](https://blog.openai.com/openai-five/)
 - [IBM to release world’s largest annotation dataset for studying bias in facial analysis](https://www.ibm.com/blogs/research/2018/06/ai-facial-analytics/)
 - [Facebook Research at CVPR 2018](https://research.fb.com/facebook-research-at-cvpr-2018/)
