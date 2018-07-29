@@ -67,13 +67,15 @@ others
 - [Nvidia's AI to Power Daimler Robotaxi Fleet by 2020](https://www.thestreet.com/technology/nvidia-s-ai-topower-daimler-robotaxi-fleet-by-2020-14646825)
 - [Great Power, Great Responsibility: The 2018 Big Data & AI Landscape](http://mattturck.com/bigdata2018/)
 - [The Visual Python Debugger for Jupyter Notebooks You’ve Always Wanted](https://medium.com/ibm-watson-data-lab/the-visual-python-debugger-for-jupyter-notebooks-youve-always-wanted-761713babc62)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Create beautiful test-driven data visualisations with D3.js](https://www.heartinternet.uk/blog/create-beautiful-test-driven-data-visualisations-with-d3-js/)
+- [A Feature Selection Tool for Machine Learning in Python](https://towardsdatascience.com/a-feature-selection-tool-for-machine-learning-in-python-b64dd23710f0)
+- [Deep code search](https://blog.acolyer.org/2018/06/26/deep-code-search/)
+- [Understanding Latent Style](https://multithreaded.stitchfix.com/blog/2018/06/28/latent-style/)
+- [Netflix at Spark+AI Summit 2018](https://medium.com/netflix-techblog/netflix-at-spark-ai-summit-2018-5304749ed7fa)
+- [An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution](https://eng.uber.com/coordconv/)
+- [xkcd.com + Artificial Intelligence](https://towardsdatascience.com/xkcd-com-artificial-intelligence-a4cbf6303b1e)
+- [Microsoft Calls for AI Face Recognition Software Regulation](https://www.bloomberg.com/news/articles/2018-07-13/microsoft-calls-for-ai-face-recognition-software-regulation)
+
 
 ------------------
 - [OpenAI: AI Beats Amateur Human Dota 2 Players](https://blog.openai.com/openai-five/)
