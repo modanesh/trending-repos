@@ -64,7 +64,7 @@ others
 
 
 - [Ways to think about machine learning](https://www.ben-evans.com/benedictevans/2018/06/22/ways-to-think-about-machine-learning-8nefy)
-- []()
+- [Nvidia's AI to Power Daimler Robotaxi Fleet by 2020](https://www.thestreet.com/technology/nvidia-s-ai-topower-daimler-robotaxi-fleet-by-2020-14646825)
 - []()
 - []()
 - []()
