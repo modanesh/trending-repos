@@ -98,9 +98,20 @@ others
 
 7/27
 
-- []()
-- []()
-- []()
+- [Google's cloud team is building A.I. chips for web-connected devices](https://www.cnbc.com/2018/07/23/google-cloud-team-builds-ai-chips-for-internet-of-things-devices.html)
+- [How banking is adopting and using AI technology](https://www.idgconnect.com/abstract/31064/how-banking-adopting-ai-technology)
+- [How AI enables the cognitive supply chain](https://www.financialdirector.co.uk/2018/07/23/how-ai-enables-the-cognitive-supply-chain/)
+- [HBR: Most of AI’s Business Uses Will Be in Two Areas](https://hbr.org/2018/07/most-of-ais-business-uses-will-be-in-two-areas?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+harvardbusiness+%28HBR.org%29)
+- [blockchain-chatbots-and-ai-could-reinvent-corporate-finance](https://www.computerworld.com/article/3292539/financial-industry/blockchain-chatbots-and-ai-could-reinvent-corporate-finance.html)
+- [Opinion: Nvidia rides the next wave in artificial intelligence with Google](https://www.marketwatch.com/story/nvidia-rides-the-next-wave-in-artificial-intelligence-with-google-2018-07-24)
+- [Baidu and Ford China team up to bring AI and connectivity to the driving experience](https://techcrunch.com/2018/06/26/baidu-and-ford-china-team-up-to-bring-ai-and-connectivity-to-the-driving-experience/)
+- [DARPA wants AI to explain itself](https://www.v3.co.uk/v3-uk/news/3036354/darpa-wants-ai-to-explain-itself)
+- [Explained: Analytics and AI have the potential to deliver superior learning experience](https://www.financialexpress.com/industry/technology/explained-analytics-and-ai-have-the-potential-to-deliver-superior-learning-experience/1258546/)
+- [Centauro: A New Disaster Response Robot From IIT](https://spectrum.ieee.org/automaton/robotics/industrial-robots/centauro-a-new-disaster-response-robot-from-iit)
+- [Mind-Controlled Robotic Third Arm Gives New Meaning to “Multitasking”](https://spectrum.ieee.org/the-human-os/biomedical/bionics/mindcontrolled-robotic-third-arm-gives-new-meaning-to-multitasking)
+- [If only A.I. had a brain—engineers model an artificial synapse after the human brain](https://phys.org/news/2018-07-ai-brain.html)
+- [Why ethics must be at the heart of AI](https://www.itweb.co.za/content/GxwQD71AWme7lPVo)
+
 
 --------------
 
