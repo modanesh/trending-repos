@@ -96,6 +96,22 @@ others
 
 -------
 
+7/20
+
+- [PwC report finds AI could lead to net jobs gain by 2037](https://www.bbc.co.uk/news/uk-scotland-scotland-business-44849428)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+----------
+
 7/13
 
 - [China, France, the U.K. and the European Union all have articulated AI strategies](https://www.rcrwireless.com/20180711/policy/is-the-us-lagging-in-ai-leadership)
