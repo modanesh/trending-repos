@@ -96,19 +96,29 @@ others
 
 -------
 
+7/27
+
+- []()
+- []()
+- []()
+
+--------------
+
 7/20
 
 - [PwC report finds AI could lead to net jobs gain by 2037](https://www.bbc.co.uk/news/uk-scotland-scotland-business-44849428)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [AI And Machine Learning Will Transform Wealth Management](https://www.forbes.com/sites/moiravetter/2018/07/18/ai-and-machine-learning-will-transform-wealth-management/#415d853077de)
+- [On Your Marks: Business Leaders Prepare For Arms Race In Artificial Intelligence](https://www.forbes.com/sites/insights-intelai/2018/07/17/on-your-marks-business-leaders-prepare-for-arms-race-in-artificial-intelligence/)
+- [AI-the Next Breakthrough in Banking](https://www.cioreview.com/news/aithe-next-breakthrough-in-banking-nid-26772-cid-23.html)
+- [IBM Watson Health extends partnership with US to help vets with cancer](https://www.zdnet.com/article/ibm-watson-health-extends-partnership-with-us-to-help-vets-with-cancer/#ftag=RSSbaffb68)
+- [Google unveils Artificial Intelligence-aided ad tools](https://www.thehindubusinessline.com/news/google-unveils-artificial-intelligence-aided-ad-tools/article24436235.ece)
+- [Why Facebook is expanding its robotics research efforts](https://venturebeat.com/2018/07/17/why-facebook-is-expanding-its-robotics-research-efforts/)
+- [Microsoft and National Geographic team up on AI research grant](https://www.engadget.com/2018/07/16/microsoft-national-geographic-ai-environment-research-grant/)
+- [DARPA Wants Your Insect-Scale Robots for a Micro-Olympics](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/darpa-wants-your-insect-scale-robots-for-a-micro-olympics)
+- [Representatives from 150 tech companies sign pledge against 'killer robots'](https://www.zdnet.com/article/representatives-from-150-tech-companies-sign-pledge-against-killer-robots/#ftag=RSSbaffb68)
+- [Microsoft Calls for AI Face Recognition Software Regulation](https://www.bloomberg.com/news/articles/2018-07-13/microsoft-calls-for-ai-face-recognition-software-regulation)
+- [Augmented Reality Makes Robots Better Coworkers](https://spectrum.ieee.org/automaton/robotics/robotics-software/augmented-reality-makes-robots-better-coworkers)
+
 
 ----------
 
