@@ -105,6 +105,7 @@ others
 
 7/27
 
+[Back to top](#contents)
 
 - [Google's cloud team is building A.I. chips for web-connected devices](https://www.cnbc.com/2018/07/23/google-cloud-team-builds-ai-chips-for-internet-of-things-devices.html)
 - [How banking is adopting and using AI technology](https://www.idgconnect.com/abstract/31064/how-banking-adopting-ai-technology)
