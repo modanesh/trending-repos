@@ -170,6 +170,7 @@ Report on AI in the UK: Ready, Willing
 and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Intelligence/AI-Government-Response.pdf)
 - [AI applications that are human-centred, unbiased, fair](https://www.livemint.com/AI/5ixVrSb5hAn66jAloTt4cJ/AI-applications-that-are-humancentred-unbiased-fair.html)
 
+
 ---------
 
 ![Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final](http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png)
