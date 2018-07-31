@@ -47,6 +47,7 @@ ML study process record
 
 others
 
+
 - [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap): Roadmap to becoming a React developer in 2018
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) : The only Front-End Performance Checklist that runs faster than the others https://frontendchecklist.io(soon on)
