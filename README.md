@@ -1,6 +1,7 @@
 > Trending repos - update on every friday
 
 ----------------
+> #### Contents
 
 - [Github](#github)
 - [Research News](#research-news)
