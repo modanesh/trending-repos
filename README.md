@@ -126,6 +126,8 @@ others
 
 7/20
 
+[Back to top](#contents)
+
 - [PwC report finds AI could lead to net jobs gain by 2037](https://www.bbc.co.uk/news/uk-scotland-scotland-business-44849428)
 - [AI And Machine Learning Will Transform Wealth Management](https://www.forbes.com/sites/moiravetter/2018/07/18/ai-and-machine-learning-will-transform-wealth-management/#415d853077de)
 - [On Your Marks: Business Leaders Prepare For Arms Race In Artificial Intelligence](https://www.forbes.com/sites/insights-intelai/2018/07/17/on-your-marks-business-leaders-prepare-for-arms-race-in-artificial-intelligence/)
