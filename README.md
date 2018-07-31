@@ -51,6 +51,7 @@ ML study process record
 
 others
 
+[Back to top](#contents)
 
 - [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap): Roadmap to becoming a React developer in 2018
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : Algorithms and data structures implemented in JavaScript with explanations and links to further readings
