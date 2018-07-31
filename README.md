@@ -50,6 +50,8 @@ ML study process record
 - [PyTorch-Deep-Learning-Minicourse](https://github.com/Atcold/PyTorch-Deep-Learning-Minicourse) : Minicourse in Deep Learning with PyTorch
 - [pytorch-book](https://github.com/chenyuntc/pytorch-book) : PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation
 
+---------------
+
 others
 
 [Back to top](#contents)
