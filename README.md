@@ -165,6 +165,8 @@ others
 
 7/6
 
+[Back to top](#contents)
+
 - [UBS puts digital clone of chief investment officer in branch](https://www.finextra.com/newsarticle/32350/ubs-puts-digital-clone-of-chief-investment-officer-in-branch)
 - [AI will help, but may also kill people, say US doctors](https://internetofbusiness.com/healthcare-leaders-expect-ai-dominance-in-five-years-nervously/)
 - [SAP Survey Finds AI Divide Among Business Leaders](https://www.itbusinessedge.com/blogs/it-unmasked/sap-survey-finds-ai-divide-among-business-leaders.html)
