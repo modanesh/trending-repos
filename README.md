@@ -139,6 +139,7 @@ others
 
 7/13
 
+
 - [China, France, the U.K. and the European Union all have articulated AI strategies](https://www.rcrwireless.com/20180711/policy/is-the-us-lagging-in-ai-leadership)
 - [The three biggest AI challenges for businesses](https://it-online.co.za/2018/07/11/the-three-biggest-ai-challenges-for-businesses/)
 - [Your Raise Is Now Based on Next Year’s Performance](https://www.bloomberg.com/news/articles/2018-07-09/your-raise-is-now-based-on-next-year-s-performance)
