@@ -26,6 +26,7 @@ ml/dl
 
 
 - [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+- [easy-scraping-tutorial](https://github.com/MorvanZhou/easy-scraping-tutorial)
 
 
 -----------------------
