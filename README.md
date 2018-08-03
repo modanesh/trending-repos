@@ -144,7 +144,6 @@ others
 - [Getting started with conversational AI in the enterprise](https://www.itproportal.com/features/getting-started-with-conversational-ai-in-the-enterprise/)
 - [Big announcements from major players in collaborative robotics](https://www.zdnet.com/article/big-announcements-from-major-players-in-collaborative-robotics/)
 - [Most companies lack the infrastructure for artificial intelligence](https://www.zdnet.com/article/artificial-intelligence-requires-an-intelligent-it-strategy/#ftag=RSSbaffb68)
-- [Machine Learning And AI Will Disrupt All Careers According To Dell's Roese](https://www.forbes.com/sites/maribellopez/2018/08/02/machine-learning-and-ai-will-disrupt-all-careers-according-to-dells-roese/#2adbdc152960)
 - [Microsoft Launches Fifth Generation of Popular AI Xiaoice](https://www.microsoft.com/en-us/ard/news/newsinfo.aspx?newsid=article_20170911)
 - [Elon Musk says Tesla A.I. chip project is 'finally coming to fruition'](https://www.cnbc.com/2018/08/01/elon-musk-says-tesla-ai-chip-project-is-finally-coming-to-fruition.html)
 - [NetApp, Nvidia Intro New A.I. Architecture With Strong Cloud Tie](https://www.crn.com/news/data-center/300107371/netapp-nvidia-intro-new-a-i-architecture-with-strong-cloud-tie.htm)
