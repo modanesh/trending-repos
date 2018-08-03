@@ -137,6 +137,7 @@ others
 
 8/3
 
+- [Big Names Join Group Aiming To 'Responsibly Realise The Promise Of AI'](https://www.forbes.com/sites/samshead/2018/08/02/big-names-join-group-aiming-to-responsibly-realise-the-promise-of-ai/#6fe003892e14)
 - [Enterprises Wade Into the AI Pool](https://www.informationweek.com/enterprises-wade-into-the-ai-pool/d/d-id/1332434?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
 - [Why AI is The Next Revolution In Customer Service](https://www.entrepreneur.com/article/317735)
 - [Why the U.S. Could Fall Behind in the Global AI Race](http://fortune.com/2018/08/01/artificial-intelligence-race-united-states/)
@@ -147,19 +148,13 @@ others
 - [Machine Learning And AI Will Disrupt All Careers According To Dell's Roese](https://www.forbes.com/sites/maribellopez/2018/08/02/machine-learning-and-ai-will-disrupt-all-careers-according-to-dells-roese/#2adbdc152960)
 - [Microsoft Launches Fifth Generation of Popular AI Xiaoice](https://www.microsoft.com/en-us/ard/news/newsinfo.aspx?newsid=article_20170911)
 - [Elon Musk says Tesla A.I. chip project is 'finally coming to fruition'](https://www.cnbc.com/2018/08/01/elon-musk-says-tesla-ai-chip-project-is-finally-coming-to-fruition.html)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [NetApp, Nvidia Intro New A.I. Architecture With Strong Cloud Tie](https://www.crn.com/news/data-center/300107371/netapp-nvidia-intro-new-a-i-architecture-with-strong-cloud-tie.htm)
+- [We’re not even close to building a true Artificial Intelligence: Intel’s Naveen Rao](https://www.livemint.com/AI/79F1MOYQoWdWWRs4TBXbLM/Were-not-even-close-to-building-a-true-Artificial-Intellige.html)
+- [LG opens new AI lab with the University of Toronto](https://www.itworldcanada.com/article/lg-opens-new-ai-lab-with-the-university-of-toronto/407684)
+- [Google, Facebook Aim To Fix AI Diversity Issue By Funding African Machine Intelligence Course](https://www.forbes.com/sites/samshead/2018/08/01/google-facebook-aim-to-fix-ai-diversity-issue-by-funding-african-machine-intelligence-course/#5f9e986f2fe6)
+- [Mirantis & Fujitsu Building 4-Petaflop Supercomputer & Research Cloud in Japan](https://www.lightreading.com/enterprise-cloud/infrastructure-and-platform/mirantis-and-fujitsu-building-4-petaflop-supercomputer-and-research-cloud-in-japan/d/d-id/745095?_mc=RSS_LR_EDT)
+- [Recognizing and solving for AI bias](https://www.cio.com/article/3294216/artificial-intelligence/recognizing-and-solving-for-ai-bias.html)
+
 
 --------------
 
