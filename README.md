@@ -141,7 +141,6 @@ others
 
 - [Big Names Join Group Aiming To 'Responsibly Realise The Promise Of AI'](https://www.forbes.com/sites/samshead/2018/08/02/big-names-join-group-aiming-to-responsibly-realise-the-promise-of-ai/#6fe003892e14)
 - [Enterprises Wade Into the AI Pool](https://www.informationweek.com/enterprises-wade-into-the-ai-pool/d/d-id/1332434?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple)
-- [Why AI is The Next Revolution In Customer Service](https://www.entrepreneur.com/article/317735)
 - [Why the U.S. Could Fall Behind in the Global AI Race](http://fortune.com/2018/08/01/artificial-intelligence-race-united-states/)
 - [Getting started with conversational AI in the enterprise](https://www.itproportal.com/features/getting-started-with-conversational-ai-in-the-enterprise/)
 - [Big announcements from major players in collaborative robotics](https://www.zdnet.com/article/big-announcements-from-major-players-in-collaborative-robotics/)
