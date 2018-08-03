@@ -27,6 +27,18 @@ ml/dl
 
 - [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 - [easy-scraping-tutorial](https://github.com/MorvanZhou/easy-scraping-tutorial)
+- [nn4nlp-code](https://github.com/neubig/nn4nlp-code) : Code Samples from Neural Networks for NLP
+- [deepvoice3_pytorch](https://github.com/r9y9/deepvoice3_pytorch) : PyTorch implementation of convolutional neural networks-based text-to-speech synthesis models
+- [PeerRead](https://github.com/allenai/PeerRead) : Data and code for Kang et al., NAACL 2018's paper titled "A Dataset of Peer Reviews (PeerRead): Collection, Insights and NLP Applications"
+- [deep-voice-conversion](https://github.com/andabi/deep-voice-conversion) : Deep neural networks for voice conversion (voice style transfer) in Tensorflow
+- [mil](https://github.com/tianheyu927/mil) : Code for "One-Shot Visual Imitation Learning via Meta-Learning"
+- [missingno](https://github.com/ResidentMario/missingno) : Missing data visualization module for Python.
+- [deepmind/narrativeqa](https://github.com/deepmind/narrativeqa) : The NarrativeQA Reading Comprehension Challenge Dataset
+- [stat-nlp-book](https://github.com/uclmr/stat-nlp-book) : Interactive Lecture Notes, Slides and Exercises for Statistical NLP
+- [FinanceOps](https://github.com/Hvass-Labs/FinanceOps) : Research in investment finance with Python Notebooks
+- [NAF-tensorflow](https://github.com/carpedm20/NAF-tensorflow) : "Continuous Deep Q-Learning with Model-based Acceleration" in TensorFlow
+- [FC-DenseNet](https://github.com/SimJeg/FC-DenseNet) : Fully Convolutional DenseNets for semantic segmentation.
+
 
 
 -----------------------
