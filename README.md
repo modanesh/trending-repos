@@ -98,6 +98,24 @@ others
 
 ### Research News
 
+
+[Back to top](#contents)
+
+- [Lethal Autonomous Weapons Pledge](https://futureoflife.org/lethal-autonomous-weapons-pledge/?cn-reloaded=1)
+- [Machine Learning is Getting Closer to Replacing Animal Testing](https://qz.com/1326841/ai-is-getting-closer-to-replacing-animal-testing/)
+- [Google Ventures Uses an Algorithm as the First Evaluator in Their Deal Flow](https://www.axios.com/newsletters/axios-pro-rata-52e865b9-2169-4fae-821e-a84a0e98eaa0.html)
+- [TuSimple selects WekaIO for Their Self-Driving Stack](https://www.weka.io/press-releases/tusimple-selects-parallel-file-system-for-ai/)
+- [NIPS Conference Considers Changing Its Name](https://nips.cc/)
+- [Training and serving a realtime mobile object detector in 30 minutes with Cloud TPUs](https://medium.com/tensorflow/training-and-serving-a-realtime-mobile-object-detector-in-30-minutes-with-cloud-tpus-b78971cf1193)
+- [On “solving” Montezuma’s Revenge](https://medium.com/@awjuliani/on-solving-montezumas-revenge-2146d83f0bc3)
+- [SeedBank - A New Set of ML Learning Resources from Google](http://tools.google.com/seedbank/)
+- [How to Find Underrated People on Twitter with TURI (Twitter Underrated Index)](http://www.marknagelberg.com/how-to-find-underrated-people-on-twitter-with-turi-twitter-underrated-index/)
+- [It’s OK Not to Know](https://blog.usejournal.com/its-ok-not-to-know-85ee5288fd3)
+
+
+
+------------------
+
 [Back to top](#contents)
 
 - [Ways to think about machine learning](https://www.ben-evans.com/benedictevans/2018/06/22/ways-to-think-about-machine-learning-8nefy)
@@ -116,22 +134,10 @@ others
 
 ------------------
 
+
+
+
 [Back to top](#contents)
-
-- [Lethal Autonomous Weapons Pledge](https://futureoflife.org/lethal-autonomous-weapons-pledge/?cn-reloaded=1)
-- [Machine Learning is Getting Closer to Replacing Animal Testing](https://qz.com/1326841/ai-is-getting-closer-to-replacing-animal-testing/)
-- [Google Ventures Uses an Algorithm as the First Evaluator in Their Deal Flow](https://www.axios.com/newsletters/axios-pro-rata-52e865b9-2169-4fae-821e-a84a0e98eaa0.html)
-- [TuSimple selects WekaIO for Their Self-Driving Stack](https://www.weka.io/press-releases/tusimple-selects-parallel-file-system-for-ai/)
-- [NIPS Conference Considers Changing Its Name](https://nips.cc/)
-- [Training and serving a realtime mobile object detector in 30 minutes with Cloud TPUs](https://medium.com/tensorflow/training-and-serving-a-realtime-mobile-object-detector-in-30-minutes-with-cloud-tpus-b78971cf1193)
-- [On “solving” Montezuma’s Revenge](https://medium.com/@awjuliani/on-solving-montezumas-revenge-2146d83f0bc3)
-- [SeedBank - A New Set of ML Learning Resources from Google](http://tools.google.com/seedbank/)
-- [How to Find Underrated People on Twitter with TURI (Twitter Underrated Index)](http://www.marknagelberg.com/how-to-find-underrated-people-on-twitter-with-turi-twitter-underrated-index/)
-- [It’s OK Not to Know](https://blog.usejournal.com/its-ok-not-to-know-85ee5288fd3)
-- []()
-
-
-------------------
 
 - [OpenAI: AI Beats Amateur Human Dota 2 Players](https://blog.openai.com/openai-five/)
 - [IBM to release world’s largest annotation dataset for studying bias in facial analysis](https://www.ibm.com/blogs/research/2018/06/ai-facial-analytics/)
