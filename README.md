@@ -118,6 +118,21 @@ others
 
 [Back to top](#contents)
 
+- [Lethal Autonomous Weapons Pledge](https://futureoflife.org/lethal-autonomous-weapons-pledge/?cn-reloaded=1)
+- [Machine Learning is Getting Closer to Replacing Animal Testing](https://qz.com/1326841/ai-is-getting-closer-to-replacing-animal-testing/)
+- [Google Ventures Uses an Algorithm as the First Evaluator in Their Deal Flow](https://www.axios.com/newsletters/axios-pro-rata-52e865b9-2169-4fae-821e-a84a0e98eaa0.html)
+- [TuSimple selects WekaIO for Their Self-Driving Stack](https://www.weka.io/press-releases/tusimple-selects-parallel-file-system-for-ai/)
+- [NIPS Conference Considers Changing Its Name](https://nips.cc/)
+- [Training and serving a realtime mobile object detector in 30 minutes with Cloud TPUs](https://medium.com/tensorflow/training-and-serving-a-realtime-mobile-object-detector-in-30-minutes-with-cloud-tpus-b78971cf1193)
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
+------------------
+
 - [OpenAI: AI Beats Amateur Human Dota 2 Players](https://blog.openai.com/openai-five/)
 - [IBM to release world’s largest annotation dataset for studying bias in facial analysis](https://www.ibm.com/blogs/research/2018/06/ai-facial-analytics/)
 - [Facebook Research at CVPR 2018](https://research.fb.com/facebook-research-at-cvpr-2018/)
