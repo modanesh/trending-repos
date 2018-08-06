@@ -25,6 +25,9 @@ ml/dl
 [Back to top](#contents)
 
 
+- [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) : Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
+- [autokeras](https://github.com/jhfjhfj1/autokeras) : 
+This is an automated machine learning (AutoML) package. http://autokeras.com/
 - [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 - [easy-scraping-tutorial](https://github.com/MorvanZhou/easy-scraping-tutorial)
 - [nn4nlp-code](https://github.com/neubig/nn4nlp-code) : Code Samples from Neural Networks for NLP
