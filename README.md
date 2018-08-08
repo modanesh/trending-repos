@@ -94,7 +94,7 @@ others
 - [graphql-engine](https://github.com/hasura/graphql-engine) : Blazing fast, instant GraphQL APIs on Postgres with fine grained access control https://hasura.io
 - [storybook](https://github.com/storybooks/storybook)
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
-
+- [open-source-ideas](https://github.com/open-source-ideas/open-source-ideas)
 
 
 ----------------
