@@ -161,6 +161,28 @@ others
 
 -------
 
+8/10
+
+- [Intel's 3-point plan for coming out on top of the AI chip war](https://www.zdnet.com/article/intels-3-point-plan-for-coming-out-on-top-of-the-ai-chip-war/#ftag=RSSbaffb68)
+- [Why 71% of organizations will spend more on data in the next five years](https://www.techrepublic.com/article/why-71-of-organizations-will-spend-more-on-data-in-the-next-five-years/)
+- [How strong governance differentiates data lakes from swamps](https://www.healthdatamanagement.com/opinion/how-strong-governance-differentiates-data-lakes-from-swamps)
+- [Dell EMC Makes Case for Deploying AI Model On-Premises](https://www.itbusinessedge.com/blogs/it-unmasked/dell-emc-makes-case-for-deploying-ai-model-on-premises.html)
+- [ML.Net aims to provide machine learning for .Net developers](https://www.infoworld.com/article/3296040/machine-learning/mlnet-aims-to-provide-machine-learning-for-net-developers.html)
+- [SAP adds more industry focused AI to S/4 HANA Cloud](https://www.zdnet.com/article/sap-adds-more-industry-focused-ai-to-s4-hana-cloud/)
+- [AI: the fight Google Cloud can win](https://www.reseller.co.nz/article/644813/ai-fight-google-cloud-can-win/)
+- [Powering AI in the Enterprise](https://www.datacenterknowledge.com/industry-perspectives/powering-ai-enterprise)
+- [Robotics Solutions Using Deep Learning](https://www.forbes.com/sites/nvidia/2018/08/09/hassle-free-retail-solutions-with-deep-learning/#264829894ef1)
+- [UCI Health Opens Center for Artificial Intelligence, Deep Learning](https://healthitanalytics.com/news/uci-health-opens-center-for-artificial-intelligence-deep-learning)
+- [Indians contributing a lot to AI: Google Cloud’s chief scientist](https://economictimes.indiatimes.com/tech/internet/indians-contributing-a-lot-to-ai-google-clouds-chief-scientist/articleshow/65286738.cms)
+- [MIT: Artificial intelligence model “learns” from patient data to make cancer treatment less toxic](https://news.mit.edu/2018/artificial-intelligence-model-learns-patient-data-cancer-treatment-less-toxic-0810)
+- [AI process automation offers benefits, but challenges remain](https://searchenterpriseai.techtarget.com/feature/AI-process-automation-offers-benefits-but-challenges-remain)
+
+
+
+
+
+----------
+
 8/3
 
 
