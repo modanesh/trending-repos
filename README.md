@@ -173,6 +173,27 @@ others
 
 -------
 
+8/17
+
+- [Businesses Expect AI To Have A Positive Impact On Growth, Productivity, Innovation, Job Creation: The Economist - Microsoft Study](http://www.businessworld.in/article/Businesses-Expect-AI-To-Have-A-Positive-Impact-On-Growth-Productivity-Innovation-Job-Creation-The-Economist-Microsoft-Study/14-08-2018-157799/)
+- [GDPR hinders EU, pushes US and China ahead in AI race](https://techhq.com/2018/08/gdpr-hinders-eu-pushes-us-and-china-ahead-in-ai-race/)
+- [Intel Buys Deep-Learning Startup As AI Chip Sales Reach $1B](https://www.crn.com/news/components-peripherals/intel-buys-deep-learning-startup-as-ai-chip-sales-reach-1b?itc=refresh)
+- [Salesforce Open-Sourcing Machine Learning Software Behind Its 'Einstein' AI](https://www.lightreading.com/enterprise-cloud/machine-learning-and-ai/salesforce-open-sourcing-machine-learning-software-behind-its-einstein-ai/d/d-id/745459?_mc=RSS_LR_EDT)
+- [Google Applies AI to Recruitment, Call Centers & Recommendations](http://www.lightreading.com/enterprise-cloud/machine-learning-and-ai/google-applies-ai-to-recruitment-call-centers-and-recommendations-/d/d-id/745439?)
+- [Oracle open sources GraphPipe, a new standard for machine learning models](https://www.zdnet.com/article/oracle-open-sources-graphpipe-new-standard-for-machine-learning-models/#ftag=RSSbaffb68)
+- [Amazon wants to put AI, ML in hands of every developer, IT professionals: Navdeep Manaktala](https://www.livemint.com/AI/KM6oFrcD4gyCMezEr24ZpJ/Amazon-wants-to-put-AI-ML-in-hands-of-every-developer-IT-p.html)
+- []()
+- []()
+- []()
+- []()
+
+
+
+
+
+
+---------------
+
 8/10
 
 - [Intel's 3-point plan for coming out on top of the AI chip war](https://www.zdnet.com/article/intels-3-point-plan-for-coming-out-on-top-of-the-ai-chip-war/#ftag=RSSbaffb68)
