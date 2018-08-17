@@ -102,6 +102,18 @@ others
 
 ### Research News
 
+[Back to top](#contents)
+
+- [IBM code patterns](https://developer.ibm.com/code/patterns/)
+- [fast-style-transfer](https://github.com/lengstrom/fast-style-transfer)
+- [tensorflow-fcn](https://github.com/MarvinTeichmann/tensorflow-fcn)
+- [SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow)
+- [FastMaskRCNN](https://github.com/CharlesShang/FastMaskRCNN)
+- [reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
+- [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-iv/info)
+
+
+-----------------
 
 [Back to top](#contents)
 
