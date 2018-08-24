@@ -140,6 +140,10 @@ others
 - [Is AI The Great Equalizer For Small Law?](https://abovethelaw.com/2018/08/is-a-i-the-great-equalizer-for-small-law/)
 - [The Natural Language Decathlon](https://einstein.ai/research/the-natural-language-decathlon)
 - [Deepmind: Objects that Sound](https://deepmind.com/blog/objects-that-sound/)
+- [Is Your Organization's AI Data Being Used To Help Your Competitor?](https://www.forbes.com/sites/forbestechcouncil/2018/08/23/is-your-organizations-ai-data-being-used-to-help-your-competitor/#4407af336272)
+- [Google Trusts DeepMind AI To Manage Data Centre Cooling](https://www.forbes.com/sites/samshead/2018/08/18/google-trusts-deepmind-ai-to-manage-data-centre-cooling/#1dd895cc68bd)
+- [Uber wants to use AI to guide drivers through the onboarding process](https://venturebeat.com/2018/08/22/uber-wants-to-use-ai-to-guide-drivers-through-the-onboarding-process/)
+- [Flipkart acquires AI startup Liv.ai to start the ‘voice’ revolution ](https://economictimes.indiatimes.com/small-biz/startups/newsbuzz/flipkart-talks-to-liv-ai-to-take-on-the-likes-of-alexa/articleshow/65481769.cms)
 
 ----------------------
 
