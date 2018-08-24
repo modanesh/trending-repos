@@ -144,6 +144,11 @@ others
 - [Google Trusts DeepMind AI To Manage Data Centre Cooling](https://www.forbes.com/sites/samshead/2018/08/18/google-trusts-deepmind-ai-to-manage-data-centre-cooling/#1dd895cc68bd)
 - [Uber wants to use AI to guide drivers through the onboarding process](https://venturebeat.com/2018/08/22/uber-wants-to-use-ai-to-guide-drivers-through-the-onboarding-process/)
 - [Flipkart acquires AI startup Liv.ai to start the ‘voice’ revolution ](https://economictimes.indiatimes.com/small-biz/startups/newsbuzz/flipkart-talks-to-liv-ai-to-take-on-the-likes-of-alexa/articleshow/65481769.cms)
+- [Robotics-as-a-service is on the way and inVia Robotics is leading the charge](https://techcrunch.com/2018/08/19/robotics-as-a-service-is-on-the-way-and-invia-robotics-is-leading-the-charge/)
+- [‘At Google, we list AI projects we don’t do’](https://www.thehindu.com/sci-tech/technology/at-google-we-list-ai-projects-we-dont-do/article24732051.ece)
+- [Amazon expands its Alexa Fund Fellowship to a total of 18 universities, up from 4 last year](https://techcrunch.com/2018/08/22/amazon-expands-its-alexa-fund-fellowship-to-a-total-of-18-universities-up-from-4-last-year/)
+- [AI for Good competition launched](http://www.digitaljournal.com/business/ai-for-good-competition-launched/article/529951)
+
 
 ----------------------
 
