@@ -107,6 +107,11 @@ others
 
 [Back to top](#contents)
 
+
+- [Supervised Learning cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning.html)
+- [Deep Learning cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning.html)
+- [Unsupervised Learning cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning.html)
+- [Machine Learning tips and tricks cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks.html)
 - [IBM code patterns](https://developer.ibm.com/code/patterns/)
 - [fast-style-transfer](https://github.com/lengstrom/fast-style-transfer)
 - [tensorflow-fcn](https://github.com/MarvinTeichmann/tensorflow-fcn)
