@@ -124,6 +124,8 @@ others
 -----------------
 [Back to top](#contents)
 
+8/24
+
 - [How to Prepare for a Machine Learning Interview](https://semanti.ca/blog/?how-to-prepare-for-a-machine-learning-interview)
 - [Feature-wise transformations](https://distill.pub/2018/feature-wise-transformations/)
 - [TPU’s Start Entering Consumer Market ](https://www.cnet.com/news/google-to-let-you-pop-its-ai-chips-into-your-own-computer-as-of-october/)
