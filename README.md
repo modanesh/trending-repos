@@ -122,6 +122,24 @@ others
 
 
 -----------------
+[Back to top](#contents)
+
+- [How to Prepare for a Machine Learning Interview](https://semanti.ca/blog/?how-to-prepare-for-a-machine-learning-interview)
+- [Feature-wise transformations](https://distill.pub/2018/feature-wise-transformations/)
+- [TPU’s Start Entering Consumer Market ](https://www.cnet.com/news/google-to-let-you-pop-its-ai-chips-into-your-own-computer-as-of-october/)
+- [Learning Math for Machine Learning](https://blog.ycombinator.com/learning-math-for-machine-learning/)
+- [FOUNDATIONS OF MACHINE LEARNING](https://bloomberg.github.io/foml/#home)
+- [Taxonomy of Time Series Forecasting Problems](https://machinelearningmastery.com/taxonomy-of-time-series-forecasting-problems/)
+- [The intuition behind Expectation Maximisation](http://ajcr.net//em-explanation/)
+- [New Dynamics for Topic Models](https://blog.fastforwardlabs.com/2018/07/31/new-dynamics-for-topic-models.html)
+- [google-china-search-engine-censorship](https://theintercept.com/2018/08/01/google-china-search-engine-censorship/)
+- [The Defense Department has produced the first tools for catching deepfakes](https://www.technologyreview.com/s/611726/the-defense-department-has-produced-the-first-tools-for-catching-deepfakes/)
+- [Uber’s self-driving trucks division is dead, long live Uber self-driving cars](https://techcrunch.com/2018/07/30/ubers-self-driving-trucks-division-is-dead-long-live-uber-self-driving-cars/)
+- [Is AI The Great Equalizer For Small Law?](https://abovethelaw.com/2018/08/is-a-i-the-great-equalizer-for-small-law/)
+- [The Natural Language Decathlon](https://einstein.ai/research/the-natural-language-decathlon)
+- [Deepmind: Objects that Sound](https://deepmind.com/blog/objects-that-sound/)
+
+----------------------
 
 [Back to top](#contents)
 
