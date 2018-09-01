@@ -101,6 +101,7 @@ others
 - [open-source-ideas](https://github.com/open-source-ideas/open-source-ideas)
 - [data-science-question-answer](https://github.com/ShuaiW/data-science-question-answer)
 - [nodebestpractices](https://github.com/i0natan/nodebestpractices)
+- [learn-python](https://github.com/trekhleb/learn-python)
 
 ----------------
 
