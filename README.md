@@ -87,6 +87,7 @@ others
 
 [Back to top](#contents)
 
+- [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills)
 - [PacktPublishing](https://github.com/PacktPublishing)
 - [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap): Roadmap to becoming a React developer in 2018
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : Algorithms and data structures implemented in JavaScript with explanations and links to further readings
@@ -99,6 +100,7 @@ others
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [open-source-ideas](https://github.com/open-source-ideas/open-source-ideas)
 - [data-science-question-answer](https://github.com/ShuaiW/data-science-question-answer)
+- [nodebestpractices](https://github.com/i0natan/nodebestpractices)
 
 ----------------
 
