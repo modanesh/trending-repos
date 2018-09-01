@@ -25,6 +25,7 @@ ml/dl
 [Back to top](#contents)
 
 
+- [deepbayes-2018](https://github.com/bayesgroup/deepbayes-2018)
 - [Advanced-Deep-Learning-with-Keras](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras)
 - [salesforce/TransmogrifAI](https://github.com/salesforce/TransmogrifAI)
 - [License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9](https://github.com/zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9) : Works in real-time with detection and recognition accuracy up to 99.8% for Chinese license plates: 100 ms/plate
