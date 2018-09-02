@@ -45,7 +45,7 @@ This is an automated machine learning (AutoML) package. http://autokeras.com/
 - [FinanceOps](https://github.com/Hvass-Labs/FinanceOps) : Research in investment finance with Python Notebooks
 - [NAF-tensorflow](https://github.com/carpedm20/NAF-tensorflow) : "Continuous Deep Q-Learning with Model-based Acceleration" in TensorFlow
 - [FC-DenseNet](https://github.com/SimJeg/FC-DenseNet) : Fully Convolutional DenseNets for semantic segmentation.
-
+- [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 
 -----------------------
