@@ -25,6 +25,7 @@ ml/dl
 [Back to top](#contents)
 
 
+- [Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning)
 - [deepbayes-2018](https://github.com/bayesgroup/deepbayes-2018)
 - [Advanced-Deep-Learning-with-Keras](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras)
 - [salesforce/TransmogrifAI](https://github.com/salesforce/TransmogrifAI)
