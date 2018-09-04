@@ -129,6 +129,20 @@ others
 -----------------
 [Back to top](#contents)
 
+8/31
+
+- [Google: Introducing a New Framework for Flexible and Reproducible Reinforcement Learning Research](https://ai.googleblog.com/2018/08/introducing-new-framework-for-flexible.html)
+- [Healthcare Artificial Intelligence Market to Top $34B by 2025](https://healthitanalytics.com/news/healthcare-artificial-intelligence-market-to-top-34b-by-2025)
+- [A Deep Dive Into Data Lakes](https://datacenterfrontier.com/a-deep-dive-into-data-lakes/)
+- [Not Just Data Privacy, Policymakers Now Need To Address AI In Trade And Liability As Well](https://www.analyticsindiamag.com/not-just-data-privacy-policymakers-now-need-to-address-ai-in-trade-and-liability-as-well/)
+- [Eliminating Performance Bottlenecks on Web-Based AI](https://www.informationweek.com/cloud/eliminating-performance-bottlenecks-on-web-based-ai/a/d-id/1332651)
+- [Microsoft Azure, the cloud for high performance computing](https://azure.microsoft.com/en-us/blog/microsoft-azure-the-cloud-for-high-performance-computing/)
+- [JP Morgan just hired a top Google executive in a big bet on artificial intelligence](https://www.cnbc.com/2018/08/28/jp-morgan-hired-a-top-google-executive-for-wall-streets-hottest-area.html)
+- [Informatica Introduces Product Innovations to Transform Customer Experience with Intelligent Hybrid Data Management](https://www.martechadvisor.com/news/customer-experience-2/informatica-introduces-product-innovations-to-transform-customer-experience-with-intelligent-hybrid-data-management/)
+- [HKU And Microsoft Team Up For AI Research](https://www.asianscientist.com/2018/08/academia/hku-microsoft-artificial-intelligence/)
+
+-------------
+
 8/24
 
 - [How to Prepare for a Machine Learning Interview](https://semanti.ca/blog/?how-to-prepare-for-a-machine-learning-interview)
