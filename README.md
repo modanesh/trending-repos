@@ -25,6 +25,7 @@ ml/dl
 [Back to top](#contents)
 
 
+- [60_Days_RL_Challenge](https://github.com/andri27-ts/60_Days_RL_Challenge)
 - [Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning)
 - [deepbayes-2018](https://github.com/bayesgroup/deepbayes-2018)
 - [Advanced-Deep-Learning-with-Keras](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras)
@@ -104,6 +105,7 @@ others
 - [data-science-question-answer](https://github.com/ShuaiW/data-science-question-answer)
 - [nodebestpractices](https://github.com/i0natan/nodebestpractices)
 - [learn-python](https://github.com/trekhleb/learn-python)
+- [awesome-reactnative-ui](https://github.com/madhavanmalolan/awesome-reactnative-ui)
 
 ----------------
 
