@@ -133,6 +133,8 @@ others
 
 9/7
 
+- [Berkeley Lab, Intel, Cray harness power of deep learning to study the universe](https://www.eurekalert.org/pub_releases/2018-09/dbnl-bli090518.php)
+- [facebook: Phrase-Based & Neural Unsupervised Machine Translation]()
 - [Salesforce announces Einstein-powered AI features for Pardot and High Velocity Sales](https://venturebeat.com/2018/09/06/salesforce-announces-ai-features-for-pardot-and-high-velocity-sales-powered-by-einstein/)
 - [RPA in Manufacturing: Optimization Beyond Outsourcing](https://www.manufacturing.net/article/2018/09/rpa-manufacturing-optimization-beyond-outsourcing)
 - [The AI, machine learning, and data science conundrum: Who will manage the algorithms?](https://www.zdnet.com/article/the-ai-machine-learning-and-data-science-conundrum-who-will-manage-the-algorithms/)
@@ -142,13 +144,10 @@ others
 - [Baidu launches EZDL, an AI model training platform that requires no coding experience](https://venturebeat.com/2018/09/01/baidu-launches-ezdl-an-ai-model-training-platform-that-requires-no-coding-experience/)
 - [Lockheed Martin teams up with drone racers to add AI](https://techcrunch.com/2018/09/05/lockheed-martin-teams-up-with-drone-racers-to-add-ai/)
 - [TIBCO reveals data and AI enhancements at TIBCO NOW 2018](https://sdtimes.com/data/tibco-reveals-data-and-ai-enhancements-at-tibco-now-2018/)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Google’s Launchpad Studio introduces class of financial AI startups](https://venturebeat.com/2018/09/05/googles-launchpad-studio-introduces-class-of-financial-ai-startups/)
+- [Kinta AI uses artificial intelligence to make factories more efficient](https://techcrunch.com/2018/09/06/kinta-ai-startup-battlefield/)
+- [IBM “AgroPad” Prototype Can Test Water, Soil Quality using Smartphone](https://www.cbronline.com/news/ibm-agropad-prototype)
+
 
 ----------
 
