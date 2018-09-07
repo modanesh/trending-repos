@@ -131,6 +131,27 @@ others
 -----------------
 [Back to top](#contents)
 
+9/7
+
+- [Salesforce announces Einstein-powered AI features for Pardot and High Velocity Sales](https://venturebeat.com/2018/09/06/salesforce-announces-ai-features-for-pardot-and-high-velocity-sales-powered-by-einstein/)
+- [RPA in Manufacturing: Optimization Beyond Outsourcing](https://www.manufacturing.net/article/2018/09/rpa-manufacturing-optimization-beyond-outsourcing)
+- [The AI, machine learning, and data science conundrum: Who will manage the algorithms?](https://www.zdnet.com/article/the-ai-machine-learning-and-data-science-conundrum-who-will-manage-the-algorithms/)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+----------
+
 8/31
 
 - [Google: Introducing a New Framework for Flexible and Reproducible Reinforcement Learning Research](https://ai.googleblog.com/2018/08/introducing-new-framework-for-flexible.html)
@@ -144,6 +165,7 @@ others
 - [HKU And Microsoft Team Up For AI Research](https://www.asianscientist.com/2018/08/academia/hku-microsoft-artificial-intelligence/)
 
 -------------
+
 
 8/24
 
