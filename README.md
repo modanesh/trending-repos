@@ -25,6 +25,7 @@ ml/dl
 [Back to top](#contents)
 
 
+- [coursera-natural-language-processing](https://github.com/hse-aml/natural-language-processing)
 - [60_Days_RL_Challenge](https://github.com/andri27-ts/60_Days_RL_Challenge)
 - [Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning)
 - [deepbayes-2018](https://github.com/bayesgroup/deepbayes-2018)
