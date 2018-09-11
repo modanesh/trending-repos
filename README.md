@@ -24,6 +24,9 @@ ml/dl
 
 [Back to top](#contents)
 
+
+- [long-term-video-prediction-without-supervision](https://github.com/brain-research/long-term-video-prediction-without-supervision)
+- [Microsoft/ailab](https://github.com/Microsoft/ailab)
 - [Hands-on Intelligent Agents with OpenAI Gym (HOIAWOG)](https://github.com/PacktPublishing/Hands-On-Intelligent-Agents-with-OpenAI-Gym)
 - [pipeline](https://github.com/PipelineAI/pipeline) : PipelineAI: Real-Time Enterprise AI Platform https://pipeline.ai
 - [coursera-natural-language-processing](https://github.com/hse-aml/natural-language-processing)
