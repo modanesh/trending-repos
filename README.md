@@ -24,6 +24,7 @@ ml/dl
 
 [Back to top](#contents)
 
+- [Hands-on Intelligent Agents with OpenAI Gym (HOIAWOG)](https://github.com/PacktPublishing/Hands-On-Intelligent-Agents-with-OpenAI-Gym)
 - [pipeline](https://github.com/PipelineAI/pipeline) : PipelineAI: Real-Time Enterprise AI Platform https://pipeline.ai
 - [coursera-natural-language-processing](https://github.com/hse-aml/natural-language-processing)
 - [60_Days_RL_Challenge](https://github.com/andri27-ts/60_Days_RL_Challenge)
