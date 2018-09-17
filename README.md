@@ -25,6 +25,7 @@ ml/dl
 [Back to top](#contents)
 
 
+- [nlp.js](https://github.com/axa-group/nlp.js)
 - [long-term-video-prediction-without-supervision](https://github.com/brain-research/long-term-video-prediction-without-supervision)
 - [Microsoft/ailab](https://github.com/Microsoft/ailab)
 - [Hands-on Intelligent Agents with OpenAI Gym (HOIAWOG)](https://github.com/PacktPublishing/Hands-On-Intelligent-Agents-with-OpenAI-Gym)
@@ -111,6 +112,12 @@ others
 - [nodebestpractices](https://github.com/i0natan/nodebestpractices)
 - [learn-python](https://github.com/trekhleb/learn-python)
 - [awesome-reactnative-ui](https://github.com/madhavanmalolan/awesome-reactnative-ui)
+- [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade)
+- [Python](https://github.com/TheAlgorithms/Python)
+- [free-for-dev](https://github.com/ripienaar/free-for-dev)
+
+
+
 
 ----------------
 
