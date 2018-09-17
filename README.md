@@ -134,6 +134,39 @@ others
 
 
 -----------------
+
+[Back to top](#contents)
+
+9/14
+
+- [Intel, Marvell, Qualcomm, and others will support Facebook’s Glow compiler](https://venturebeat.com/2018/09/13/intel-marvell-qualcomm-and-others-will-support-facebooks-glow-compiler/)
+- [Google’s What-If Tool for TensorBoard helps users visualize AI bias](https://venturebeat.com/2018/09/11/googles-what-if-tool-for-tensorboard-lets-users-visualize-ai-bias/)
+- [China's DeepBlue Technology, Luxembourg LHoFT set up joint AI labs](http://www.xinhuanet.com/english/2018-09/13/c_137465810.htm)
+- [AI-based research toward autonomous robots and drones](https://phys.org/news/2018-09-ai-based-autonomous-robots-drones.html)
+- [Microsoft, SRL come together to expand AI network to pathology](https://www.moneycontrol.com/news/business/markets/titan-shares-fall-on-report-of-possible-hike-in-import-duty-on-gold-2956361.html)
+- [15 healthcare startups join forces to create AI research platform](https://www.v3.co.uk/v3-uk/news/3062726/15-ai-healthcare-startips-join-forces-to-create-ai-research-platform)
+- [A new platform for research and industry collaborations in artificial intelligence](https://www.eurekalert.org/pub_releases/2018-09/imi-anp091218.php)
+- [Deepmind: The promising role of AI in helping plan treatment for patients with head and neck cancers](https://deepmind.com/blog/ai-uclh-radiotherapy-planning/)
+- [DARPA Plans To Spend $2 Billion Developing New AI Technologies](https://www.forbes.com/sites/samshead/2018/09/07/darpa-plans-to-spend-2-billion-developing-new-ai-technologies/#d9f1cb43ae10)
+- [Samsung opens robotics-focused AI research hub in New York City](https://venturebeat.com/2018/09/10/samsung-opens-robotics-focused-ai-research-hub-in-new-york-city/)
+- [IBM and IIT Bombay team up to accelerate AI research in India](https://www.dnaindia.com/technology/report-ibm-and-iit-bombay-team-up-to-accelerate-ai-research-in-india-2662277)
+- [Nvidia unveils Tesla T4 chip for faster AI inference in datacenters](https://venturebeat.com/2018/09/12/nvidia-unveils-tesla-t4-chip-for-faster-ai-inference-in-datacenters/)
+- [Cisco launches UCS system for AI, machine learning, deep learning](https://www.zdnet.com/article/cisco-launches-ucs-system-for-ai-machine-learning-deep-learning/)
+- [Artificial Solutions puts customer privacy first with Teneo, a conversational AI platform](https://venturebeat.com/2018/09/10/artificial-solutions-puts-customer-privacy-first-with-teneo-a-conversational-ai-platform/)
+- [Adobe brings new voice analytics capabilities to Experience Cloud](https://www.zdnet.com/article/adobe-brings-new-voice-analytics-capabilities-to-experience-cloud/)
+- [Google Cloud hires CMU Dean Andrew Moore as next AI chief](https://www.zdnet.com/article/google-cloud-hires-cmu-dean-andrew-moore-as-next-ai-chief/)
+- [RPA: Blue Prism partners with Celonis on process automation, transformation](https://internetofbusiness.com/rpa-blue-prism-partners-with-celonis-on-process-transformation/)
+- [Microsoft buys AI startup Lobe](https://www.zdnet.com/article/microsoft-buys-ai-startup-lobe/)
+- [AI Is a Powerful Ally in Public Safety - Responsible Use Is Paramount](https://www.informationweek.com/big-data/ai-machine-learning/ai-is-a-powerful-ally-in-public-safety---responsible-use-is-paramount/a/d-id/1332802)
+- [THE NEXT PHASE OF MACHINE LEARNING: MLAAS](https://www.bbntimes.com/en/technology/the-next-phase-of-machine-learning-mlaas)
+- [Forrester claims SAS first truly multimodal predictive analytics and machine-learning platform](https://www.itwire.com/data/84382-forrester-sas-is-the-first-truly-multimodal-predictive-analytics-and-machine-learning-platform.html)
+- [McKinsey:'s : AI will create $13 trillion in value by 2030](https://www.zdnet.com/article/mckinsey-ai-will-create-13-trillion-in-value-by-2013/)
+- [McKinsey:Notes from the frontier: Modeling the impact of AI on the world economy](https://www.mckinsey.com/featured-insights/artificial-intelligence/notes-from-the-frontier-modeling-the-impact-of-ai-on-the-world-economy)
+- [Artificial Intelligence for Small and Medium Sized Businesses](https://www.pcquest.com/artificial-intelligence-small-medium-sized-businesses/)
+- [Leaders adopt AI for business benefits, not just to automate jobs away, research says](https://www.techrepublic.com/article/leaders-adopt-ai-for-business-benefits-not-just-to-automate-jobs-away-research-says/)
+
+-------------------
+
 [Back to top](#contents)
 
 9/7
