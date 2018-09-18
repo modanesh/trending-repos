@@ -24,7 +24,7 @@ ml/dl
 
 [Back to top](#contents)
 
-
+- [hindi2vec](https://github.com/NirantK/hindi2vec) : State-of-the-Art Language Modeling and Text Classification in Hindi Language http://nirantk.com/hindi2vec
 - [nlp.js](https://github.com/axa-group/nlp.js)
 - [long-term-video-prediction-without-supervision](https://github.com/brain-research/long-term-video-prediction-without-supervision)
 - [Microsoft/ailab](https://github.com/Microsoft/ailab)
