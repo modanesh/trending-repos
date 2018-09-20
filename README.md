@@ -24,6 +24,14 @@ ml/dl
 
 [Back to top](#contents)
 
+- [video-nonlocal-net](https://github.com/facebookresearch/video-nonlocal-net)
+- [Meetups-Data-AI-DFW](https://github.com/pablomarin/Meetups-Data-AI-DFW) : Content for Meetups for DATA & AI - Microsoft DFW
+- [cortana-intelligence-customer360](https://github.com/Azure/cortana-intelligence-customer360)
+- [deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection)
+- []()
+- []()
+- []()
+- []()
 - [hindi2vec](https://github.com/NirantK/hindi2vec) : State-of-the-Art Language Modeling and Text Classification in Hindi Language http://nirantk.com/hindi2vec
 - [nlp.js](https://github.com/axa-group/nlp.js)
 - [long-term-video-prediction-without-supervision](https://github.com/brain-research/long-term-video-prediction-without-supervision)
