@@ -33,6 +33,10 @@ ml/dl
 - [MLInterview](https://github.com/theainerd/MLInterview)
 - [gym-maze](https://github.com/zuoxingdong/gym-maze)
 - [twine](https://github.com/pypa/twine) : Utilities for interacting with PyPI
+- [icrosoftLearning/Research-Methods-for-Data-Science-with-Python](https://github.com/MicrosoftLearning/Research-Methods-for-Data-Science-with-Python)
+- [r-server-fraud-detection](https://github.com/Microsoft/r-server-fraud-detection)
+- []()
+- []()
 - []()
 - []()
 - []()
