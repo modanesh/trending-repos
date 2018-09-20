@@ -33,13 +33,8 @@ ml/dl
 - [MLInterview](https://github.com/theainerd/MLInterview)
 - [gym-maze](https://github.com/zuoxingdong/gym-maze)
 - [twine](https://github.com/pypa/twine) : Utilities for interacting with PyPI
-- [icrosoftLearning/Research-Methods-for-Data-Science-with-Python](https://github.com/MicrosoftLearning/Research-Methods-for-Data-Science-with-Python)
+- [microsoftLearning/Research-Methods-for-Data-Science-with-Python](https://github.com/MicrosoftLearning/Research-Methods-for-Data-Science-with-Python)
 - [r-server-fraud-detection](https://github.com/Microsoft/r-server-fraud-detection)
-- []()
-- []()
-- []()
-- []()
-- []()
 - [hindi2vec](https://github.com/NirantK/hindi2vec) : State-of-the-Art Language Modeling and Text Classification in Hindi Language http://nirantk.com/hindi2vec
 - [nlp.js](https://github.com/axa-group/nlp.js)
 - [long-term-video-prediction-without-supervision](https://github.com/brain-research/long-term-video-prediction-without-supervision)
