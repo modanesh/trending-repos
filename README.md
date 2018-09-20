@@ -139,6 +139,28 @@ others
 - [reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
 - [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-iv/info)
 
+--------------
+
+- [The definitive Node.js handbook](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
+- [How to use Dataset in TensorFlow](https://towardsdatascience.com/how-to-use-dataset-in-tensorflow-c758ef9e4428)
+- [distill](https://distill.pub/)
+- [TensorFlow Estimators: Managing Simplicity vs. Flexibility in
+High-Level Machine Learning Frameworks
+](https://terrytangyuan.github.io/data/papers/tf-estimators-kdd-paper.pdf)
+- [Launch a GPU-backed Google Compute Engine instance and setup Tensorflow, Keras and Jupyter](https://hackernoon.com/launch-a-gpu-backed-google-compute-engine-instance-and-setup-tensorflow-keras-and-jupyter-902369ed5272)
+- [Move Mirror: An AI Experiment with Pose Estimation in the Browser using TensorFlow.js](https://medium.com/tensorflow/move-mirror-an-ai-experiment-with-pose-estimation-in-the-browser-using-tensorflow-js-2f7b769f9b23)
+- [How to deploy an Object Detection Model with TensorFlow serving](https://medium.freecodecamp.org/how-to-deploy-an-object-detection-model-with-tensorflow-serving-d6436e65d1d9)
+- [Creating REST API for TensorFlow models](https://becominghuman.ai/creating-restful-api-to-tensorflow-models-c5c57b692c10)
+- [How to deploy Machine Learning models with TensorFlow. Part 2— containerize it!](https://towardsdatascience.com/how-to-deploy-machine-learning-models-with-tensorflow-part-2-containerize-it-db0ad7ca35a7)
+- [Installing Tensorflow GPU on Ubuntu 18.04 LTS](https://medium.com/@taylordenouden/installing-tensorflow-gpu-on-ubuntu-18-04-89a142325138)
+- [Integrating TensorFlow Model in an iOS App](https://hackernoon.com/integrating-tensorflow-model-in-an-ios-app-cecf30b9068d)
+- [Introducing TensorFlow Model Analysis: Scaleable, Sliced, and Full-Pass Metrics](https://medium.com/tensorflow/introducing-tensorflow-model-analysis-scaleable-sliced-and-full-pass-metrics-5cde7baf0b7b)
+- [Going deep into object detection](https://towardsdatascience.com/going-deep-into-object-detection-bed442d92b34)
+- [PyTorch tutorial distilled](https://towardsdatascience.com/pytorch-tutorial-distilled-95ce8781a89c)
+- [Understanding emotions — from Keras to pyTorch](https://medium.com/huggingface/understanding-emotions-from-keras-to-pytorch-3ccb61d5a983)
+- [Getting Started with PyTorch Part 1: Understanding how Automatic Differentiation works](https://towardsdatascience.com/getting-started-with-pytorch-part-1-understanding-how-automatic-differentiation-works-5008282073ec)
+- [Taming LSTMs: Variable-sized mini-batches and why PyTorch is good for your health](https://towardsdatascience.com/taming-lstms-variable-sized-mini-batches-and-why-pytorch-is-good-for-your-health-61d35642972e)
+- [Tutorial on implementing YOLO v3 from scratch in PyTorch: Part 1](https://medium.com/paperspace/tutorial-on-implementing-yolo-v3-from-scratch-in-pytorch-part-1-a0054d38ec78)
 
 -----------------
 
