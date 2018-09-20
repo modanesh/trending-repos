@@ -28,6 +28,10 @@ ml/dl
 - [Meetups-Data-AI-DFW](https://github.com/pablomarin/Meetups-Data-AI-DFW) : Content for Meetups for DATA & AI - Microsoft DFW
 - [cortana-intelligence-customer360](https://github.com/Azure/cortana-intelligence-customer360)
 - [deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection)
+- [pytorch-summary](https://github.com/sksq96/pytorch-summary)
+- [model-analysis](https://github.com/tensorflow/model-analysis)
+- []()
+- []()
 - []()
 - []()
 - []()
