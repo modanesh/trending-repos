@@ -30,9 +30,9 @@ ml/dl
 - [deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection)
 - [pytorch-summary](https://github.com/sksq96/pytorch-summary)
 - [model-analysis](https://github.com/tensorflow/model-analysis)
-- []()
-- []()
-- []()
+- [MLInterview](https://github.com/theainerd/MLInterview)
+- [gym-maze](https://github.com/zuoxingdong/gym-maze)
+- [twine](https://github.com/pypa/twine) : Utilities for interacting with PyPI
 - []()
 - []()
 - []()
