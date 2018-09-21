@@ -264,6 +264,31 @@ High-Level Machine Learning Frameworks
 
 -----------------
 
+9/21
+
+- [Facebook expanding its Montreal AI lab to double the number of researchers](https://business.financialpost.com/technology/facebook-expanding-its-montreal-ai-lab-to-quadruple-the-number-of-researchers)
+- [Tools Tackle AI's Bias, Trust Problem](https://www.informationweek.com/big-data/ai-machine-learning/tools-tackle-ais-bias-trust-problem/d/d-id/1332854)
+- [U.S. tech giants eye AI key to unlock China push](https://www.reuters.com/article/us-china-ai/u-s-tech-giants-eye-ai-key-to-unlock-china-push-idUSKCN1LY1LJ)
+- [Chinese firms are aggressive investors in AI and show a ‘thirst for talent’, says MIT-BCG report](https://www.scmp.com/tech/article/2164510/chinese-firms-are-aggressive-investors-ai-and-show-thirst-talent-says-mit-bcg?utm_source=googlenewsstand_web&utm_medium=referral&utm_content=20180919&utm_campaign=off_platform)
+- [Microsoft launches new AI applications for customer service and sales](https://techcrunch.com/2018/09/18/microsoft-launches-new-ai-applications-for-customer-service-and-sales/)
+- [Microsoft’s ML.Net framework adds TensorFlow scoring](https://www.infoworld.com/article/3306201/machine-learning/microsofts-mlnet-framework-adds-tensorflow-scoring.html#tk.rss_all)
+- [Greenhouse integrates IBM Watson Talent’s AI-powered recruitment features](https://venturebeat.com/2018/09/17/greenhouse-integrates-ibm-watson-talents-ai-powered-recruitment-features/)
+- [Google launches new AI initiatives in Japan](https://techcrunch.com/2018/09/18/google-launches-new-ai-initiatives-in-japan/)
+- [Neo4j tunes its graph engine for AI applications](https://siliconangle.com/2018/09/20/neo4j-tunes-graph-engine-ai-applications/)
+- [Nvidia researchers develop AI system that generates synthetic scans of brain cancer](https://venturebeat.com/2018/09/16/nvidia-researchers-develop-ai-system-that-generates-synthetic-scans-of-brain-cancer/)
+- [Alibaba looks to arm hotels, cities with its AI technology](https://www.zdnet.com/article/alibaba-looks-to-arm-hotels-cities-with-its-ai-technology/)
+- [International tech giants to establish AI centers in Shanghai](http://www.xinhuanet.com/english/2018-09/18/c_137474602_2.htm)
+- [Google opens French AI research center, bigger offices as Alphabet expands Jigsaw](https://9to5google.com/2018/09/18/google-ai-france-expansion/)
+- [How Breakthrough Listen Trained AI to Spot Elusive, Mysterious Radio Bursts](https://spectrum.ieee.org/tech-talk/aerospace/astrophysics/breakthrough-listen-trained-an-ai-to-spot-illusive-mysterious-radio-bursts)
+- [IBM Debuts Tools to Help Prevent Bias In Artificial Intelligence](http://fortune.com/2018/09/19/ibm-artificial-intelligence-bias/)
+- [A.I. has a bias problem that needs to be fixed: World Economic Forum](https://www.cnbc.com/2018/09/18/world-economic-forum-ai-has-a-bias-problem-that-needs-to-be-fixed.html)
+- [CIOs must take charge in implementing artificial intelligence governance](https://www.healthdatamanagement.com/news/cios-must-take-charge-in-implementing-artificial-intelligence-governance)
+
+
+
+--------------
+
+
 [Back to top](#contents)
 
 9/14
