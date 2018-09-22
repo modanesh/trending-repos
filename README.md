@@ -261,6 +261,8 @@ High-Level Machine Learning Frameworks
 - [How to get your first job in Data Science?](https://medium.com/@datalab/how-to-break-into-the-data-science-market-f0e0b79b42f7)
 - [5 Resources to Inspire Your Next Data Science Project](https://towardsdatascience.com/5-resources-to-inspire-your-next-data-science-project-ea6afbe20319)
 - [Boost your data science skills. Learn linear algebra.](https://towardsdatascience.com/boost-your-data-sciences-skills-learn-linear-algebra-2c30fdd008cf)
+- [Another Machine Learning Walk-Through and a Challenge](https://towardsdatascience.com/another-machine-learning-walk-through-and-a-challenge-8fae1e187a64)
+- [The Sexiest Job of the 21st Century Dissected — Why You Need a Data Scientist on Your Team](https://towardsdatascience.com/the-sexiest-job-of-the-21st-century-dissected-why-you-need-a-data-scientist-on-your-team-10fa812e440e)
 
 -----------------
 
