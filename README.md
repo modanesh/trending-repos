@@ -152,6 +152,7 @@ others
 - [FastMaskRCNN](https://github.com/CharlesShang/FastMaskRCNN)
 - [reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
 - [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-iv/info)
+- [Deep Learning: Which Loss and Activation Functions should I use?](https://medium.com/@srnghn/deep-learning-which-loss-and-activation-functions-should-i-use-ac02f1c56aa8)
 
 
 -----------------
