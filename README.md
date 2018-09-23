@@ -140,7 +140,7 @@ others
 
 [Back to top](#contents)
 
-
+- [AI in 2018 for researchers](https://blog.goodaudience.com/ai-in-2018-for-researchers-8955df0caaf9)
 - [Supervised Learning cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning.html)
 - [Deep Learning cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning.html)
 - [Unsupervised Learning cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning.html)
@@ -153,7 +153,7 @@ others
 - [reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
 - [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-iv/info)
 - [Deep Learning: Which Loss and Activation Functions should I use?](https://medium.com/@srnghn/deep-learning-which-loss-and-activation-functions-should-i-use-ac02f1c56aa8)
-
+- [AI in 2018 for developers](https://blog.goodaudience.com/ai-in-2018-for-researchers-8955df0caaf9)
 
 -----------------
 
