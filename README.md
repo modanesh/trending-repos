@@ -24,6 +24,7 @@ ml/dl
 
 [Back to top](#contents)
 
+- [AI Residency Programs](https://github.com/dangkhoasdc/awesome-ai-residency)
 - [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
 - [Deep-Learning-World](https://github.com/astorfi/Deep-Learning-World)
 - [video-nonlocal-net](https://github.com/facebookresearch/video-nonlocal-net)
