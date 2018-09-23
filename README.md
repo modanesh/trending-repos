@@ -24,6 +24,7 @@ ml/dl
 
 [Back to top](#contents)
 
+- [Deep-Learning-World](https://github.com/astorfi/Deep-Learning-World)
 - [video-nonlocal-net](https://github.com/facebookresearch/video-nonlocal-net)
 - [Meetups-Data-AI-DFW](https://github.com/pablomarin/Meetups-Data-AI-DFW) : Content for Meetups for DATA & AI - Microsoft DFW
 - [cortana-intelligence-customer360](https://github.com/Azure/cortana-intelligence-customer360)
