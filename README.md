@@ -24,6 +24,7 @@ ml/dl
 
 [Back to top](#contents)
 
+- [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
 - [Deep-Learning-World](https://github.com/astorfi/Deep-Learning-World)
 - [video-nonlocal-net](https://github.com/facebookresearch/video-nonlocal-net)
 - [Meetups-Data-AI-DFW](https://github.com/pablomarin/Meetups-Data-AI-DFW) : Content for Meetups for DATA & AI - Microsoft DFW
