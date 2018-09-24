@@ -24,6 +24,7 @@ ml/dl
 
 [Back to top](#contents)
 
+- [tvm](https://github.com/dmlc/tvm/) : Open deep learning compiler stack for cpu, gpu and specialized accelerators https://tvm.ai
 - [Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) : Largest list of models for Core ML (for iOS 11+)
 - [AI Residency Programs](https://github.com/dangkhoasdc/awesome-ai-residency)
 - [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
