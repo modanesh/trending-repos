@@ -135,7 +135,7 @@ others
 - [free-for-dev](https://github.com/ripienaar/free-for-dev)
 - [https-portal](https://github.com/SteveLTN/https-portal)
 - [Python](https://github.com/TheAlgorithms/Python)
-
+- [graphql-editor](https://github.com/slothking-online/graphql-editor)
 
 ----------------
 
