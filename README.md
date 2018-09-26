@@ -24,6 +24,7 @@ ml/dl
 
 [Back to top](#contents)
 
+- [generative-models](https://github.com/shayneobrien/generative-models) : Annotated, understandable, and visually interpretable PyTorch implementations of: VAE, BIRVAE, NSGAN, MMGAN, WGAN, WGANGP, LSGAN, DRAGAN, BEGAN, RaGAN, InfoGAN, fGAN, FisherGAN
 - [onnx/tutorials](https://github.com/onnx/tutorials) : Tutorials for using ONNX
 - [tvm](https://github.com/dmlc/tvm/) : Open deep learning compiler stack for cpu, gpu and specialized accelerators https://tvm.ai
 - [Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) : Largest list of models for Core ML (for iOS 11+)
