@@ -27,6 +27,7 @@ ml/dl
 - [deepmind/conditional-neural-process](https://github.com/deepmind/conditional-neural-process)
 - [deepmind/symplectic-gradient-adjustment](https://github.com/deepmind/symplectic-gradient-adjustment)
 - [NLP-with-Python](https://github.com/susanli2016/NLP-with-Python) : Scikit-Learn, NLTK, Spacy, Gensim, Textblob and more
+- [ismir2018_tutorial](https://github.com/slychief/ismir2018_tutorial) : Deep Learning for Music Information Retrieval
 - [generative-models](https://github.com/shayneobrien/generative-models) : Annotated, understandable, and visually interpretable PyTorch implementations of: VAE, BIRVAE, NSGAN, MMGAN, WGAN, WGANGP, LSGAN, DRAGAN, BEGAN, RaGAN, InfoGAN, fGAN, FisherGAN
 - [onnx/tutorials](https://github.com/onnx/tutorials) : Tutorials for using ONNX
 - [tvm](https://github.com/dmlc/tvm/) : Open deep learning compiler stack for cpu, gpu and specialized accelerators https://tvm.ai
