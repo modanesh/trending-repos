@@ -24,6 +24,7 @@ ml/dl
 
 [Back to top](#contents)
 
+
 - [deepmind/conditional-neural-process](https://github.com/deepmind/conditional-neural-process)
 - [deepmind/symplectic-gradient-adjustment](https://github.com/deepmind/symplectic-gradient-adjustment)
 - [NLP-with-Python](https://github.com/susanli2016/NLP-with-Python) : Scikit-Learn, NLTK, Spacy, Gensim, Textblob and more
@@ -163,7 +164,7 @@ others
 - [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-iv/info)
 - [Deep Learning: Which Loss and Activation Functions should I use?](https://medium.com/@srnghn/deep-learning-which-loss-and-activation-functions-should-i-use-ac02f1c56aa8)
 - [AI in 2018 for developers](https://blog.goodaudience.com/ai-in-2018-for-researchers-8955df0caaf9)
-
+- [image-kernels](http://setosa.io/ev/image-kernels/)
 -----------------
 
 9/21
