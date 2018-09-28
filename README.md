@@ -167,6 +167,25 @@ others
 - [image-kernels](http://setosa.io/ev/image-kernels/)
 -----------------
 
+9/28
+
+- [MIT Sloan: ARTIFICIAL INTELLIGENCE IN BUSINESS GETS REAL
+Pioneering Companies Aim for AI at Scale](https://sloanreview.mit.edu/projects/artificial-intelligence-in-business-gets-real/)
+- [Google’s DeepMind and Unity join forces to create simulated environments for AI training](https://venturebeat.com/2018/09/26/googles-deepmind-and-unity-join-forces-to-create-simulated-environments-for-ai-training/)
+- [Microsoft's Project Brainwave brings fast-chip smarts to AI at Build conference](https://www.cnet.com/news/microsoft-project-brainwave-speeds-ai-with-fpga-chips-on-azure-build-conference/)
+- [Worldwide Spending on Cognitive and Artificial Intelligence Systems Will Grow to $19.1 Billion in 2018, According to New IDC Spending Guide](https://www.businesswire.com/news/home/20180322005847/en/Worldwide-Spending-Cognitive-Artificial-Intelligence-Systems-Grow)
+- [Baidu CEO Robin Li says artificial intelligence will have much bigger impact on society than the internet](https://www.scmp.com/tech/big-tech/article/2165932/baidu-ceo-robin-li-says-artificial-intelligence-will-have-much-bigger)
+- [MIT And IBM Lab Partnership Launches 48 Projects To Tackle AI Challenges](https://www.forbes.com/sites/maribellopez/2018/09/26/mit-and-ibm-lab-partnership-launches-48-projects-to-tackle-ai-challenges/#639b4a1497d2)
+- [DOD selects team with U.K. to tackle AI research](https://www.fedscoop.com/dod-selects-team-u-k-tackle-ai-research/)
+- [Researchers train AI to identify people from their footsteps](https://venturebeat.com/2018/09/25/2397960/)
+- [Microsoft, AI Singapore and NUS to develop and reinforce SG’s AI capabilities](https://www.enterpriseinnovation.net/article/microsoft-ai-singapore-and-nus-develop-and-reinforce-sgs-ai-capabilities-1694841796)
+- [IBM launches pretrained Watson packs for industries](https://www.zdnet.com/article/ibm-launches-pretrained-watson-packs-for-industries/#ftag=RSSbaffb68)
+- [IBM adds AI-powered features to its Cognos Analytics business intelligence platform](https://siliconangle.com/2018/09/27/ibm-adds-new-ai-powered-features-cognos-analytics-business-intelligence-platform/)
+- [AI bias must be tackled to avoid it 'unknowingly' harming people](http://www.itpro.co.uk/business-strategy/31998/ai-bias-must-be-tackled-to-avoid-it-unknowingly-harming-people)
+
+
+-----------
+
 9/21
 
 - [Facebook expanding its Montreal AI lab to double the number of researchers](https://business.financialpost.com/technology/facebook-expanding-its-montreal-ai-lab-to-quadruple-the-number-of-researchers)
