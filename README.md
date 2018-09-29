@@ -25,6 +25,7 @@ ml/dl
 [Back to top](#contents)
 
 
+- [wheels](https://github.com/mind/wheels) : Performance-optimized wheels for TensorFlow (SSE, AVX, FMA, XLA, MPI)
 - [deepmind/conditional-neural-process](https://github.com/deepmind/conditional-neural-process)
 - [deepmind/symplectic-gradient-adjustment](https://github.com/deepmind/symplectic-gradient-adjustment)
 - [NLP-with-Python](https://github.com/susanli2016/NLP-with-Python) : Scikit-Learn, NLTK, Spacy, Gensim, Textblob and more
