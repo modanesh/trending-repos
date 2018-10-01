@@ -24,6 +24,9 @@ ml/dl
 
 [Back to top](#contents)
 
+- [synthetic_gradients_explained](https://github.com/llSourcell/synthetic_gradients_explained)
+- [quantum_machine_learning](https://github.com/llSourcell/quantum_machine_learning)
+- [Google_Dopamine_(LIVE)](https://github.com/llSourcell/Google_Dopamine_LIVE/blob/master/Google_Dopamine_(LIVE)%20(1).ipynb)
 - [TPU_MachineLearning](https://github.com/llSourcell/TPU_Machine_Learning/blob/master/TPU_MachineLearning%20(2).ipynb)
 - > **[primo.ai](http://primo.ai/index.php?title=Main_Page)**
 - [mpitutorial](https://github.com/wesleykendall/mpitutorial)
