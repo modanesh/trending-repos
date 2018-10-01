@@ -24,6 +24,7 @@ ml/dl
 
 [Back to top](#contents)
 
+- [TPU_MachineLearning](https://github.com/llSourcell/TPU_Machine_Learning/blob/master/TPU_MachineLearning%20(2).ipynb)
 - > **[primo.ai](http://primo.ai/index.php?title=Main_Page)**
 - [mpitutorial](https://github.com/wesleykendall/mpitutorial)
 - [wheels](https://github.com/mind/wheels) : Performance-optimized wheels for TensorFlow (SSE, AVX, FMA, XLA, MPI)
