@@ -24,6 +24,7 @@ ml/dl
 
 [Back to top](#contents)
 
+
 - [opencv.org/links](https://opencv.org/links.html)
 - [synthetic_gradients_explained](https://github.com/llSourcell/synthetic_gradients_explained)
 - [quantum_machine_learning](https://github.com/llSourcell/quantum_machine_learning)
@@ -173,6 +174,7 @@ others
 - [AI in 2018 for developers](https://blog.goodaudience.com/ai-in-2018-for-researchers-8955df0caaf9)
 - [image-kernels](http://setosa.io/ev/image-kernels/)
 - [Over 150 of the Best Machine Learning, NLP, and Python Tutorials I’ve Found](https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
+- [ml-cheatsheet](https://github.com/bfortuner/ml-cheatsheet)
 
 -----------------
 
