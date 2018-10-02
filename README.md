@@ -24,6 +24,7 @@ ml/dl
 
 [Back to top](#contents)
 
+- [opencv.org/links](https://opencv.org/links.html)
 - [synthetic_gradients_explained](https://github.com/llSourcell/synthetic_gradients_explained)
 - [quantum_machine_learning](https://github.com/llSourcell/quantum_machine_learning)
 - [Google_Dopamine_(LIVE)](https://github.com/llSourcell/Google_Dopamine_LIVE/blob/master/Google_Dopamine_(LIVE)%20(1).ipynb)
