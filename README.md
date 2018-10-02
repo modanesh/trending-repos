@@ -171,6 +171,8 @@ others
 - [Deep Learning: Which Loss and Activation Functions should I use?](https://medium.com/@srnghn/deep-learning-which-loss-and-activation-functions-should-i-use-ac02f1c56aa8)
 - [AI in 2018 for developers](https://blog.goodaudience.com/ai-in-2018-for-researchers-8955df0caaf9)
 - [image-kernels](http://setosa.io/ev/image-kernels/)
+- [Over 150 of the Best Machine Learning, NLP, and Python Tutorials I’ve Found](https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
+
 -----------------
 
 9/28
