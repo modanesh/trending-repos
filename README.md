@@ -3,153 +3,15 @@
 ----------------
 > #### Contents
 
-
-
 - [Github](#github)
+  - [AI](#ai)
+    - [Latest](#latest)
+    - [Old](#old)
+  - [Others](#others)
 - [Research News](#research-news)
-
-
-
-[Back to top](#contents)
-
-
-----------------
-
-
-
-### Github
-
-
-ml/dl
+  - [Imp](#imp)
 
 [Back to top](#contents)
-
-
-- [opencv.org/links](https://opencv.org/links.html)
-- [synthetic_gradients_explained](https://github.com/llSourcell/synthetic_gradients_explained)
-- [quantum_machine_learning](https://github.com/llSourcell/quantum_machine_learning)
-- [Google_Dopamine_(LIVE)](https://github.com/llSourcell/Google_Dopamine_LIVE/blob/master/Google_Dopamine_(LIVE)%20(1).ipynb)
-- [TPU_MachineLearning](https://github.com/llSourcell/TPU_Machine_Learning/blob/master/TPU_MachineLearning%20(2).ipynb)
-- > **[primo.ai](http://primo.ai/index.php?title=Main_Page)**
-- [mpitutorial](https://github.com/wesleykendall/mpitutorial)
-- [wheels](https://github.com/mind/wheels) : Performance-optimized wheels for TensorFlow (SSE, AVX, FMA, XLA, MPI)
-- [deepmind/conditional-neural-process](https://github.com/deepmind/conditional-neural-process)
-- [deepmind/symplectic-gradient-adjustment](https://github.com/deepmind/symplectic-gradient-adjustment)
-- [NLP-with-Python](https://github.com/susanli2016/NLP-with-Python) : Scikit-Learn, NLTK, Spacy, Gensim, Textblob and more
-- [ismir2018_tutorial](https://github.com/slychief/ismir2018_tutorial) : Deep Learning for Music Information Retrieval
-- [apricot](https://github.com/jmschrei/apricot) : 
-- [generative-models](https://github.com/shayneobrien/generative-models) : Annotated, understandable, and visually interpretable PyTorch implementations of: VAE, BIRVAE, NSGAN, MMGAN, WGAN, WGANGP, LSGAN, DRAGAN, BEGAN, RaGAN, InfoGAN, fGAN, FisherGAN
-- [onnx/tutorials](https://github.com/onnx/tutorials) : Tutorials for using ONNX
-- [tvm](https://github.com/dmlc/tvm/) : Open deep learning compiler stack for cpu, gpu and specialized accelerators https://tvm.ai
-- [Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) : Largest list of models for Core ML (for iOS 11+)
-- [AI Residency Programs](https://github.com/dangkhoasdc/awesome-ai-residency)
-- [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
-- [Deep-Learning-World](https://github.com/astorfi/Deep-Learning-World)
-- [video-nonlocal-net](https://github.com/facebookresearch/video-nonlocal-net)
-- [Meetups-Data-AI-DFW](https://github.com/pablomarin/Meetups-Data-AI-DFW) : Content for Meetups for DATA & AI - Microsoft DFW
-- [cortana-intelligence-customer360](https://github.com/Azure/cortana-intelligence-customer360)
-- [deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection)
-- [pytorch-summary](https://github.com/sksq96/pytorch-summary)
-- [model-analysis](https://github.com/tensorflow/model-analysis)
-- [MLInterview](https://github.com/theainerd/MLInterview)
-- [gym-maze](https://github.com/zuoxingdong/gym-maze)
-- [twine](https://github.com/pypa/twine) : Utilities for interacting with PyPI
-- [microsoftLearning/Research-Methods-for-Data-Science-with-Python](https://github.com/MicrosoftLearning/Research-Methods-for-Data-Science-with-Python)
-- [r-server-fraud-detection](https://github.com/Microsoft/r-server-fraud-detection)
-- [hindi2vec](https://github.com/NirantK/hindi2vec) : State-of-the-Art Language Modeling and Text Classification in Hindi Language http://nirantk.com/hindi2vec
-- [nlp.js](https://github.com/axa-group/nlp.js)
-- [long-term-video-prediction-without-supervision](https://github.com/brain-research/long-term-video-prediction-without-supervision)
-- [Microsoft/ailab](https://github.com/Microsoft/ailab)
-- [Hands-on Intelligent Agents with OpenAI Gym (HOIAWOG)](https://github.com/PacktPublishing/Hands-On-Intelligent-Agents-with-OpenAI-Gym)
-- [pipeline](https://github.com/PipelineAI/pipeline) : PipelineAI: Real-Time Enterprise AI Platform https://pipeline.ai
-- [coursera-natural-language-processing](https://github.com/hse-aml/natural-language-processing)
-- [60_Days_RL_Challenge](https://github.com/andri27-ts/60_Days_RL_Challenge)
-- [Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning)
-- [deepbayes-2018](https://github.com/bayesgroup/deepbayes-2018)
-- [Advanced-Deep-Learning-with-Keras](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras)
-- [salesforce/TransmogrifAI](https://github.com/salesforce/TransmogrifAI)
-- [License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9](https://github.com/zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9) : Works in real-time with detection and recognition accuracy up to 99.8% for Chinese license plates: 100 ms/plate
-- [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) : Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
-- [autokeras](https://github.com/jhfjhfj1/autokeras) : 
-This is an automated machine learning (AutoML) package. http://autokeras.com/
-- [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
-- [easy-scraping-tutorial](https://github.com/MorvanZhou/easy-scraping-tutorial)
-- [nn4nlp-code](https://github.com/neubig/nn4nlp-code) : Code Samples from Neural Networks for NLP
-- [deepvoice3_pytorch](https://github.com/r9y9/deepvoice3_pytorch) : PyTorch implementation of convolutional neural networks-based text-to-speech synthesis models
-- [PeerRead](https://github.com/allenai/PeerRead) : Data and code for Kang et al., NAACL 2018's paper titled "A Dataset of Peer Reviews (PeerRead): Collection, Insights and NLP Applications"
-- [deep-voice-conversion](https://github.com/andabi/deep-voice-conversion) : Deep neural networks for voice conversion (voice style transfer) in Tensorflow
-- [mil](https://github.com/tianheyu927/mil) : Code for "One-Shot Visual Imitation Learning via Meta-Learning"
-- [missingno](https://github.com/ResidentMario/missingno) : Missing data visualization module for Python.
-- [deepmind/narrativeqa](https://github.com/deepmind/narrativeqa) : The NarrativeQA Reading Comprehension Challenge Dataset
-- [stat-nlp-book](https://github.com/uclmr/stat-nlp-book) : Interactive Lecture Notes, Slides and Exercises for Statistical NLP
-- [FinanceOps](https://github.com/Hvass-Labs/FinanceOps) : Research in investment finance with Python Notebooks
-- [NAF-tensorflow](https://github.com/carpedm20/NAF-tensorflow) : "Continuous Deep Q-Learning with Model-based Acceleration" in TensorFlow
-- [FC-DenseNet](https://github.com/SimJeg/FC-DenseNet) : Fully Convolutional DenseNets for semantic segmentation.
-- [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
-
-
------------------------
-
-- [udacity/deep-reinforcement-learning](https://github.com/udacity/deep-reinforcement-learning) : Repo for the Deep Reinforcement Learning Nanodegree program
-- [Mask-RCNN](https://github.com/wannabeOG/Mask-RCNN) : A PyTorch implementation of the architecture of Mask RCNN, serves as an introduction to working with PyTorch
-- [cascade-rcnn](https://github.com/zhaoweicai/cascade-rcnn) : Caffe implementation of multiple popular object detection frameworks
-- [google/data-transfer-project](https://github.com/google/data-transfer-project) : The Data Transfer Project makes it easy for people to transfer their data between online service providers. We are establishing a common framework, including data models and protocols, to enable direct transfer of data both into and out of participating online service providers. http://datatransferproject.dev
-- [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) : Python sample codes for robotics algorithms. https://atsushisakai.github.io/PythonRobotics/
-- [Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) : this repository accompanies my forthcoming book "Grokking Deep Learning"
-- [mxnet-the-straight-dope](https://github.com/zackchase/mxnet-the-straight-dope) : An interactive book on deep learning. Much easy, so MXNet. Wow. http://gluon.mxnet.io
-- [unet](https://github.com/zhixuhao/unet) : unet for image segmentation
-- [tvm](https://github.com/dmlc/tvm) :Open deep learning compiler stack for cpu, gpu and specialized accelerators https://tvm.ai
-- [albumentations](https://github.com/albu/albumentations) : fast image augmentation library and easy to use wrapper around other libraries
-- [Slides-SciPyConf-2018](https://github.com/deniederhut/Slides-SciPyConf-2018) : A repository for public storage of slides given at the 17th Python in Science Conferences (2018)
-- [probability](https://github.com/tensorflow/probability) : Probabilistic reasoning and statistical analysis in TensorFlow
-- [MATRIXAI](https://github.com/MatrixAINetwork/MATRIXAI) : Matrix's AI research and related contents
-- [ansible-jupyter-kernel](https://github.com/ansible/ansible-jupyter-kernel) : Jupyter Notebook Kernel for running Ansible Tasks and Playbooks
-- [compare_gan](https://github.com/google/compare_gan) : Compare GAN code
-- [serving](https://github.com/tensorflow/serving) : A flexible, high-performance serving system for machine learning models https://www.tensorflow.org/serving
-- [Detectron.pytorch](https://github.com/roytseng-tw/Detectron.pytorch) : 
-A pytorch implementation of Detectron. Both training from scratch and inferring directly from pretrained Detectron weights are available.
-- [distiller](https://github.com/NervanaSystems/distiller) : Neural Network Distiller by Intel AI Lab: a Python package for neural network compression research. https://nervanasystems.github.io/distiller
-- [Improved_WGAN](https://github.com/bgavran/Improved_WGAN) : Implementation of the "Improved Training of Wasserstein GANs" paper in TensorFlow
-- [docker-tensorflow-builder](https://github.com/hadim/docker-tensorflow-builder) : Docker images to compile TensorFlow yourself.
-- [Attentive-Group-Recommendation](https://github.com/LianHaiMiao/Attentive-Group-Recommendation) : Atentive Group Recommendation
-- [mlens](https://github.com/flennerhag/mlens) : ML-Ensemble – high performance ensemble learning http://ml-ensemble.com
-- [relaax](https://github.com/deeplearninc/relaax) : Reinforcement Learning framework to facilitate development and use of scalable RL algorithms and applications
-- [QuantumKatas](https://github.com/Microsoft/QuantumKatas)
-- [tensorflow-without-a-phd](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd) : A crash course in six episodes for software developers who want to become machine learning practitioners.
-- [ML_Learning_In_Action](https://github.com/matrixgardener/ML_Learning_In_Action) : 
-ML study process record
-- [PyTorch-Deep-Learning-Minicourse](https://github.com/Atcold/PyTorch-Deep-Learning-Minicourse) : Minicourse in Deep Learning with PyTorch
-- [pytorch-book](https://github.com/chenyuntc/pytorch-book) : PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation
-
-
----------------
-
-others
-
-[Back to top](#contents)
-
-- [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills)
-- [PacktPublishing](https://github.com/PacktPublishing)
-- [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap): Roadmap to becoming a React developer in 2018
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) : The only Front-End Performance Checklist that runs faster than the others https://frontendchecklist.io(soon on)
-- [InterviewMap](https://github.com/InterviewMap/InterviewMap) : Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc. https://yuchengkai.cn/docs/
-- [react-values](https://github.com/ianstormtaylor/react-values) : A set of tiny React components for handling state with render props.
-- [fathom](https://github.com/usefathom/fathom):Fathom. Simple, trustworthy website analytics. Built with Golang & Preact. https://usefathom.com/
-- [graphql-engine](https://github.com/hasura/graphql-engine) : Blazing fast, instant GraphQL APIs on Postgres with fine grained access control https://hasura.io
-- [storybook](https://github.com/storybooks/storybook)
-- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
-- [open-source-ideas](https://github.com/open-source-ideas/open-source-ideas)
-- [data-science-question-answer](https://github.com/ShuaiW/data-science-question-answer)
-- [nodebestpractices](https://github.com/i0natan/nodebestpractices)
-- [learn-python](https://github.com/trekhleb/learn-python)
-- [awesome-reactnative-ui](https://github.com/madhavanmalolan/awesome-reactnative-ui)
-- [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade)
-- [Python](https://github.com/TheAlgorithms/Python)
-- [free-for-dev](https://github.com/ripienaar/free-for-dev)
-- [https-portal](https://github.com/SteveLTN/https-portal)
-- [Python](https://github.com/TheAlgorithms/Python)
-- [graphql-editor](https://github.com/slothking-online/graphql-editor)
 
 ----------------
 
@@ -158,27 +20,11 @@ others
 
 [Back to top](#contents)
 
-- [AI in 2018 for researchers](https://blog.goodaudience.com/ai-in-2018-for-researchers-8955df0caaf9)
-- [Supervised Learning cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning.html)
-- [Deep Learning cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning.html)
-- [Unsupervised Learning cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning.html)
-- [Machine Learning tips and tricks cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks.html)
-- [IBM code patterns](https://developer.ibm.com/code/patterns/)
-- [fast-style-transfer](https://github.com/lengstrom/fast-style-transfer)
-- [tensorflow-fcn](https://github.com/MarvinTeichmann/tensorflow-fcn)
-- [SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow)
-- [FastMaskRCNN](https://github.com/CharlesShang/FastMaskRCNN)
-- [reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
-- [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-iv/info)
-- [Deep Learning: Which Loss and Activation Functions should I use?](https://medium.com/@srnghn/deep-learning-which-loss-and-activation-functions-should-i-use-ac02f1c56aa8)
-- [AI in 2018 for developers](https://blog.goodaudience.com/ai-in-2018-for-researchers-8955df0caaf9)
-- [image-kernels](http://setosa.io/ev/image-kernels/)
-- [Over 150 of the Best Machine Learning, NLP, and Python Tutorials I’ve Found](https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
-- [ml-cheatsheet](https://github.com/bfortuner/ml-cheatsheet)
-
 -----------------
 
 10/5
+
+[Back to top](#contents)
 
 - [Google and Facebook Are Teaming Up on Artificial Intelligence Tech](http://fortune.com/2018/10/02/google-facebook-artificial-intelligence-chips/)
 - [Microsoft Expands AI Offerings At Ignite 2018](https://www.forbes.com/sites/moorinsights/2018/10/03/microsoft-expands-ai-offerings-at-ignite-2018/#4b8d3bb04f91)
@@ -214,6 +60,8 @@ Google acquires customer service automation startup Onward](https://techcrunch.c
 
 9/28
 
+[Back to top](#contents)
+
 - [MIT Sloan: ARTIFICIAL INTELLIGENCE IN BUSINESS GETS REAL
 Pioneering Companies Aim for AI at Scale](https://sloanreview.mit.edu/projects/artificial-intelligence-in-business-gets-real/)
 - [Google’s DeepMind and Unity join forces to create simulated environments for AI training](https://venturebeat.com/2018/09/26/googles-deepmind-and-unity-join-forces-to-create-simulated-environments-for-ai-training/)
@@ -232,6 +80,8 @@ Pioneering Companies Aim for AI at Scale](https://sloanreview.mit.edu/projects/a
 -----------
 
 9/21
+
+[Back to top](#contents)
 
 - [Facebook expanding its Montreal AI lab to double the number of researchers](https://business.financialpost.com/technology/facebook-expanding-its-montreal-ai-lab-to-quadruple-the-number-of-researchers)
 - [Tools Tackle AI's Bias, Trust Problem](https://www.informationweek.com/big-data/ai-machine-learning/tools-tackle-ais-bias-trust-problem/d/d-id/1332854)
@@ -312,6 +162,8 @@ Pioneering Companies Aim for AI at Scale](https://sloanreview.mit.edu/projects/a
 
 8/31
 
+[Back to top](#contents)
+
 - [Google: Introducing a New Framework for Flexible and Reproducible Reinforcement Learning Research](https://ai.googleblog.com/2018/08/introducing-new-framework-for-flexible.html)
 - [Healthcare Artificial Intelligence Market to Top $34B by 2025](https://healthitanalytics.com/news/healthcare-artificial-intelligence-market-to-top-34b-by-2025)
 - [A Deep Dive Into Data Lakes](https://datacenterfrontier.com/a-deep-dive-into-data-lakes/)
@@ -326,6 +178,8 @@ Pioneering Companies Aim for AI at Scale](https://sloanreview.mit.edu/projects/a
 
 
 8/24
+
+[Back to top](#contents)
 
 - [How to Prepare for a Machine Learning Interview](https://semanti.ca/blog/?how-to-prepare-for-a-machine-learning-interview)
 - [Feature-wise transformations](https://distill.pub/2018/feature-wise-transformations/)
@@ -413,6 +267,8 @@ Pioneering Companies Aim for AI at Scale](https://sloanreview.mit.edu/projects/a
 
 8/17
 
+[Back to top](#contents)
+
 - [Deepmind: A major milestone for the treatment of eye disease](https://deepmind.com/blog/moorfields-major-milestone/)
 - [Businesses Expect AI To Have A Positive Impact On Growth, Productivity, Innovation, Job Creation: The Economist - Microsoft Study](http://www.businessworld.in/article/Businesses-Expect-AI-To-Have-A-Positive-Impact-On-Growth-Productivity-Innovation-Job-Creation-The-Economist-Microsoft-Study/14-08-2018-157799/)
 - [GDPR hinders EU, pushes US and China ahead in AI race](https://techhq.com/2018/08/gdpr-hinders-eu-pushes-us-and-china-ahead-in-ai-race/)
@@ -425,13 +281,11 @@ Pioneering Companies Aim for AI at Scale](https://sloanreview.mit.edu/projects/a
 - [Haru: An Experimental Social Robot From Honda Research](https://spectrum.ieee.org/automaton/robotics/home-robots/haru-an-experimental-social-robot-from-honda-research)
 
 
-
-
-
-
 ---------------
 
 8/10
+
+[Back to top](#contents)
 
 - [Intel's 3-point plan for coming out on top of the AI chip war](https://www.zdnet.com/article/intels-3-point-plan-for-coming-out-on-top-of-the-ai-chip-war/#ftag=RSSbaffb68)
 - [Why 71% of organizations will spend more on data in the next five years](https://www.techrepublic.com/article/why-71-of-organizations-will-spend-more-on-data-in-the-next-five-years/)
@@ -455,6 +309,7 @@ Pioneering Companies Aim for AI at Scale](https://sloanreview.mit.edu/projects/a
 
 8/3
 
+[Back to top](#contents)
 
 - [Big Names Join Group Aiming To 'Responsibly Realise The Promise Of AI'](https://www.forbes.com/sites/samshead/2018/08/02/big-names-join-group-aiming-to-responsibly-realise-the-promise-of-ai/#6fe003892e14)
 - [Why the U.S. Could Fall Behind in the Global AI Race](http://fortune.com/2018/08/01/artificial-intelligence-race-united-states/)
@@ -550,6 +405,176 @@ Artificial Intelligence Select Committee’s
 Report on AI in the UK: Ready, Willing
 and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Intelligence/AI-Government-Response.pdf)
 - [AI applications that are human-centred, unbiased, fair](https://www.livemint.com/AI/5ixVrSb5hAn66jAloTt4cJ/AI-applications-that-are-humancentred-unbiased-fair.html)
+
+---------------
+
+###### Imp
+
+[Back to top](#contents)
+
+- [AI in 2018 for researchers](https://blog.goodaudience.com/ai-in-2018-for-researchers-8955df0caaf9)
+- [Supervised Learning cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning.html)
+- [Deep Learning cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning.html)
+- [Unsupervised Learning cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning.html)
+- [Machine Learning tips and tricks cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks.html)
+- [IBM code patterns](https://developer.ibm.com/code/patterns/)
+- [fast-style-transfer](https://github.com/lengstrom/fast-style-transfer)
+- [tensorflow-fcn](https://github.com/MarvinTeichmann/tensorflow-fcn)
+- [SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow)
+- [FastMaskRCNN](https://github.com/CharlesShang/FastMaskRCNN)
+- [reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
+- [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-iv/info)
+- [Deep Learning: Which Loss and Activation Functions should I use?](https://medium.com/@srnghn/deep-learning-which-loss-and-activation-functions-should-i-use-ac02f1c56aa8)
+- [AI in 2018 for developers](https://blog.goodaudience.com/ai-in-2018-for-researchers-8955df0caaf9)
+- [image-kernels](http://setosa.io/ev/image-kernels/)
+- [Over 150 of the Best Machine Learning, NLP, and Python Tutorials I’ve Found](https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
+- [ml-cheatsheet](https://github.com/bfortuner/ml-cheatsheet)
+
+-------------
+-------------
+
+### Github
+
+[Back to top](#contents)
+
+
+##### AI
+
+[Back to top](#contents)
+
+ ###### Latest
+ 
+ [Back to top](#contents)
+
+- [opencv.org/links](https://opencv.org/links.html)
+- [synthetic_gradients_explained](https://github.com/llSourcell/synthetic_gradients_explained)
+- [quantum_machine_learning](https://github.com/llSourcell/quantum_machine_learning)
+- [Google_Dopamine_(LIVE)](https://github.com/llSourcell/Google_Dopamine_LIVE/blob/master/Google_Dopamine_(LIVE)%20(1).ipynb)
+- [TPU_MachineLearning](https://github.com/llSourcell/TPU_Machine_Learning/blob/master/TPU_MachineLearning%20(2).ipynb)
+- > **[primo.ai](http://primo.ai/index.php?title=Main_Page)**
+- [mpitutorial](https://github.com/wesleykendall/mpitutorial)
+- [wheels](https://github.com/mind/wheels) : Performance-optimized wheels for TensorFlow (SSE, AVX, FMA, XLA, MPI)
+- [deepmind/conditional-neural-process](https://github.com/deepmind/conditional-neural-process)
+- [deepmind/symplectic-gradient-adjustment](https://github.com/deepmind/symplectic-gradient-adjustment)
+- [NLP-with-Python](https://github.com/susanli2016/NLP-with-Python) : Scikit-Learn, NLTK, Spacy, Gensim, Textblob and more
+- [ismir2018_tutorial](https://github.com/slychief/ismir2018_tutorial) : Deep Learning for Music Information Retrieval
+- [apricot](https://github.com/jmschrei/apricot) : 
+- [generative-models](https://github.com/shayneobrien/generative-models) : Annotated, understandable, and visually interpretable PyTorch implementations of: VAE, BIRVAE, NSGAN, MMGAN, WGAN, WGANGP, LSGAN, DRAGAN, BEGAN, RaGAN, InfoGAN, fGAN, FisherGAN
+- [onnx/tutorials](https://github.com/onnx/tutorials) : Tutorials for using ONNX
+- [tvm](https://github.com/dmlc/tvm/) : Open deep learning compiler stack for cpu, gpu and specialized accelerators https://tvm.ai
+- [Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) : Largest list of models for Core ML (for iOS 11+)
+- [AI Residency Programs](https://github.com/dangkhoasdc/awesome-ai-residency)
+- [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
+- [Deep-Learning-World](https://github.com/astorfi/Deep-Learning-World)
+- [video-nonlocal-net](https://github.com/facebookresearch/video-nonlocal-net)
+- [Meetups-Data-AI-DFW](https://github.com/pablomarin/Meetups-Data-AI-DFW) : Content for Meetups for DATA & AI - Microsoft DFW
+- [cortana-intelligence-customer360](https://github.com/Azure/cortana-intelligence-customer360)
+- [deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection)
+- [pytorch-summary](https://github.com/sksq96/pytorch-summary)
+- [model-analysis](https://github.com/tensorflow/model-analysis)
+- [MLInterview](https://github.com/theainerd/MLInterview)
+- [gym-maze](https://github.com/zuoxingdong/gym-maze)
+- [twine](https://github.com/pypa/twine) : Utilities for interacting with PyPI
+- [microsoftLearning/Research-Methods-for-Data-Science-with-Python](https://github.com/MicrosoftLearning/Research-Methods-for-Data-Science-with-Python)
+- [r-server-fraud-detection](https://github.com/Microsoft/r-server-fraud-detection)
+- [hindi2vec](https://github.com/NirantK/hindi2vec) : State-of-the-Art Language Modeling and Text Classification in Hindi Language http://nirantk.com/hindi2vec
+- [nlp.js](https://github.com/axa-group/nlp.js)
+- [long-term-video-prediction-without-supervision](https://github.com/brain-research/long-term-video-prediction-without-supervision)
+- [Microsoft/ailab](https://github.com/Microsoft/ailab)
+- [Hands-on Intelligent Agents with OpenAI Gym (HOIAWOG)](https://github.com/PacktPublishing/Hands-On-Intelligent-Agents-with-OpenAI-Gym)
+- [pipeline](https://github.com/PipelineAI/pipeline) : PipelineAI: Real-Time Enterprise AI Platform https://pipeline.ai
+- [coursera-natural-language-processing](https://github.com/hse-aml/natural-language-processing)
+- [60_Days_RL_Challenge](https://github.com/andri27-ts/60_Days_RL_Challenge)
+- [Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning)
+- [deepbayes-2018](https://github.com/bayesgroup/deepbayes-2018)
+- [Advanced-Deep-Learning-with-Keras](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras)
+- [salesforce/TransmogrifAI](https://github.com/salesforce/TransmogrifAI)
+- [License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9](https://github.com/zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9) : Works in real-time with detection and recognition accuracy up to 99.8% for Chinese license plates: 100 ms/plate
+- [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) : Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
+- [autokeras](https://github.com/jhfjhfj1/autokeras) : 
+This is an automated machine learning (AutoML) package. http://autokeras.com/
+- [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+- [easy-scraping-tutorial](https://github.com/MorvanZhou/easy-scraping-tutorial)
+- [nn4nlp-code](https://github.com/neubig/nn4nlp-code) : Code Samples from Neural Networks for NLP
+- [deepvoice3_pytorch](https://github.com/r9y9/deepvoice3_pytorch) : PyTorch implementation of convolutional neural networks-based text-to-speech synthesis models
+- [PeerRead](https://github.com/allenai/PeerRead) : Data and code for Kang et al., NAACL 2018's paper titled "A Dataset of Peer Reviews (PeerRead): Collection, Insights and NLP Applications"
+- [deep-voice-conversion](https://github.com/andabi/deep-voice-conversion) : Deep neural networks for voice conversion (voice style transfer) in Tensorflow
+- [mil](https://github.com/tianheyu927/mil) : Code for "One-Shot Visual Imitation Learning via Meta-Learning"
+- [missingno](https://github.com/ResidentMario/missingno) : Missing data visualization module for Python.
+- [deepmind/narrativeqa](https://github.com/deepmind/narrativeqa) : The NarrativeQA Reading Comprehension Challenge Dataset
+- [stat-nlp-book](https://github.com/uclmr/stat-nlp-book) : Interactive Lecture Notes, Slides and Exercises for Statistical NLP
+- [FinanceOps](https://github.com/Hvass-Labs/FinanceOps) : Research in investment finance with Python Notebooks
+- [NAF-tensorflow](https://github.com/carpedm20/NAF-tensorflow) : "Continuous Deep Q-Learning with Model-based Acceleration" in TensorFlow
+- [FC-DenseNet](https://github.com/SimJeg/FC-DenseNet) : Fully Convolutional DenseNets for semantic segmentation.
+- [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+
+
+-----------------------
+
+###### Old
+
+[Back to top](#contents)
+
+- [udacity/deep-reinforcement-learning](https://github.com/udacity/deep-reinforcement-learning) : Repo for the Deep Reinforcement Learning Nanodegree program
+- [Mask-RCNN](https://github.com/wannabeOG/Mask-RCNN) : A PyTorch implementation of the architecture of Mask RCNN, serves as an introduction to working with PyTorch
+- [cascade-rcnn](https://github.com/zhaoweicai/cascade-rcnn) : Caffe implementation of multiple popular object detection frameworks
+- [google/data-transfer-project](https://github.com/google/data-transfer-project) : The Data Transfer Project makes it easy for people to transfer their data between online service providers. We are establishing a common framework, including data models and protocols, to enable direct transfer of data both into and out of participating online service providers. http://datatransferproject.dev
+- [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) : Python sample codes for robotics algorithms. https://atsushisakai.github.io/PythonRobotics/
+- [Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) : this repository accompanies my forthcoming book "Grokking Deep Learning"
+- [mxnet-the-straight-dope](https://github.com/zackchase/mxnet-the-straight-dope) : An interactive book on deep learning. Much easy, so MXNet. Wow. http://gluon.mxnet.io
+- [unet](https://github.com/zhixuhao/unet) : unet for image segmentation
+- [tvm](https://github.com/dmlc/tvm) :Open deep learning compiler stack for cpu, gpu and specialized accelerators https://tvm.ai
+- [albumentations](https://github.com/albu/albumentations) : fast image augmentation library and easy to use wrapper around other libraries
+- [Slides-SciPyConf-2018](https://github.com/deniederhut/Slides-SciPyConf-2018) : A repository for public storage of slides given at the 17th Python in Science Conferences (2018)
+- [probability](https://github.com/tensorflow/probability) : Probabilistic reasoning and statistical analysis in TensorFlow
+- [MATRIXAI](https://github.com/MatrixAINetwork/MATRIXAI) : Matrix's AI research and related contents
+- [ansible-jupyter-kernel](https://github.com/ansible/ansible-jupyter-kernel) : Jupyter Notebook Kernel for running Ansible Tasks and Playbooks
+- [compare_gan](https://github.com/google/compare_gan) : Compare GAN code
+- [serving](https://github.com/tensorflow/serving) : A flexible, high-performance serving system for machine learning models https://www.tensorflow.org/serving
+- [Detectron.pytorch](https://github.com/roytseng-tw/Detectron.pytorch) : 
+A pytorch implementation of Detectron. Both training from scratch and inferring directly from pretrained Detectron weights are available.
+- [distiller](https://github.com/NervanaSystems/distiller) : Neural Network Distiller by Intel AI Lab: a Python package for neural network compression research. https://nervanasystems.github.io/distiller
+- [Improved_WGAN](https://github.com/bgavran/Improved_WGAN) : Implementation of the "Improved Training of Wasserstein GANs" paper in TensorFlow
+- [docker-tensorflow-builder](https://github.com/hadim/docker-tensorflow-builder) : Docker images to compile TensorFlow yourself.
+- [Attentive-Group-Recommendation](https://github.com/LianHaiMiao/Attentive-Group-Recommendation) : Atentive Group Recommendation
+- [mlens](https://github.com/flennerhag/mlens) : ML-Ensemble – high performance ensemble learning http://ml-ensemble.com
+- [relaax](https://github.com/deeplearninc/relaax) : Reinforcement Learning framework to facilitate development and use of scalable RL algorithms and applications
+- [QuantumKatas](https://github.com/Microsoft/QuantumKatas)
+- [tensorflow-without-a-phd](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd) : A crash course in six episodes for software developers who want to become machine learning practitioners.
+- [ML_Learning_In_Action](https://github.com/matrixgardener/ML_Learning_In_Action) : 
+ML study process record
+- [PyTorch-Deep-Learning-Minicourse](https://github.com/Atcold/PyTorch-Deep-Learning-Minicourse) : Minicourse in Deep Learning with PyTorch
+- [pytorch-book](https://github.com/chenyuntc/pytorch-book) : PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation
+
+
+---------------
+
+##### Others
+
+[Back to top](#contents)
+
+- [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills)
+- [PacktPublishing](https://github.com/PacktPublishing)
+- [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap): Roadmap to becoming a React developer in 2018
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) : Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) : The only Front-End Performance Checklist that runs faster than the others https://frontendchecklist.io(soon on)
+- [InterviewMap](https://github.com/InterviewMap/InterviewMap) : Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc. https://yuchengkai.cn/docs/
+- [react-values](https://github.com/ianstormtaylor/react-values) : A set of tiny React components for handling state with render props.
+- [fathom](https://github.com/usefathom/fathom):Fathom. Simple, trustworthy website analytics. Built with Golang & Preact. https://usefathom.com/
+- [graphql-engine](https://github.com/hasura/graphql-engine) : Blazing fast, instant GraphQL APIs on Postgres with fine grained access control https://hasura.io
+- [storybook](https://github.com/storybooks/storybook)
+- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+- [open-source-ideas](https://github.com/open-source-ideas/open-source-ideas)
+- [data-science-question-answer](https://github.com/ShuaiW/data-science-question-answer)
+- [nodebestpractices](https://github.com/i0natan/nodebestpractices)
+- [learn-python](https://github.com/trekhleb/learn-python)
+- [awesome-reactnative-ui](https://github.com/madhavanmalolan/awesome-reactnative-ui)
+- [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade)
+- [Python](https://github.com/TheAlgorithms/Python)
+- [free-for-dev](https://github.com/ripienaar/free-for-dev)
+- [https-portal](https://github.com/SteveLTN/https-portal)
+- [Python](https://github.com/TheAlgorithms/Python)
+- [graphql-editor](https://github.com/slothking-online/graphql-editor)
 
 
 ---------
