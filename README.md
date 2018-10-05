@@ -178,6 +178,40 @@ others
 
 -----------------
 
+10/5
+
+- [Google and Facebook Are Teaming Up on Artificial Intelligence Tech](http://fortune.com/2018/10/02/google-facebook-artificial-intelligence-chips/)
+- [Microsoft Expands AI Offerings At Ignite 2018](https://www.forbes.com/sites/moorinsights/2018/10/03/microsoft-expands-ai-offerings-at-ignite-2018/#4b8d3bb04f91)
+- [
+Google acquires customer service automation startup Onward](https://techcrunch.com/2018/10/02/google-acquires-customer-service-automation-startup-onward/)
+- [The fusion of AI, ML, and Voice in the Contact Center](https://www.cioreview.com/news/the-fusion-of-ai-ml-and-voice-in-the-contact-center-nid-27195-cid-66.html)
+- [Artificial Intelligence: The fourth industrial revolution](https://www.information-age.com/artificial-intelligence-fourth-industrial-revolution-123475170/)
+- [AI full of possibilities with the right tools and understanding](https://www.computerweekly.com/news/252449919/AI-full-of-possibilities-with-the-right-tools-and-understanding)
+- [Artificial intelligence: Data will be the differentiator in the marketplace](https://www.information-age.com/artificial-intelligence-data-123475102/)
+- [Human-Centered Technology: Putting AI Into The Hands Of Users Across The Enterprise](https://www.forbes.com/sites/insights-microsoftai/2018/10/01/human-centered-technology-putting-ai-into-the-hands-of-users-across-the-enterprise/#745ca4d33939)
+- [The 3 most overlooked limitations of AI in business](https://www.techrepublic.com/article/the-3-most-overlooked-limitations-of-ai-in-business/)
+- [Artificial Intelligence-driven machines can be fooled, warn IISc researchers ](https://economictimes.indiatimes.com/tech/hardware/artificial-intelligence-driven-machines-can-be-fooled/articleshow/66080911.cms)
+- [Why AI is the CFO’s Strategic Ally](https://www.cfoinnovation.com/technology/why-ai-cfo-s-strategic-ally)
+- [Robotics set to become standard in finance](https://it-online.co.za/2018/10/04/robotics-set-to-become-standard-in-finance/)
+- [Infor OS brings enterprise AI and business applications under one tent](https://siliconangle.com/2018/10/02/infor-os-brings-enterprise-ai-and-business-applications-under-one-tent-inforum2018/)
+- [Airtel Gets Aggressive on AI; Acquihires AuthMe Services](https://www.teleanalysis.com/news/airtel-gets-aggressive-on-ai-acquihires-authme-services-29017)
+- [Fast.ai's software could radically democratize AI](https://www.zdnet.com/article/fast-ais-new-software-could-radically-democratize-ai/#ftag=RSSbaffb68)
+- [Xilinx Unveils Versal for AI Workload Acceleration](http://www.eweek.com/innovation/xilinx-unveils-versal-for-ai-workload-acceleration)
+- [Facebook Plans To Double Size Of AI Research Unit By 2020](https://www.forbes.com/sites/samshead/2018/10/01/facebook-plans-to-double-size-of-ai-research-unit-by-2020/#49edd19c4c4f)
+- [$9T Global Healthcare Strengthened By ITU Focus Group AI For Health](https://www.forbes.com/sites/cognitiveworld/2018/10/04/9t-global-healthcare-strengthened-by-itu-focus-group-ai-for-health/#5e2d7cce731f)
+- [U.S. should double A.I. funding, says the former head of Google China](https://www.cnbc.com/2018/09/29/kai-fu-lee-ex-google-china-head-us-should-double-ai-funding.html)
+- [Google DeepMind Given Access To Mammograms Of 30,000 Women By Japanese Hospital](https://www.forbes.com/sites/samshead/2018/10/04/google-deepmind-given-access-to-mammograms-of-30000-women-by-japanese-hospital/#651da19359ba)
+- [Fujitsu, NVidia empower students with advanced AI](https://it-online.co.za/2018/10/03/fujitsu-nvidia-empower-students-with-advanced-ai/)
+- [IBM pushes automation, NLP in Cognos Analytics 11.1 update](https://searchbusinessanalytics.techtarget.com/news/252449778/IBM-pushes-automation-NLP-in-Cognos-Analytics-111-update)
+- [The U.S. Department of Defense Selects BAE Systems to Help Develop and Deliver Next Generation Mission Technologies](https://global.factiva.com/ga/default.aspx)
+- [Billion Dollar Bot taking on Google with the integration of A.I. with online search](http://www.digitaljournal.com/pr/3966923)
+- [Digital Catapult launches Ethics Framework for AI and machine learning](https://www.computerweekly.com/news/252449965/Digital-Catapult-launches-Ethics-Framework-for-AI-and-machine-learning)
+- [SAS recommends government start small with AI and machine learning](https://www.zdnet.com/article/sas-recommends-government-start-small-with-ai-and-machine-learning/)
+- [AI Bias “More Dangerous than Killer Robots”](https://www.cbronline.com/news/ai-bias-nvidia)
+- [Sony sets out AI ethical guidelines](https://asia.nikkei.com/Business/Companies/Sony-sets-out-AI-ethical-guidelines)
+
+---------------
+
 9/28
 
 - [MIT Sloan: ARTIFICIAL INTELLIGENCE IN BUSINESS GETS REAL
