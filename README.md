@@ -446,6 +446,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [learnopencv](https://github.com/spmallick/learnopencv) : Learn OpenCV : C++ and Python Examples
 - [opencv.org/links](https://opencv.org/links.html)
 - [synthetic_gradients_explained](https://github.com/llSourcell/synthetic_gradients_explained)
 - [quantum_machine_learning](https://github.com/llSourcell/quantum_machine_learning)
