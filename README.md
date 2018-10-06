@@ -446,6 +446,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [Azure/data-ai-iot](https://github.com/Azure/data-ai-iot): Readiness for Data and AI and IoT
 - [learnopencv](https://github.com/spmallick/learnopencv) : Learn OpenCV : C++ and Python Examples
 - [opencv.org/links](https://opencv.org/links.html)
 - [synthetic_gradients_explained](https://github.com/llSourcell/synthetic_gradients_explained)
