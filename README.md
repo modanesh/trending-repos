@@ -429,6 +429,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
 - [image-kernels](http://setosa.io/ev/image-kernels/)
 - [Over 150 of the Best Machine Learning, NLP, and Python Tutorials I’ve Found](https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
 - [ml-cheatsheet](https://github.com/bfortuner/ml-cheatsheet)
+- [int8](https://int8.io/)
 
 -------------
 -------------
