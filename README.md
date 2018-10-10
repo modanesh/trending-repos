@@ -446,6 +446,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet)
+- [nvtop](https://github.com/Syllo/nvtop) : NVIDIA GPUs htop like monitoring tool
 - [pytorch-coreml-example](https://github.com/steadicat/pytorch-coreml-example)
 - [Azure/data-ai-iot](https://github.com/Azure/data-ai-iot): Readiness for Data and AI and IoT
 - [learnopencv](https://github.com/spmallick/learnopencv) : Learn OpenCV : C++ and Python Examples
