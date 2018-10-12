@@ -470,6 +470,13 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [Realtime_Multi-Person_Pose_Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation) : Code repo for realtime multi-person pose estimation in CVPR'17 (Oral)
+- [advisor](https://github.com/tobegit3hub/advisor) : Open-source implementation of Google Vizier for hyper parameters tuning https://advisor.readthedocs.io
+- [fastprogress](https://github.com/fastai/fastprogress): 
+Simple and flexible progress bar for Jupyter Notebook and console
+- [al-go-rithms](https://github.com/ZoranPandovski/al-go-rithms): Algorithms written in different programming languages - https://zoranpandovski.github.io/al-go-rithms/
+- [dl-imperial-maths](https://github.com/pukkapies/dl-imperial-maths): Code and assignment repository for the Imperial College Mathematics department Deep Learning course
+- [pygdf](https://github.com/rapidsai/pygdf) : Python GPU DataFrame Library http://rapids.ai
 - [quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet)
 - [nvtop](https://github.com/Syllo/nvtop) : NVIDIA GPUs htop like monitoring tool
 - [pytorch-coreml-example](https://github.com/steadicat/pytorch-coreml-example)
@@ -604,6 +611,9 @@ ML study process record
 - [https-portal](https://github.com/SteveLTN/https-portal)
 - [Python](https://github.com/TheAlgorithms/Python)
 - [graphql-editor](https://github.com/slothking-online/graphql-editor)
+- [Advanced-React](https://github.com/wesbos/Advanced-React)
+- [react-native-testing-library](https://github.com/callstack/react-native-testing-library)
+- [Hello-world](https://github.com/Hacktoberfest-2018/Hello-world)
 
 
 ---------
