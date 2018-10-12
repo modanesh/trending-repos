@@ -23,9 +23,7 @@
 
 10/12
 
-- [Why All Employees Need Data Skills In 2019 (And Beyond)](https://www.forbes.com/sites/laurencebradford/2018/10/11/why-every-employees-need-data-skills-in-2019-and-beyond/#258e2f49faff)
-- [Huawei boosts AI computing power with new Atlas launch](https://www.itproportal.com/news/huawei-boosts-ai-computing-power-with-new-atlas-launch/)
-- [Nvidia launches Rapids to help bring GPU acceleration to data analytics](https://techcrunch.com/2018/10/10/nvidia-launches-rapids-to-help-bring-gpu-acceleration-to-data-analytics/)
+
 - [Microsoft open-sources Infer.Net machine learning](https://www.infoworld.com/article/3311994/machine-learning/microsoft-open-sources-infernet-machine-learning.html)
 - [Google open-sources ActiveQA, an AI agent that learns to ask good questions](https://venturebeat.com/2018/10/10/google-open-sources-activeqa-an-ai-agent-that-learns-to-ask-good-questions/)
 - [Google to release DeepMind's StreetLearn for teaching machine-learning agents to navigate cities](https://www.techrepublic.com/article/google-to-release-deepminds-streetlearn-for-teaching-machine-learning-agents-to-navigate-cities/)
@@ -33,13 +31,15 @@
 - [Teraki launches AI and edge processing technology to meet exploding data analytics demands of the automotive industry](https://www.nasdaq.com/press-release/teraki-launches-ai-and-edge-processing-technology-to-meet-exploding-data-analytics-demands-of-the-20181011-00296)
 - [Intel launches AI research center in Israel](https://venturebeat.com/2018/10/09/intel-launches-ai-research-center-in-israel/)
 - [DARPA wants to teach and test ‘common sense’ for AI](https://techcrunch.com/2018/10/11/darpa-wants-to-teach-and-test-common-sense-for-ai/)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
+- [Huawei to invest US$140m in global AI developer programme](https://sbr.com.sg/information-technology/news/huawei-invest-us140m-in-global-ai-developer-programme)
+- [How Canada’s AI Research Hubs Lured Facebook, Google and Samsung North](https://www.emarketer.com/content/how-canada-s-hubs-for-ai-research-lured-facebook-google-and-samsung-north)
+- [IBM Boosts Cloud Private AI](https://www.lightreading.com/enterprise-cloud/infrastructure-and-platform/ibm-boosts-cloud-private-ai/d/d-id/746742?_mc=RSS_LR_EDT)
+- [We need to fix AI's bias problem: Microsoft’s Harry Shum](https://tech.economictimes.indiatimes.com/news/technology/we-need-to-fix-ais-bias-problem-microsofts-harry-shum/66128444)
+- [How Enterprises Can Help Build Ethical AI Strategies](http://www.eweek.com/big-data-and-analytics/how-enterprises-can-help-build-ethical-ai-strategies)
+- [Amazon dumps AI recruiting tool that showed bias against women](https://www.computerworld.com.au/article/648061/amazon-dumps-ai-recruiting-tool-showed-bias-against-women/?utm_medium=rss&utm_source=taxonomyfeed)
+- [Why All Employees Need Data Skills In 2019 (And Beyond)](https://www.forbes.com/sites/laurencebradford/2018/10/11/why-every-employees-need-data-skills-in-2019-and-beyond/#258e2f49faff)
+- [Huawei boosts AI computing power with new Atlas launch](https://www.itproportal.com/news/huawei-boosts-ai-computing-power-with-new-atlas-launch/)
+- [Nvidia launches Rapids to help bring GPU acceleration to data analytics](https://techcrunch.com/2018/10/10/nvidia-launches-rapids-to-help-bring-gpu-acceleration-to-data-analytics/)
 
 
 
