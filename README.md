@@ -21,6 +21,30 @@
 
 -----------------
 
+10/12
+
+- [Why All Employees Need Data Skills In 2019 (And Beyond)](https://www.forbes.com/sites/laurencebradford/2018/10/11/why-every-employees-need-data-skills-in-2019-and-beyond/#258e2f49faff)
+- [Huawei boosts AI computing power with new Atlas launch](https://www.itproportal.com/news/huawei-boosts-ai-computing-power-with-new-atlas-launch/)
+- [Nvidia launches Rapids to help bring GPU acceleration to data analytics](https://techcrunch.com/2018/10/10/nvidia-launches-rapids-to-help-bring-gpu-acceleration-to-data-analytics/)
+- [Microsoft open-sources Infer.Net machine learning](https://www.infoworld.com/article/3311994/machine-learning/microsoft-open-sources-infernet-machine-learning.html)
+- [Google open-sources ActiveQA, an AI agent that learns to ask good questions](https://venturebeat.com/2018/10/10/google-open-sources-activeqa-an-ai-agent-that-learns-to-ask-good-questions/)
+- [Google to release DeepMind's StreetLearn for teaching machine-learning agents to navigate cities](https://www.techrepublic.com/article/google-to-release-deepminds-streetlearn-for-teaching-machine-learning-agents-to-navigate-cities/)
+- [Oracle and NVIDIA Partner on Analytics, Machine Learning, and AI](http://www.dbta.com/Editorial/News-Flashes/Oracle-and-NVIDIA-Partner-on-Analytics-Machine-Learning-and-AI-127898.aspx)
+- [Teraki launches AI and edge processing technology to meet exploding data analytics demands of the automotive industry](https://www.nasdaq.com/press-release/teraki-launches-ai-and-edge-processing-technology-to-meet-exploding-data-analytics-demands-of-the-20181011-00296)
+- [Intel launches AI research center in Israel](https://venturebeat.com/2018/10/09/intel-launches-ai-research-center-in-israel/)
+- [DARPA wants to teach and test ‘common sense’ for AI](https://techcrunch.com/2018/10/11/darpa-wants-to-teach-and-test-common-sense-for-ai/)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
+
+
+-----------------
+
 10/5
 
 [Back to top](#contents)
