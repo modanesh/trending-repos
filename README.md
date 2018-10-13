@@ -470,6 +470,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [google/active-qa](https://github.com/google/active-qa)
 - [Realtime_Multi-Person_Pose_Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation) : Code repo for realtime multi-person pose estimation in CVPR'17 (Oral)
 - [advisor](https://github.com/tobegit3hub/advisor) : Open-source implementation of Google Vizier for hyper parameters tuning https://advisor.readthedocs.io
 - [fastprogress](https://github.com/fastai/fastprogress): 
