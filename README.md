@@ -470,6 +470,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [TensorFlow-World-Resources](https://github.com/astorfi/TensorFlow-World-Resources#tensorflow-tutorials)
+- [keras-resources](https://github.com/fchollet/keras-resources): Directory of tutorials and open-source code repositories for working with Keras, the Python deep learning library
 - [google/active-qa](https://github.com/google/active-qa)
 - [Realtime_Multi-Person_Pose_Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation) : Code repo for realtime multi-person pose estimation in CVPR'17 (Oral)
 - [advisor](https://github.com/tobegit3hub/advisor) : Open-source implementation of Google Vizier for hyper parameters tuning https://advisor.readthedocs.io
