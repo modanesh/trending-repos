@@ -470,7 +470,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
-
+- [photoprism](https://github.com/photoprism/photoprism)
 - [DeepMimic](https://github.com/xbpeng/DeepMimic) : 
 - [TensorFlow-World-Resources](https://github.com/astorfi/TensorFlow-World-Resources#tensorflow-tutorials)
 - [keras-resources](https://github.com/fchollet/keras-resources): Directory of tutorials and open-source code repositories for working with Keras, the Python deep learning library
