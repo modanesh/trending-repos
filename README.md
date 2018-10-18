@@ -470,6 +470,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [BERT-pytorch](https://github.com/codertimo/BERT-pytorch) - Google AI 2018 BERT pytorch implementation
 - [tencent-ml-images](https://github.com/Tencent/tencent-ml-images) - Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet
 - [photoprism](https://github.com/photoprism/photoprism)
 - [DeepMimic](https://github.com/xbpeng/DeepMimic) : Motion imitation with deep reinforcement learning. 
