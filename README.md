@@ -509,7 +509,11 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
-
+- [magenta-demos](https://github.com/tensorflow/magenta-demos) - Demonstrations of Magenta Models
+- [TGS-SaltNet](https://github.com/svishnu88/TGS-SaltNet) - Kaggle | 22nd place solution for TGS Salt Identification Challenge
+- [deepmind/trfl](https://github.com/deepmind/trfl) - TensorFlow Reinforcement Learning
+- [data-science-complete-tutorial](https://github.com/zekelabs/data-science-complete-tutorial) - Notebooks to learn data science - Videos https://www.edyoda.com/resources/videolisting/1416/
+- [deepmind/graph_nets](https://github.com/deepmind/graph_nets) - 
 - [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 - [probability](https://github.com/tensorflow/probability) - Probabilistic reasoning and statistical analysis in TensorFlow https://www.tensorflow.org/probability/
 - [BERT-pytorch](https://github.com/codertimo/BERT-pytorch) - Google AI 2018 BERT pytorch implementation
@@ -663,6 +667,10 @@ ML study process record
 - [Advanced-React](https://github.com/wesbos/Advanced-React)
 - [react-native-testing-library](https://github.com/callstack/react-native-testing-library)
 - [Hello-world](https://github.com/Hacktoberfest-2018/Hello-world)
+- [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+- [awesome-actions](https://github.com/sdras/awesome-actions)
+- [omi](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating) http://omijs.org
+- [mio](https://github.com/mandreyel/mio) - Cross-platform header-only C++11 library for memory mapped file IO
 
 
 ---------
