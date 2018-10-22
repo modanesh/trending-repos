@@ -509,6 +509,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+
+- [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 - [probability](https://github.com/tensorflow/probability) - Probabilistic reasoning and statistical analysis in TensorFlow https://www.tensorflow.org/probability/
 - [BERT-pytorch](https://github.com/codertimo/BERT-pytorch) - Google AI 2018 BERT pytorch implementation
 - [tencent-ml-images](https://github.com/Tencent/tencent-ml-images) - Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet
