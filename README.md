@@ -19,6 +19,45 @@
 
 [Back to top](#contents)
 
+--------------
+
+-----------------
+
+10/19
+
+- [MIT ANNOUNCES A $1 BN AI COLLEGE FOR RESPONSIBLE, ETHICAL USE OF THE TECHNOLOGY](https://www.firstpost.com/tech/news-analysis/mit-announces-a-1-bn-ai-college-for-responsible-ethical-use-of-the-technology-5392951.html)
+- [Big businesses take the lead in machine learning](https://betanews.com/2018/10/16/big-business-leads-machine-learning/)
+- [Robotic automation will become bigger in 2019 and beyond](http://www.digitaljournal.com/business/robotic-automation-will-become-bigger-in-2019-and-beyond/article/534850)
+- [Don't Fear AI: Embrace It And Learn What It Can Do For Your Business](https://www.forbes.com/sites/forbestechcouncil/2018/10/18/dont-fear-ai-embrace-it-and-learn-what-it-can-do-for-your-business/#7affcd1267c5)
+- [Why AI and machine learning are driving data lakes to data hubs](https://www.zdnet.com/article/why-ai-machine-learning-is-driving-data-lakes-to-data-hubs/)
+- [More Tools Emerge for AI Deployment](https://www.datanami.com/2018/10/17/more-tools-emerge-for-ai-deployment/)
+- [Structure Your Analytics Team for Success in the Age of AI](https://www.informationweek.com/big-data/structure-your-analytics-team-for-success-in-the-age-of-ai/a/d-id/1333056?)
+- [AI On The Job: How New Technologies Will Impact The Modern Workforce](https://www.forbes.com/sites/citrix/2018/10/17/ai-on-the-job-how-new-technologies-will-impact-the-modern-workforce/#1104dae549b0)
+- [AI Requires More Than Machine Learning](https://www.forbes.com/sites/forbestechcouncil/2018/10/16/ai-requires-more-than-machine-learning/#6190654c3332)
+- [Why AI-driven automation will lead enterprise mobility over next 5 years](https://www.techrepublic.com/article/ai-driven-automation-leads-enterprise-mobility-over-next-5-years/)
+- [AI will impact 100% of jobs, professions, and industries, says IBM's Ginni Rometty](https://www.zdnet.com/article/ai-will-impact-100-of-jobs-professions-and-industries-says-ibms-ginni-rometty/#ftag=RSSbaffb68)
+- [The AI revolution is underway – what does the future look like for banks?](https://www.itproportal.com/features/the-ai-revolution-is-underway-what-does-the-future-look-like-for-banks/)
+- [Intel-backed startup Paperspace reinvents dev tools for an AI, cloud era](https://www.zdnet.com/article/intel-backed-startup-paperspace-reinvents-dev-tools-for-the-ai-cloud-era/#ftag=RSSbaffb68)
+- [Alphabet’s DeepMind open-sources key building blocks from its AI projects](https://siliconangle.com/2018/10/17/alphabets-deepmind-open-sources-key-building-blocks-ai-projects/)
+- [Huawei Aims to Speed AI Developments With New Development Platform & Developer Program](https://www.lightreading.com/artificial-intelligence-machine-learning/huawei-aims-to-speed-ai-developments-with-new-development-platform-and-developer-program/d/d-id/746785)
+- [Adobe partners with Accenture to fuel AI-powered experiences](https://itbrief.co.nz/story/adobe-partners-with-accenture-to-fuel-ai-powered-experiences)
+- [C3 forges HPE partnership, launches AI appliance](https://www.zdnet.com/article/c3-forges-hpe-partnership-launches-ai-appliance/#ftag=RSSbaffb68)
+- [Intuit adds AI, enterprise features to QuickBooks online](https://www.cio.com/article/3314536/enterprise-resource-planning/intuit-adds-ai-enterprise-features-to-quickbooks-online.html#tk.rss_all)
+- [OpsRamp brings AI and machine learning to IT operations](https://betanews.com/2018/10/18/opsramp-ai-operations/)
+- [Workplace AI startup launched after successful funding](https://www.information-age.com/workplace-ai-startup-launched-after-successful-funding-123475605/)
+- [Atos and Google Cloud launch AI lab in London, to boost UK tech sector](https://www.information-age.com/atos-google-cloud-ai-lab-123475534/)
+- [Abu Dhabi, IBM plan to set up AI Centre of Excellence](https://www.arabianbusiness.com/technology/406421-abu-dhabi-ibm-plan-to-set-up-ai-centre-of-excellence)
+- [Samsung opens seventh AI centre in Montreal](https://www.zdnet.com/article/samsung-opens-seventh-ai-centre-in-montreal/)
+- [Nvidia opens Israel AI research center](https://en.globes.co.il/en/article-nvidia-opens-israel-research-center-1001257048)
+- [PicsArt Opens AI Lab in Moscow; Collaborates with Moscow Institute of Physics and Technology for R&D](https://martechseries.com/predictive-ai/ai-platforms-machine-learning/picsart-opens-ai-lab-moscow-collaborates-moscow-institute-physics-technology-rd/)
+- [DeepMind’s New Research Plan to Make Sure AI Is Safe](https://singularityhub.com/2018/10/15/deepminds-new-research-plan-to-make-sure-ai-is-safe/#sm.0000lrtrh7kltf3dzut27924bbsar)
+- [IBM brings artificial intelligence to the heart of cybersecurity strategies](https://www.zdnet.com/article/why-artificial-intelligence-is-at-the-core-of-ibm-cybersecurity-strategies/)
+- [Baidu becomes first China firm to join US AI ethics group](https://www.businesstimes.com.sg/technology/baidu-becomes-first-china-firm-to-join-us-ai-ethics-group)
+- [AI Ethics In Tech Companies Are Ubiquitous, Yet Elusive](https://www.analyticsindiamag.com/ai-ethics-in-tech-companies-are-ubiquitous-yet-elusive/)
+- [Microsoft: The importance of creating ethical AI](https://channels.theinnovationenterprise.com/articles/microsoft-the-importance-of-creating-ethical-ai)
+
+
+
 -----------------
 
 10/12
