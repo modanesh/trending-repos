@@ -509,6 +509,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+
+- [aleph_star](https://github.com/imagry/aleph_star) - Reinforcement learning with A* and a deep heuristic
 - [presentations](https://github.com/akittas/presentations)
 - [fastai/course-v3](https://github.com/fastai/course-v3) - The 3rd edition of course.fast.ai - coming in 2019
 - [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
