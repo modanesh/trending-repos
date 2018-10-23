@@ -509,6 +509,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
 - [magenta-demos](https://github.com/tensorflow/magenta-demos) - Demonstrations of Magenta Models
 - [TGS-SaltNet](https://github.com/svishnu88/TGS-SaltNet) - Kaggle | 22nd place solution for TGS Salt Identification Challenge
 - [deepmind/trfl](https://github.com/deepmind/trfl) - TensorFlow Reinforcement Learning
