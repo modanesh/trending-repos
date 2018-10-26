@@ -21,6 +21,11 @@
 
 --------------
 
+
+
+- [Deepmind: Building safe artificial intelligence: specification, robustness, and assurance](https://medium.com/@deepmindsafetyresearch/building-safe-artificial-intelligence-52f5f75058f1)
+
+
 -----------------
 
 10/19
