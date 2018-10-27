@@ -21,8 +21,24 @@
 
 --------------
 
+10/27
 
-
+- [Machine learning now the top skill sought by developers](https://www.zdnet.com/article/machine-learning-is-now-the-top-skill-sought-by-developers/)
+- [Four ways machine learning is evolving, according to Facebook's AI engineering chief](https://www.techrepublic.com/article/four-ways-machine-learning-is-evolving-according-to-facebooks-ai-engineering-chief/)
+- [How automated machine learning is helping to bridge the AI skills gap](https://www.information-age.com/automated-machine-learning-ai-skills-gap-123475716/)
+- [The Intelligent Automation Revolution: From Robotic Process Automation To Cognitive Automation](https://www.forbes.com/sites/kpmg/2018/10/24/the-intelligent-automation-revolution-from-robotic-process-automation-to-cognitive-automation/#273283be6da2)
+- [Machine Learning: The New Language Of Leadership](https://www.forbes.com/sites/forbestechcouncil/2018/10/25/machine-learning-the-new-language-of-leadership/#6e528e645271)
+- [Google’s Fluid Annotation uses AI to annotate image datasets quickly](https://venturebeat.com/2018/10/22/googles-fluid-annotation-uses-ai-to-speed-up-image-dataset-annotation/)
+- [Intel-backed startup Nyansa chases the total problem in the AI of network monitoring](https://www.zdnet.com/article/intel-backed-startup-nyansa-chases-the-total-problem-in-the-ai-of-network-monitoring/)
+- [microsoft-to-comply-with-the-data-localisation-requests-from-all-countries](https://www.firstpost.com/tech/news-analysis/microsoft-to-comply-with-the-data-localisation-requests-from-all-countries-5451991.html)
+- [McAfee combining threat intel with AI](https://www.computerweekly.com/news/252450903/McAfee-combining-threat-intel-with-AI)
+- [SAP embraces Robotic Process Automation as part of new AI and cloud push](https://www.zdnet.com/article/sap-embraces-robotic-process-automation-as-part-of-new-ai-and-cloud-push/#ftag=RSSbaffb68)
+- [Red Hat Powers NVIDIA DGX-1 for Ai Workloads](https://insidehpc.com/2018/10/red-hat-powers-nvidia-dgx-1-ai-workloads/)
+- [OpenAI develops new approach to measure success of complex AI tasks](https://sdtimes.com/ai/openai-develops-new-approach-to-measure-success-of-complex-ai-tasks/)
+- [China's Baidu challenges Google with A.I. that translates languages in real-time](https://www.cnbc.com/2018/10/24/baidu-challenges-google-with-ai-that-translates-languages-in-real-time.html)
+- [DARPA Embraces ‘Common Sense’ Approach to AI](https://www.datanami.com/2018/10/22/darpa-embraces-common-sense-approach-to-ai/)
+- [AI can’t replace doctors. But it can make them better.](https://www.technologyreview.com/s/612277/ai-cant-replace-doctors-but-it-can-make-them-better/)
+- [Who’s Going to Make the Most Money Off the A.I. Wave?](http://fortune.com/2018/10/24/artificial-intelligence-ai-semiconductors/)
 - [Deepmind: Building safe artificial intelligence: specification, robustness, and assurance](https://medium.com/@deepmindsafetyresearch/building-safe-artificial-intelligence-52f5f75058f1)
 
 
