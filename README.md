@@ -530,6 +530,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models)
 - [Machine-Learning-for-Finance](https://github.com/PacktPublishing/Machine-Learning-for-Finance)
 - [facebookresearch/maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark) - Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.
 - [DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject) - An end to end tutorial of a machine learning pipeline from Harvard
