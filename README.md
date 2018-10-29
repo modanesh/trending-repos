@@ -40,7 +40,7 @@
 - [AI can’t replace doctors. But it can make them better.](https://www.technologyreview.com/s/612277/ai-cant-replace-doctors-but-it-can-make-them-better/)
 - [Who’s Going to Make the Most Money Off the A.I. Wave?](http://fortune.com/2018/10/24/artificial-intelligence-ai-semiconductors/)
 - [Deepmind: Building safe artificial intelligence: specification, robustness, and assurance](https://medium.com/@deepmindsafetyresearch/building-safe-artificial-intelligence-52f5f75058f1)
-
+- [OpenAI: Learning Complex Goals with Iterated Amplification](https://blog.openai.com/amplifying-ai-training/)
 
 -----------------
 
