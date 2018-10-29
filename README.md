@@ -21,6 +21,7 @@
 
 --------------
 
+
 - [deepmind](https://deepmind.com/blog/)
 - [openai](https://blog.openai.com/)
 - [googleblog-brain-team](https://ai.googleblog.com/)
@@ -78,6 +79,7 @@
 - [iamtrask](http://iamtrask.github.io/)
 - [timvieira](http://timvieira.github.io/blog/)
 - [adeshpande3](https://adeshpande3.github.io/)
+
 
 --------------
 10/27
