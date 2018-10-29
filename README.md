@@ -21,6 +21,16 @@
 
 --------------
 
+- [deepmind](https://deepmind.com/blog/)
+- [openai](https://blog.openai.com/)
+- [googleblog-brain-team](https://ai.googleblog.com/)
+- [fair](https://research.fb.com/blog/)
+- [ai.intel](https://ai.intel.com/)
+- [nvidia](https://blogs.nvidia.com/blog/category/deep-learning/)
+- []()
+
+
+--------------
 10/27
 
 - [Machine learning now the top skill sought by developers](https://www.zdnet.com/article/machine-learning-is-now-the-top-skill-sought-by-developers/)
