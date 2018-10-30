@@ -766,6 +766,8 @@ ML study process record
 
 #### AI Residency
 
+[Back to top](#contents)
+
 - Google AI Residency Program [[Link](https://research.google.com/teams/brain/residency/)]. [[Reddit Link 1](https://www.reddit.com/r/MachineLearning/comments/7rajic/d_anyone_heard_back_from_google_ai_residency/)],
 [[Reddit Link 2](https://www.reddit.com/r/MachineLearning/comments/690ixs/d_google_brain_residency_requirements_and/)]
 - Microsoft AI Residency Program [[Link](https://www.microsoft.com/en-us/research/academic-program/microsoft-ai-residency-program/)] ,[[Reddit Link 1](https://www.reddit.com/r/MachineLearning/comments/7u2a19/news_microsoft_ai_residency/)]
