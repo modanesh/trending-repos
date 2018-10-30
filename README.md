@@ -26,6 +26,7 @@
 - [openai](https://blog.openai.com/)
 - [googleblog-brain-team](https://ai.googleblog.com/)
 - [fair](https://research.fb.com/blog/)
+- [fast.ai](https://www.fast.ai/topics/)
 - [ai.intel](https://ai.intel.com/)
 - [nvidia](https://blogs.nvidia.com/blog/category/deep-learning/)
 - [ai.microsoft](https://blogs.microsoft.com/ai/)
