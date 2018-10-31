@@ -592,6 +592,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [practical-pytorch](https://github.com/spro/practical-pytorch) - PyTorch tutorials demonstrating modern techniques with readable code
 - [DeepReinforcementLearning](https://github.com/AppliedDataSciencePartners/DeepReinforcementLearning) - 
 A replica of the AlphaZero methodology for deep reinforcement learning in Python
 - [Practical_RL](https://github.com/yandexdataschool/Practical_RL) - 
