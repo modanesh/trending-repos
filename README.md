@@ -592,6 +592,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [Practical_RL](https://github.com/yandexdataschool/Practical_RL) - 
+A course in reinforcement learning in the wild
 - [Practical_DL](https://github.com/yandexdataschool/Practical_DL) - DL course co-developed by HSE, YSDA and Skoltech
 - [ILearnDeepLearning.py](https://github.com/SkalskiP/ILearnDeepLearning.py) -This repository contains small projects related to Neural Networks and Deep Learning in general. Subject are closely linekd with articles I publish on Medium. I encourage you both to read as well as to check how the code works in the action. https://medium.com/@piotr.skalski92
 - [jupytext](https://github.com/mwouts/jupytext) - ter notebooks as Markdown documents, Julia, Python or R scripts
