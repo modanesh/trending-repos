@@ -592,6 +592,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [transparent_latent_gan](https://github.com/SummitKwan/transparent_latent_gan) - Use supervised learning to illuminate the latent space of GAN for controlled generation and edit
 - [nlp_course](https://github.com/yandexdataschool/nlp_course) - YSDA course in Natural Language Processing
 - [Learn_Data_Science_in_3_Months](https://github.com/llSourcell/Learn_Data_Science_in_3_Months) - This is the Curriculum for "Learn Data Science in 3 Months" By Siraj Raval on Youtube
 - [DeepCreamPy](https://github.com/deeppomf/DeepCreamPy) - Decensoring Hentai with Deep Neural Networks
