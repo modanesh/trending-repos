@@ -80,7 +80,7 @@
 - [iamtrask](http://iamtrask.github.io/)
 - [timvieira](http://timvieira.github.io/blog/)
 - [adeshpande3](https://adeshpande3.github.io/)
-
+- [oreilly](https://www.oreilly.com/topics/ai)
 
 --------------
 10/27
