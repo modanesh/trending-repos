@@ -592,6 +592,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [DeepReinforcementLearning](https://github.com/AppliedDataSciencePartners/DeepReinforcementLearning) - 
+A replica of the AlphaZero methodology for deep reinforcement learning in Python
 - [Practical_RL](https://github.com/yandexdataschool/Practical_RL) - 
 A course in reinforcement learning in the wild
 - [Practical_DL](https://github.com/yandexdataschool/Practical_DL) - DL course co-developed by HSE, YSDA and Skoltech
