@@ -592,6 +592,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [Learn_Data_Science_in_3_Months](https://github.com/llSourcell/Learn_Data_Science_in_3_Months) - This is the Curriculum for "Learn Data Science in 3 Months" By Siraj Raval on Youtube
 - [DeepCreamPy](https://github.com/deeppomf/DeepCreamPy) - Decensoring Hentai with Deep Neural Networks
 - [awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models)
 - [Machine-Learning-for-Finance](https://github.com/PacktPublishing/Machine-Learning-for-Finance)
