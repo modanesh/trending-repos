@@ -591,7 +591,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  ###### Latest
  
  [Back to top](#contents)
-
+ 
+- [tensorflow/adanet](https://github.com/tensorflow/adanet) - Fast and flexible AutoML with learning guarantees.
 - [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark) - Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.
 - [practical-pytorch](https://github.com/spro/practical-pytorch) - PyTorch tutorials demonstrating modern techniques with readable code
 - [DeepReinforcementLearning](https://github.com/AppliedDataSciencePartners/DeepReinforcementLearning) - 
