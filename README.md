@@ -85,9 +85,7 @@
 --------------
 11/02
 
-- [Tech Leaders Look To IoT, AI & Robotics To Fuel Growth Through 2021](https://www.forbes.com/sites/louiscolumbus/2018/10/30/tech-leaders-look-to-iot-ai-robotics-to-fuel-growth-through-2021/#7b53ec2585f7)
-- [Robotic Process Automation: A Gateway Drug to AI and Digital Transformation](https://www.forbes.com/sites/tomdavenport/2018/10/29/robotic-process-automation-a-gateway-drug-to-ai-and-digital-transformation/#1b756d633a70)
-- [Data quality and the democratisation of AI](https://itbrief.co.nz/story/data-quality-and-the-democratisation-of-ai)
+
 - [Future Decoded 2018: Adopt AI or get left behind, Microsoft warns](https://www.computerweekly.com/news/252451571/Future-Decoded-2018-Adopt-AI-or-get-left-behind-Microsoft-warns)
 - [Google launches AdaNet for combining algorithms with AutoML](https://venturebeat.com/2018/10/30/google-launches-adanet-for-combining-algorithms-with-automl/)
 - [Microsoft chooses new chip supplier Xilinx for half of Azure’s AI workloads](https://siliconangle.com/2018/10/30/microsoft-chooses-new-chip-supplier-xilinx-half-azures-ai-workloads/)
@@ -100,14 +98,16 @@
 - [Google puts up $25 million for AI research to help humanity, Earth](https://phys.org/news/2018-10-google-million-ai.html)
 - [Microsoft in multi-million pound move to stop brain drain by backing AI research at Cambridge](https://www.businessweekly.co.uk/news/hi-tech/microsoft-multi-million-pound-move-stop-brain-drain-backing-ai-research-cambridge)
 - [Canadian AI research depends on continued funding](https://www.theglobeandmail.com/canada/education/canadian-university-report/article-canadian-ai-research-depends-on-continued-funding/)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [New MIT College of Computing to Boost AI Research Across the Institution](https://campustechnology.com/articles/2018/10/29/new-mit-college-of-computing-to-boost-ai-research-across-the-institution.aspx)
+- [Intel and Tencent debut AI-powered camera systems for retail](https://venturebeat.com/2018/11/01/intel-and-tencent-debut-ai-powered-camera-systems-for-retail/)
+- [IBM, Harvard develop tool to tackle black box problem in AI translation](https://venturebeat.com/2018/11/01/ibm-harvard-develop-tool-to-tackle-black-box-problem-in-ai-translation/)
+- [Nearly half of UK firms think their business models won't exist in 5 years because of A.I., study says](https://www.cnbc.com/2018/10/31/nearly-half-of-uk-firms-think-their-business-models-wont-exist-in-5-years-because-of-ai-study-says.html)
+- [eaching AI ethics – Trick or Treat?](https://hub.packtpub.com/teaching-ai-ethics-trick-or-treat/)
+- [Europe’s AI ethics chief: No rules yet, please](https://www.politico.eu/article/pekka-ala-pietila-artificial-intelligence-europe-shouldnt-rush-to-regulate-ai-says-top-ethics-adviser/)
+- [Tech Leaders Look To IoT, AI & Robotics To Fuel Growth Through 2021](https://www.forbes.com/sites/louiscolumbus/2018/10/30/tech-leaders-look-to-iot-ai-robotics-to-fuel-growth-through-2021/#7b53ec2585f7)
+- [Robotic Process Automation: A Gateway Drug to AI and Digital Transformation](https://www.forbes.com/sites/tomdavenport/2018/10/29/robotic-process-automation-a-gateway-drug-to-ai-and-digital-transformation/#1b756d633a70)
+- [Data quality and the democratisation of AI](https://itbrief.co.nz/story/data-quality-and-the-democratisation-of-ai)
+
 
 ---------------
 10/27
