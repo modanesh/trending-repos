@@ -779,6 +779,14 @@ ML study process record
 - [omi](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating) http://omijs.org
 - [mio](https://github.com/mandreyel/mio) - Cross-platform header-only C++11 library for memory mapped file IO
 
+-----------
+
+- [Google Research Picks for Videos of the Year - 2006](https://ai.googleblog.com/2006/12/google-research-picks-for-videos-of-year.html)
+- [The Continuing
+Metamorphosis
+Of the Web - 2009](http://www2009.eprints.org/214/1/www2009azsv4FinalV3.pdf)
+
+
 ----------
 
 #### AI Residency
