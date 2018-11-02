@@ -619,6 +619,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+- [axiom](https://github.com/monadgroup/axiom)  - A powerful realtime node-based audio synthesizer.
 - [Tencent/PocketFlow](https://github.com/Tencent/PocketFlow) - An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications.
 - [facebookresearch/Horizon](https://github.com/facebookresearch/Horizon) - A platform for Applied Reinforcement Learning (Applied RL)
 - [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT https://arxiv.org/abs/1810.04805
