@@ -798,6 +798,9 @@ Of the Web - 2009](http://www2009.eprints.org/214/1/www2009azsv4FinalV3.pdf)
 - [Google Search by Voice: A Case Study](https://ai.googleblog.com/2010/09/google-search-by-voice-case-study.html)
 - [Making an Impact on a Thriving Speech Research Community - 2010](https://ai.googleblog.com/2010/10/making-impact-on-thriving-speech.html)
 - [Google at the Conference on Empirical Methods in Natural Language Processing (EMNLP '2010)](https://ai.googleblog.com/2010/10/google-at-conference-on-empirical.html)
+- [Find out what’s in a word, or five, with the Google Books Ngram Viewer](https://ai.googleblog.com/2010/12/find-out-whats-in-word-or-five-with.html)
+- [More researchers dive into the digital humanities](https://ai.googleblog.com/2010/12/more-researchers-dive-into-digital.html)
+- [More Google Contributions to the Broader Scientific Community](https://ai.googleblog.com/2011/01/more-google-contributions-to-broader.html)
 
 ----------
 
