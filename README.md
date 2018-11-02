@@ -792,6 +792,12 @@ Of the Web - 2009](http://www2009.eprints.org/214/1/www2009azsv4FinalV3.pdf)
 - [The 50th Symposium on Foundations of Computer Science (FOCS) - 2009](https://ai.googleblog.com/2009/11/the-50th-symposium-on-foundations-of.html)
 - [Research Areas of Interest: Building scalable, robust cluster applications - 2010](https://ai.googleblog.com/2010/01/research-areas-of-interest-building.html)
 - [outreach](https://ai.google/research/outreach)
+- [google-publications-2010](https://ai.googleblog.com/2010/07/google-publications.html)
+- [Google North American Faculty Summit - cloud computing - 2010](https://ai.googleblog.com/2010/08/google-north-american-faculty-summit_3.html)
+- [towards-energy-proportional-datacenters-2010](https://ai.googleblog.com/2010/09/towards-energy-proportional-datacenters.html)
+- [Google Search by Voice: A Case Study](https://ai.googleblog.com/2010/09/google-search-by-voice-case-study.html)
+- [Making an Impact on a Thriving Speech Research Community - 2010](https://ai.googleblog.com/2010/10/making-impact-on-thriving-speech.html)
+- [Google at the Conference on Empirical Methods in Natural Language Processing (EMNLP '2010)](https://ai.googleblog.com/2010/10/google-at-conference-on-empirical.html)
 
 ----------
 
