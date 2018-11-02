@@ -592,6 +592,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+- [facebookresearch/Horizon](https://github.com/facebookresearch/Horizon) - A platform for Applied Reinforcement Learning (Applied RL)
+- [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT https://arxiv.org/abs/1810.04805
 - [tensorflow/adanet](https://github.com/tensorflow/adanet) - Fast and flexible AutoML with learning guarantees.
 - [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark) - Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.
 - [practical-pytorch](https://github.com/spro/practical-pytorch) - PyTorch tutorials demonstrating modern techniques with readable code
@@ -709,7 +711,6 @@ This is an automated machine learning (AutoML) package. http://autokeras.com/
 
 [Back to top](#contents)
 
-- [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT https://arxiv.org/abs/1810.04805
 - [udacity/deep-reinforcement-learning](https://github.com/udacity/deep-reinforcement-learning) : Repo for the Deep Reinforcement Learning Nanodegree program
 - [Mask-RCNN](https://github.com/wannabeOG/Mask-RCNN) : A PyTorch implementation of the architecture of Mask RCNN, serves as an introduction to working with PyTorch
 - [cascade-rcnn](https://github.com/zhaoweicai/cascade-rcnn) : Caffe implementation of multiple popular object detection frameworks
