@@ -785,7 +785,13 @@ ML study process record
 - [The Continuing
 Metamorphosis
 Of the Web - 2009](http://www2009.eprints.org/214/1/www2009azsv4FinalV3.pdf)
-
+- [ACM Multimedia 2009 Grand Challenges](https://ai.googleblog.com/2009/05/acm-multimedia-2009-grand-challenges.html)
+- [Large-scale graph computing at Google](https://ai.googleblog.com/2009/06/large-scale-graph-computing-at-google.html)
+- [Tour the World: building a web-scale landmark recognition engine](https://static.googleusercontent.com/media/www.google.com/en//googleblogs/pdfs/google_landmark_recognition.pdf)
+- [App Inventor for Android](https://ai.googleblog.com/2009/07/app-inventor-for-android.html)
+- [The 50th Symposium on Foundations of Computer Science (FOCS) - 2009](https://ai.googleblog.com/2009/11/the-50th-symposium-on-foundations-of.html)
+- [Research Areas of Interest: Building scalable, robust cluster applications - 2010](https://ai.googleblog.com/2010/01/research-areas-of-interest-building.html)
+- [outreach](https://ai.google/research/outreach)
 
 ----------
 
