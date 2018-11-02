@@ -83,6 +83,33 @@
 - [oreilly](https://www.oreilly.com/topics/ai)
 
 --------------
+11/02
+
+- [Tech Leaders Look To IoT, AI & Robotics To Fuel Growth Through 2021](https://www.forbes.com/sites/louiscolumbus/2018/10/30/tech-leaders-look-to-iot-ai-robotics-to-fuel-growth-through-2021/#7b53ec2585f7)
+- [Robotic Process Automation: A Gateway Drug to AI and Digital Transformation](https://www.forbes.com/sites/tomdavenport/2018/10/29/robotic-process-automation-a-gateway-drug-to-ai-and-digital-transformation/#1b756d633a70)
+- [Data quality and the democratisation of AI](https://itbrief.co.nz/story/data-quality-and-the-democratisation-of-ai)
+- [Future Decoded 2018: Adopt AI or get left behind, Microsoft warns](https://www.computerweekly.com/news/252451571/Future-Decoded-2018-Adopt-AI-or-get-left-behind-Microsoft-warns)
+- [Google launches AdaNet for combining algorithms with AutoML](https://venturebeat.com/2018/10/30/google-launches-adanet-for-combining-algorithms-with-automl/)
+- [Microsoft chooses new chip supplier Xilinx for half of Azure’s AI workloads](https://siliconangle.com/2018/10/30/microsoft-chooses-new-chip-supplier-xilinx-half-azures-ai-workloads/)
+- [Intel’s AI strategy for 2019 goes beyond chips](https://thenextweb.com/artificial-intelligence/2018/10/30/intels-ai-strategy-for-2019-goes-beyond-chips/)
+- [Philips looks to artificial intelligence to train its workforce](https://www.computerweekly.com/news/252451426/Philips-looks-to-artificial-intelligence-to-train-its-workforce)
+- [Flex Logix unveils neural inferencing engine for AI in datacenters and on the edge](https://venturebeat.com/2018/11/02/apple-flees-from-transparency-as-it-stops-reporting-unit-sales-of-iphones-ipads-and-macs/)
+- [Irish startup Voysis creates general purpose AI voice technologies](https://www.techworld.com/startups/irish-startup-voysis-focuses-on-creating-general-purpose-ai-voice-technologies-3686028/)
+- [Data privacy is a human right and must be protected, says Satya Nadella ](https://economictimes.indiatimes.com/magazines/panache/data-privacy-is-a-human-right-and-must-be-protected-says-satya-nadella/articleshow/66472023.cms)
+- [Facebook aims to be more engaging to humans in latest AI research](https://www.zdnet.com/article/facebooks-aims-to-be-more-engaging-to-humans-in-latest-ai-research/)
+- [Google puts up $25 million for AI research to help humanity, Earth](https://phys.org/news/2018-10-google-million-ai.html)
+- [Microsoft in multi-million pound move to stop brain drain by backing AI research at Cambridge](https://www.businessweekly.co.uk/news/hi-tech/microsoft-multi-million-pound-move-stop-brain-drain-backing-ai-research-cambridge)
+- [Canadian AI research depends on continued funding](https://www.theglobeandmail.com/canada/education/canadian-university-report/article-canadian-ai-research-depends-on-continued-funding/)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+---------------
 10/27
 
 - [Machine learning now the top skill sought by developers](https://www.zdnet.com/article/machine-learning-is-now-the-top-skill-sought-by-developers/)
