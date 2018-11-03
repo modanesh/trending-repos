@@ -811,6 +811,8 @@ ML study process record
 
 -----------
 
+###### Google Research 2006 - 2014
+
 - [Google's Hybrid Approach to Research](https://cacm.acm.org/magazines/2012/7/151226-googles-hybrid-approach-to-research/fulltext)
 - [Google Research Picks for Videos of the Year - 2006](https://ai.googleblog.com/2006/12/google-research-picks-for-videos-of-year.html)
 - [The Continuing
@@ -855,6 +857,12 @@ Of the Web - 2009](http://www2009.eprints.org/214/1/www2009azsv4FinalV3.pdf)
 - [Moore’s Law, Part 3: Possible extrapolations over the next 15 years and impact](https://ai.googleblog.com/2013/11/moores-law-part-3-possible.html)
 - [Moore’s Law Part 4: Moore's Law in other domains](https://ai.googleblog.com/2013/11/moores-law-part-4-moore-law-in-other.html)
 - [Launching the Quantum Artificial Intelligence Lab - 2013](https://ai.googleblog.com/2013/05/launching-quantum-artificial.html)
+
+--------
+
+
+###### Google Research - 2015
+
 - [From Pixels to Actions: Human-level control through Deep Reinforcement Learning](https://ai.googleblog.com/2015/02/from-pixels-to-actions-human-level.html)
 - [Large-Scale Machine Learning for Drug Discovery](https://ai.googleblog.com/2015/03/large-scale-machine-learning-for-drug.html)
 - [A step closer to quantum computation with Quantum Error Correction](https://ai.googleblog.com/2015/03/a-step-closer-to-quantum-computation.html)
@@ -878,6 +886,11 @@ Of the Web - 2009](http://www2009.eprints.org/214/1/www2009azsv4FinalV3.pdf)
 - [How to Classify Images with TensorFlow](https://ai.googleblog.com/2015/12/how-to-classify-images-with-tensorflow.html)
 - [Text-to-Speech for Low-Resource Languages (Episode 2): Building a Parametric Voice](https://ai.googleblog.com/2015/12/text-to-speech-for-low-resource.html)
 - [Four years of Schema.org - Recent Progress and Looking Forward](https://ai.googleblog.com/2015/12/four-years-of-schemaorg-recent-progress.html)
+
+---------
+
+###### Google Research - 2016
+
 - [AlphaGo: Mastering the ancient game of Go with Machine Learning](https://ai.googleblog.com/2016/01/alphago-mastering-ancient-game-of-go.html)
 - [Running your models in production with TensorFlow Serving](https://ai.googleblog.com/2016/02/running-your-models-in-production-with.html)
 - [Text-to-Speech for Low-Resource Languages (Episode 3): But can it say “Google”?](https://ai.googleblog.com/2016/02/text-to-speech-for-low-resource.html)
@@ -916,6 +929,94 @@ Of the Web - 2009](http://www2009.eprints.org/214/1/www2009azsv4FinalV3.pdf)
 - [Deep Learning for Detection of Diabetic Eye Disease](https://ai.googleblog.com/2016/11/deep-learning-for-detection-of-diabetic.html)
 - [NIPS 2016 & Research at Google](https://ai.googleblog.com/2016/12/nips-2016-research-at-google.html)
 - [Open sourcing the Embedding Projector: a tool for visualizing high dimensional data](https://ai.googleblog.com/2016/12/open-sourcing-embedding-projector-tool.html)
+
+----------
+
+###### Google Research - 2017
+
+- [Google Brain Residency Program - 7 months in and looking ahead](https://ai.googleblog.com/2017/01/google-brain-residency-program-7-months.html)
+- [The Google Brain Team — Looking Back on 2016](https://ai.googleblog.com/2017/01/the-google-brain-team-looking-back-on.html)
+- [A Large Corpus for Supervised Word-Sense Disambiguation](https://ai.googleblog.com/2017/01/a-large-corpus-for-supervised-word.html)
+- [Facilitating the discovery of public datasets](https://ai.googleblog.com/2017/01/facilitating-discovery-of-public.html)
+- [App Discovery with Google Play, Part 3: Machine Learning to Fight Spam and Abuse at Scale](https://ai.googleblog.com/2017/01/app-discovery-with-google-play-part-3.html)
+- [Using Machine Learning to Predict Parking Difficulty](https://ai.googleblog.com/2017/02/using-machine-learning-to-predict.html)
+- [Advancing Research on Video Understanding with the YouTube-BoundingBoxes Dataset](https://ai.googleblog.com/2017/02/advancing-research-on-video.html)
+- [Announcing TensorFlow Fold: Deep Learning With Dynamic Computation Graphs](https://ai.googleblog.com/2017/02/announcing-tensorflow-fold-deep.html)
+- [On-Device Machine Intelligence](https://ai.googleblog.com/2017/02/on-device-machine-intelligence.html)
+- [Announcing TensorFlow 1.0](https://ai.googleblog.com/2017/02/announcing-tensorflow-10.html)
+- [An updated YouTube-8M, a video understanding challenge, and a CVPR workshop. Oh my!](https://ai.googleblog.com/2017/02/an-updated-youtube-8m-video.html)
+- [Preprocessing for Machine Learning with tf.Transform](https://ai.googleblog.com/2017/02/preprocessing-for-machine-learning-with.html)
+- [Assisting Pathologists in Detecting Cancer with Deep Learning](https://ai.googleblog.com/2017/03/assisting-pathologists-in-detecting.html)
+- [Quick Access in Drive: Using Machine Learning to Save You Time](https://ai.googleblog.com/2017/03/quick-access-in-drive-using-machine.html)
+- [An Upgrade to SyntaxNet, New Models and a Parsing Competition](https://ai.googleblog.com/2017/03/an-upgrade-to-syntaxnet-new-models-and.html)
+- [Distill: Supporting Clarity in Machine Learning](https://ai.googleblog.com/2017/03/distill-supporting-clarity-in-machine.html)
+- [Adding Sound Effect Information to YouTube Captions](https://ai.googleblog.com/2017/03/adding-sound-effect-information-to.html)
+- [Announcing AudioSet: A Dataset for Audio Event Research](https://ai.googleblog.com/2017/03/announcing-audioset-dataset-for-audio.html)
+- [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
+- [Predicting Properties of Molecules with Machine Learning](https://ai.googleblog.com/2017/04/predicting-properties-of-molecules-with.html)
+- [Introducing tf-seq2seq: An Open Source Sequence-to-Sequence Framework in TensorFlow](https://ai.googleblog.com/2017/04/introducing-tf-seq2seq-open-source.html)
+- [Teaching Machines to Draw](https://ai.googleblog.com/2017/04/teaching-machines-to-draw.html)
+- [Research at Google and ICLR 2017](https://ai.googleblog.com/2017/04/research-at-google-and-iclr-2017.html)
+- [Updating Google Maps with Deep Learning and Street View](https://ai.googleblog.com/2017/05/updating-google-maps-with-deep-learning.html)
+- [Neural Network-Generated Illustrations in Allo](https://ai.googleblog.com/2017/05/neural-network-generated-illustrations.html)
+- [Coarse Discourse: A Dataset for Understanding Online Discussions](https://ai.googleblog.com/2017/05/coarse-discourse-dataset-for.html)
+- [Using Machine Learning to Explore Neural Network Architecture](https://ai.googleblog.com/2017/05/using-machine-learning-to-explore.html)
+- [Efficient Smart Reply, now for Gmail](https://ai.googleblog.com/2017/05/efficient-smart-reply-now-for-gmail.html)
+- [Introducing the TensorFlow Research Cloud](https://ai.googleblog.com/2017/05/introducing-tensorflow-research-cloud.html)
+- [The Machine Intelligence Behind Gboard](https://ai.googleblog.com/2017/05/the-machine-intelligence-behind-gboard.html)
+- [MobileNets: Open-Source Models for Efficient On-Device Vision](https://ai.googleblog.com/2017/06/mobilenets-open-source-models-for.html)
+- [Supercharge your Computer Vision models with the TensorFlow Object Detection API](https://ai.googleblog.com/2017/06/supercharge-your-computer-vision-models.html)
+- [Accelerating Deep Learning Research with the Tensor2Tensor Library](https://ai.googleblog.com/2017/06/accelerating-deep-learning-research.html)
+- [MultiModel: Multi-Task Machine Learning Across Domains](https://ai.googleblog.com/2017/06/multimodel-multi-task-machine-learning.html)
+- [The Google Brain Residency Program — One Year Later](https://ai.googleblog.com/2017/07/the-google-brain-residency-program-one.html)
+- [Revisiting the Unreasonable Effectiveness of Data](https://ai.googleblog.com/2017/07/revisiting-unreasonable-effectiveness.html)
+- [Building Your Own Neural Machine Translation System in TensorFlow](https://ai.googleblog.com/2017/07/building-your-own-neural-machine.html)
+- [Using Deep Learning to Create Professional-Level Photographs](https://ai.googleblog.com/2017/07/using-deep-learning-to-create.html)
+- [Facets: An Open Source Visualization Tool for Machine Learning Training Data](https://ai.googleblog.com/2017/07/facets-open-source-visualization-tool.html)
+- [Google at CVPR 2017](https://ai.googleblog.com/2017/07/google-at-cvpr-2017.html)
+- [Teaching Robots to Understand Semantic Concepts](https://ai.googleblog.com/2017/07/teaching-robots-to-understand-semantic.html)
+- [Google at ACL 2017](https://ai.googleblog.com/2017/07/google-at-acl-2017.html)
+- [Google at ICML 2017](https://ai.googleblog.com/2017/08/google-at-icml-2017.html)
+- [Harness the Power of Machine Learning in Your Browser with Deeplearn.js](https://ai.googleblog.com/2017/08/harness-power-of-machine-learning-in.html)
+- [Making Visible Watermarks More Effective](https://ai.googleblog.com/2017/08/making-visible-watermarks-more-effective.html)
+- [Announcing the NYC Algorithms and Optimization Site](https://ai.googleblog.com/2017/08/announcing-nyc-algorithms-and.html)
+- [Google at KDD’17: Graph Mining and Beyond](https://ai.googleblog.com/2017/08/google-at-kdd17-graph-mining-and-beyond.html)
+- [Launching the Speech Commands Dataset](https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html)
+- [Exploring and Visualizing an Open Global Dataset](https://ai.googleblog.com/2017/08/exploring-and-visualizing-open-global.html)
+- [Transformer: A Novel Neural Network Architecture for Language Understanding](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html)
+- [Seminal Ideas from 2007](https://ai.googleblog.com/2017/09/seminal-ideas-from-2007.html)
+- [Build your own Machine Learning Visualizations with the new TensorBoard API](https://ai.googleblog.com/2017/09/build-your-own-machine-learning.html)
+- [Highlights from the Annual Google PhD Fellowship Summit, and Announcing the 2017 Google PhD Fellows](https://ai.googleblog.com/2017/09/highlights-from-annual-google-phd.html)
+- [The Google Brain Team’s Approach to Research](https://ai.googleblog.com/2017/09/the-google-brain-teams-approach-to.html)
+- [TensorFlow Lattice: Flexibility Empowered by Prior Knowledge](https://ai.googleblog.com/2017/10/tensorflow-lattice-flexibility.html)
+- [Announcing AVA: A Finely Labeled Video Dataset for Human Action Understanding](https://ai.googleblog.com/2017/10/announcing-ava-finely-labeled-video.html)
+- [Announcing OpenFermion: The Open Source Chemistry Package for Quantum Computers](https://ai.googleblog.com/2017/10/announcing-openfermion-open-source.html)
+- [Closing the Simulation-to-Reality Gap for Deep Robotic Learning](https://ai.googleblog.com/2017/10/closing-simulation-to-reality-gap-for.html)
+- [Eager Execution: An imperative, define-by-run interface to TensorFlow](https://ai.googleblog.com/2017/10/eager-execution-imperative-define-by.html)
+- [Latest Innovations in TensorFlow Serving](https://ai.googleblog.com/2017/11/latest-innovations-in-tensorflow-serving.html)
+- [AutoML for large scale image classification and object detection](https://ai.googleblog.com/2017/11/automl-for-large-scale-image.html)
+- [Tangent: Source-to-Source Debuggable Derivatives](https://ai.googleblog.com/2017/11/tangent-source-to-source-debuggable.html)
+- [Feature Visualization](https://ai.googleblog.com/2017/11/feature-visualization.html)
+- [On-Device Conversational Modeling with TensorFlow Lite](https://ai.googleblog.com/2017/11/on-device-conversational-modeling-with.html)
+- [SLING: A Natural Language Frame Semantic Parser](https://ai.googleblog.com/2017/11/sling-natural-language-frame-semantic.html)
+- [Understanding Medical Conversations](https://ai.googleblog.com/2017/11/understanding-medical-conversations.html)
+- [Interpreting Deep Neural Networks with SVCCA](https://ai.googleblog.com/2017/11/interpreting-deep-neural-networks-with.html)
+- [Understanding Bias in Peer Review](https://ai.googleblog.com/2017/11/understanding-bias-in-peer-review.html)
+- [Google at NIPS 2017](https://ai.googleblog.com/2017/12/google-at-nips-2017.html)
+- [DeepVariant: Highly Accurate Genomes With Deep Neural Networks](https://ai.googleblog.com/2017/12/deepvariant-highly-accurate-genomes.html)
+- [TFGAN: A Lightweight Library for Generative Adversarial Networks](https://ai.googleblog.com/2017/12/tfgan-lightweight-library-for.html)
+- [A Summary of the First Conference on Robot Learning](https://ai.googleblog.com/2017/12/a-summary-of-first-conference-on-robot.html)
+- [Improving End-to-End Models For Speech Recognition](https://ai.googleblog.com/2017/12/improving-end-to-end-models-for-speech.html)
+- [Introducing NIMA: Neural Image Assessment](https://ai.googleblog.com/2017/12/introducing-nima-neural-image-assessment.html)
+- [Tacotron 2: Generating Human-like Speech from Text](https://ai.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html)
+- [Evaluation of Speech for the Google Assistant](https://ai.googleblog.com/2017/12/evaluation-of-speech-for-google.html)
+- [Introducing the CVPR 2018 Learned Image Compression Challenge](https://ai.googleblog.com/2018/01/introducing-cvpr-2018-learned-image.html)
+
+
+-------------
+
+###### Google Research - 2018
+
 - []()
 - []()
 - []()
@@ -936,6 +1037,44 @@ Of the Web - 2009](http://www2009.eprints.org/214/1/www2009azsv4FinalV3.pdf)
 - []()
 - []()
 - []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
 
 
 ----------
