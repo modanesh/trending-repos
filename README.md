@@ -773,7 +773,8 @@ A pytorch implementation of Detectron. Both training from scratch and inferring 
 ML study process record
 - [PyTorch-Deep-Learning-Minicourse](https://github.com/Atcold/PyTorch-Deep-Learning-Minicourse) : Minicourse in Deep Learning with PyTorch
 - [pytorch-book](https://github.com/chenyuntc/pytorch-book) : PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation
-
+- [CFDPython](https://github.com/barbagroup/CFDPython) - 
+A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http://lorenabarba.com/
 
 ---------------
 
