@@ -811,6 +811,7 @@ ML study process record
 
 -----------
 
+- [Google's Hybrid Approach to Research](https://cacm.acm.org/magazines/2012/7/151226-googles-hybrid-approach-to-research/fulltext)
 - [Google Research Picks for Videos of the Year - 2006](https://ai.googleblog.com/2006/12/google-research-picks-for-videos-of-year.html)
 - [The Continuing
 Metamorphosis
@@ -831,6 +832,20 @@ Of the Web - 2009](http://www2009.eprints.org/214/1/www2009azsv4FinalV3.pdf)
 - [Find out what’s in a word, or five, with the Google Books Ngram Viewer](https://ai.googleblog.com/2010/12/find-out-whats-in-word-or-five-with.html)
 - [More researchers dive into the digital humanities](https://ai.googleblog.com/2010/12/more-researchers-dive-into-digital.html)
 - [More Google Contributions to the Broader Scientific Community](https://ai.googleblog.com/2011/01/more-google-contributions-to-broader.html)
+- [Google at ACL 2011](https://ai.googleblog.com/2011/05/google-at-acl-2011.html)
+- [Our first round of Google Research Awards for 2011](https://ai.googleblog.com/2011/06/our-first-round-of-google-research.html)
+- [Google at CVPR 2011](https://ai.googleblog.com/2011/06/google-at-cvpr-2011.html)
+- [Google Translate welcomes you to the Indic web](https://ai.googleblog.com/2011/06/google-translate-welcomes-you-to-indic.html)
+- [President's Council Recommends Open Data for Federal Agencies](https://ai.googleblog.com/2011/07/president-council-recommends-open-data.html)
+- [Announcing Google-hosted workshop videos from NIPS 2011](https://ai.googleblog.com/2012/02/announcing-google-hosted-workshop.html)
+- [Excellent Papers for 2011](https://ai.googleblog.com/2012/03/excellent-papers-for-2011.html)
+- [Video Stabilization on YouTube](https://ai.googleblog.com/2012/05/video-stabilization-on-youtube.html)
+- [Google, the World Wide Web and WWW conference: years of progress, prosperity and innovation](https://ai.googleblog.com/2012/05/google-world-wide-web-and-www.html)
+- [Recap of NAACL-12 including two Best Paper awards for Googlers](https://ai.googleblog.com/2012/06/recap-of-naacl-12-including-two-best.html)
+- [Google at SIGMOD/PODS 2012](https://ai.googleblog.com/2012/07/google-at-sigmodpods-2012.html)
+
+
+
 
 ----------
 
