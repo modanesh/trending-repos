@@ -102,7 +102,7 @@
 - [Intel and Tencent debut AI-powered camera systems for retail](https://venturebeat.com/2018/11/01/intel-and-tencent-debut-ai-powered-camera-systems-for-retail/)
 - [IBM, Harvard develop tool to tackle black box problem in AI translation](https://venturebeat.com/2018/11/01/ibm-harvard-develop-tool-to-tackle-black-box-problem-in-ai-translation/)
 - [Nearly half of UK firms think their business models won't exist in 5 years because of A.I., study says](https://www.cnbc.com/2018/10/31/nearly-half-of-uk-firms-think-their-business-models-wont-exist-in-5-years-because-of-ai-study-says.html)
-- [eaching AI ethics – Trick or Treat?](https://hub.packtpub.com/teaching-ai-ethics-trick-or-treat/)
+- [Teaching AI ethics – Trick or Treat?](https://hub.packtpub.com/teaching-ai-ethics-trick-or-treat/)
 - [Europe’s AI ethics chief: No rules yet, please](https://www.politico.eu/article/pekka-ala-pietila-artificial-intelligence-europe-shouldnt-rush-to-regulate-ai-says-top-ethics-adviser/)
 - [Tech Leaders Look To IoT, AI & Robotics To Fuel Growth Through 2021](https://www.forbes.com/sites/louiscolumbus/2018/10/30/tech-leaders-look-to-iot-ai-robotics-to-fuel-growth-through-2021/#7b53ec2585f7)
 - [Robotic Process Automation: A Gateway Drug to AI and Digital Transformation](https://www.forbes.com/sites/tomdavenport/2018/10/29/robotic-process-automation-a-gateway-drug-to-ai-and-digital-transformation/#1b756d633a70)
@@ -1010,7 +1010,7 @@ Of the Web - 2009](http://www2009.eprints.org/214/1/www2009azsv4FinalV3.pdf)
 - [Introducing NIMA: Neural Image Assessment](https://ai.googleblog.com/2017/12/introducing-nima-neural-image-assessment.html)
 - [Tacotron 2: Generating Human-like Speech from Text](https://ai.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html)
 - [Evaluation of Speech for the Google Assistant](https://ai.googleblog.com/2017/12/evaluation-of-speech-for-google.html)
-- [Introducing the CVPR 2018 Learned Image Compression Challenge](https://ai.googleblog.com/2018/01/introducing-cvpr-2018-learned-image.html)
+
 
 
 -------------
@@ -1019,6 +1019,7 @@ Of the Web - 2009](http://www2009.eprints.org/214/1/www2009azsv4FinalV3.pdf)
 
 - [The Google Brain Team — Looking Back on 2017 (Part 1 of 2)](https://ai.googleblog.com/2018/01/the-google-brain-team-looking-back-on.html)
 - [The Google Brain Team — Looking Back on 2017 (Part 2 of 2)](https://ai.googleblog.com/2018/01/the-google-brain-team-looking-back-on_12.html)
+- [Introducing the CVPR 2018 Learned Image Compression Challenge](https://ai.googleblog.com/2018/01/introducing-cvpr-2018-learned-image.html)
 - [Introducing the HDR+ Burst Photography Dataset](https://ai.googleblog.com/2018/02/introducing-hdr-burst-photography.html)
 - [Assessing Cardiovascular Risk Factors with Computer Vision](https://ai.googleblog.com/2018/02/assessing-cardiovascular-risk-factors.html)
 - [A Summary of the Google Zürich Algorithms & Optimization Workshop](https://ai.googleblog.com/2018/02/a-summary-of-google-zurich-algorithms.html)
