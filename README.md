@@ -619,6 +619,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [DeOldify](https://github.com/jantic/DeOldify) - 
+A Deep Learning based project for colorizing and restoring old images
 - [YouMayNotNeedAttention](https://github.com/ofirpress/YouMayNotNeedAttention)
 - [axiom](https://github.com/monadgroup/axiom)  - A powerful realtime node-based audio synthesizer.
 - [Tencent/PocketFlow](https://github.com/Tencent/PocketFlow) - An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications.
