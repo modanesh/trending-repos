@@ -619,6 +619,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [MAMEToolkit](https://github.com/M-J-Murray/MAMEToolkit) - A Python toolkit used to train reinforcement learning algorithms against arcade games
 - [intel-analytics/analytics-zoo](https://github.com/intel-analytics/analytics-zoo) - Distributed Tensorflow, Keras and BigDL on Apache Spark https://analytics-zoo.github.io
 - [DeOldify](https://github.com/jantic/DeOldify) - 
 A Deep Learning based project for colorizing and restoring old images
