@@ -1126,6 +1126,7 @@ Of the Web - 2009](http://www2009.eprints.org/214/1/www2009azsv4FinalV3.pdf)
 - [My year at Brain](http://colinraffel.com/blog/my-year-at-brain.html).
 - [Google Brain Residency](http://tinyclouds.org/residency/)
 - [The Google Brain Residency Program - One Year Later](https://research.googleblog.com/2017/07/the-google-brain-residency-program-one.html)
+- [Intel AI Residency](https://ai.intel.com/iclr-2018/)
 
 ---------
 
