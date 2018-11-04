@@ -11,6 +11,7 @@
 - [Research News](#research-news)
   - [Imp](#imp)
   - [AI Residency](#ai-residency)
+  - [Old Posts- Jan-Jun 2018](https://github.com/gopala-kr/summary/tree/master/articles)
 
 [Back to top](#contents)
 
@@ -619,6 +620,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [sotawhat](https://github.com/chiphuyen/sotawhat) - Returns latest research results by crawling arxiv papers and summarizing abstracts. Helps you stay afloat with so many new papers everyday.
 - [MAMEToolkit](https://github.com/M-J-Murray/MAMEToolkit) - A Python toolkit used to train reinforcement learning algorithms against arcade games
 - [intel-analytics/analytics-zoo](https://github.com/intel-analytics/analytics-zoo) - Distributed Tensorflow, Keras and BigDL on Apache Spark https://analytics-zoo.github.io
 - [DeOldify](https://github.com/jantic/DeOldify) - 
