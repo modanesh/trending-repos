@@ -1117,7 +1117,11 @@ Of the Web - 2009](http://www2009.eprints.org/214/1/www2009azsv4FinalV3.pdf)
 - [Google at EMNLP 2018](https://ai.googleblog.com/2018/10/google-at-emnlp-2018.html)
 - [Open Sourcing BERT: State-of-the-Art Pre-training for Natural Language Processing](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html)
 
+-------------
 
+Microsoft Research
+
+- [research projects](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/projects/)
 
 ----------
 
