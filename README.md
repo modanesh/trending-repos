@@ -1122,6 +1122,10 @@ Of the Web - 2009](http://www2009.eprints.org/214/1/www2009azsv4FinalV3.pdf)
 Microsoft Research
 
 - [research projects](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/projects/)
+- [@events](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/events/)
+- [research-blog](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/microsoft-research-blog/)
+- [ai-blog](https://blogs.microsoft.com/ai/)
+
 
 ----------
 
