@@ -7,7 +7,7 @@
   - [AI](#ai)
     - [Latest](#latest)
     - [Old](#old)
-    - [machine-learning-open-source](https://github.com/Mybridge/machine-learning-open-source)
+    - [ml-open-source](https://github.com/Mybridge/machine-learning-open-source)
     - [github trending](https://github.com/trending)
   - [Others](#others)
 - [Research News](#research-news)
