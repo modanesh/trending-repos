@@ -620,6 +620,16 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [Tencent/tencent-ml-images](https://github.com/Tencent/tencent-ml-images) - 
+Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet
+- [blueoil](https://github.com/blue-oil/blueoil) - Bring Deep Learning to small devices https://blue-oil.org
+- [AlphaAI](https://github.com/VivekPa/AlphaAI) - 
+Use unsupervised and supervised learning to predict stocks
+- [Ngx](https://github.com/keijiro/Ngx) - Ngx - Neural network based visual generator and mixer
+- [albumentations](https://github.com/albu/albumentations) - fast image augmentation library and easy to use wrapper around other libraries https://arxiv.org/abs/1809.06839
+- [uber/petastorm](https://github.com/uber/petastorm) - Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch, and PySpark and can be used from pure Python code.
+- [holodeck](https://github.com/BYU-PCCL/holodeck) - 
+High Fidelity Simulator for Reinforcement Learning and Robotics Research. https://holodeck.cs.byu.edu
 - [sotawhat](https://github.com/chiphuyen/sotawhat) - Returns latest research results by crawling arxiv papers and summarizing abstracts. Helps you stay afloat with so many new papers everyday.
 - [MAMEToolkit](https://github.com/M-J-Murray/MAMEToolkit) - A Python toolkit used to train reinforcement learning algorithms against arcade games
 - [intel-analytics/analytics-zoo](https://github.com/intel-analytics/analytics-zoo) - Distributed Tensorflow, Keras and BigDL on Apache Spark https://analytics-zoo.github.io
