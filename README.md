@@ -172,7 +172,7 @@
 
 10/12
 
-
+- [Intel: deep-learning-is-coming-of-age](https://ai.intel.com/deep-learning-is-coming-of-age/)
 - [Microsoft open-sources Infer.Net machine learning](https://www.infoworld.com/article/3311994/machine-learning/microsoft-open-sources-infernet-machine-learning.html)
 - [Google open-sources ActiveQA, an AI agent that learns to ask good questions](https://venturebeat.com/2018/10/10/google-open-sources-activeqa-an-ai-agent-that-learns-to-ask-good-questions/)
 - [Google to release DeepMind's StreetLearn for teaching machine-learning agents to navigate cities](https://www.techrepublic.com/article/google-to-release-deepminds-streetlearn-for-teaching-machine-learning-agents-to-navigate-cities/)
