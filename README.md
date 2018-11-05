@@ -1210,15 +1210,6 @@ Using Artificial Intelligence to Transform Urban Transport](https://verdict-ai.n
 - [Michelangelo PyML: Introducing Uber’s Platform for Rapid Python ML Model Development](https://eng.uber.com/michelangelo-pyml/)
 - [Scaling Machine Learning at Uber with Michelangelo](https://eng.uber.com/scaling-michelangelo/)
 
-----------------
-
-IBM AI research
-
-from 2010
-
-- [IBM computer system a scientific achievement in natural language processing](https://www.ibm.com/blogs/research/2010/12/ibm-computer-system-a-scientific-achievement-in-natural-language-processing/)
-- [An inside look at the Power behind IBM Watson](https://www.ibm.com/blogs/research/2010/12/an-inside-look-at-the-power-behind-ibm-watson/)
-
 
 ----------
 
