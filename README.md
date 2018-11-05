@@ -1127,6 +1127,58 @@ Microsoft Research
 - [research-blog](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/microsoft-research-blog/)
 - [ai-blog](https://blogs.microsoft.com/ai/)
 
+-----------
+
+Ube AI Labs
+
+from 2016
+
+- [Uber’s AI Ambition
+Using Artificial Intelligence to Transform Urban Transport](https://verdict-ai.nridigital.com/verdict_ai_dec17/uber_s_ai_ambition_using_artificial_intelligence_to_transform_urban_transport_and_beyond)
+- [Engineering Intelligence Through Data Visualization at Uber](https://eng.uber.com/data-viz-intel/)
+- [The Uber Engineering Tech Stack, Part I: The Foundation](https://eng.uber.com/tech-stack-part-one/)
+- [The Uber Engineering Tech Stack, Part II: The Edge and Beyond](https://eng.uber.com/tech-stack-part-two/)
+- [How Uber Engineering Massively Scaled Global Driver Onboarding](https://eng.uber.com/driver-onboarding/)
+- [Introducing Chaperone: How Uber Engineering Audits Apache Kafka End-to-End](https://eng.uber.com/chaperone/)
+
+2017
+
+- [Engineering the Architecture Behind Uber’s New Rider App](https://eng.uber.com/new-rider-app/)
+- [Introducing Ohana, Uber Engineering’s iOS Contacts Library](https://eng.uber.com/ohana/)
+- [Powering UberEATS with React Native and Uber Engineering](https://eng.uber.com/ubereats-react-native/)
+- [Open Sourcing deck.gl 4.0: Uber Engineering’s Framework for Advanced Data Visualization](https://eng.uber.com/deck-gl-4-0/)
+- [Presenting the Engineering Behind Uber at Our Technology Day](https://eng.uber.com/uber-technology-day/)
+- [Redesigning Uber Engineering’s Mobile Content Delivery Ecosystem](https://eng.uber.com/mobile-content-delivery/)
+- [Building an Intelligent Experimentation Platform with Uber Engineering](https://eng.uber.com/experimentation-platform/)
+- [The Journey To Android Monorepo: The History Of Uber Engineering’s Android Codebase ](https://eng.uber.com/android-monorepo/)
+- [Engineering Extreme Event Forecasting at Uber with Recurrent Neural Networks](https://eng.uber.com/neural-networks/)
+- [Re-Architecting Cash and Digital Wallet Payments for India with Uber Engineering](https://eng.uber.com/india-payments/)
+- [Engineering Data Analytics with Presto and Apache Parquet at Uber](https://eng.uber.com/presto/)
+- [Driver Profiles: How Uber Engineering Celebrates Drivers](https://eng.uber.com/driver-profiles/)
+- [Engineering Uber’s Self-Driving Car Visualization Platform for the Web](https://eng.uber.com/atg-dataviz/)
+- [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo/)
+- [Engineering Uncertainty Estimation in Neural Networks for Time Series Prediction at Uber](https://eng.uber.com/neural-networks-uncertainty-estimation/)
+- [Introducing AthenaX, Uber Engineering’s Open Source Streaming Analytics Platform](https://eng.uber.com/athenax/)
+- [Meet Horovod: Uber’s Open Source Distributed Deep Learning Framework for TensorFlow](https://eng.uber.com/horovod/)
+- [Turbocharging Analytics at Uber with our Data Science Workbench](https://eng.uber.com/dsw/)
+- [Uber AI Labs Open Sources Pyro, a Deep Probabilistic Programming Language](https://eng.uber.com/pyro/)
+- [Engineering More Reliable Transportation with Machine Learning and AI at Uber](https://eng.uber.com/machine-learning/)
+- [Navigating the Engineering Interview Process at Uber & Beyond](https://eng.uber.com/engineering-interview/)
+- [Welcoming the Era of Deep Neuroevolution](https://eng.uber.com/deep-neuroevolution/)
+- [Year in Review: 2017 Highlights from the Uber Engineering Blog](https://eng.uber.com/2017-highlights/)
+- [Year in Review: 2017 Highlights from Uber Open Source](https://eng.uber.com/2017-open-source/)
+
+-----------
+
+2018
+
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
 
 ----------
 
