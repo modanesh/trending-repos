@@ -1168,7 +1168,6 @@ Using Artificial Intelligence to Transform Urban Transport](https://verdict-ai.n
 - [Year in Review: 2017 Highlights from the Uber Engineering Blog](https://eng.uber.com/2017-highlights/)
 - [Year in Review: 2017 Highlights from Uber Open Source](https://eng.uber.com/2017-open-source/)
 
------------
 
 2018
 
