@@ -1244,6 +1244,15 @@ Nvidia AI
 - [@sd-blog](https://blogs.nvidia.com/blog/category/auto/)
 - [@publications](https://research.nvidia.com/publications)
 
+-----------
+
+IBM AI
+
+- [@publications](https://www.research.ibm.com/artificial-intelligence/publications/)
+- []()
+
+
+
 ---------
 
 [Back to top](#contents)
