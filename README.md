@@ -1242,6 +1242,7 @@ Nvidia AI
 - [@dl-blog](https://blogs.nvidia.com/blog/category/deep-learning/)
 - [@av-blog](https://blogs.nvidia.com/blog/category/autonomous-machines/)
 - [@sd-blog](https://blogs.nvidia.com/blog/category/auto/)
+- [@publications](https://research.nvidia.com/publications)
 
 ---------
 
