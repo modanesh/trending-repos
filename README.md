@@ -622,6 +622,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [awful-ai](https://github.com/daviddao/awful-ai) - Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness
 - [Tencent/tencent-ml-images](https://github.com/Tencent/tencent-ml-images) - 
 Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet
 - [blueoil](https://github.com/blue-oil/blueoil) - Bring Deep Learning to small devices https://blue-oil.org
