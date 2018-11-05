@@ -1233,6 +1233,7 @@ Using Artificial Intelligence to Transform Urban Transport](https://verdict-ai.n
 - [Google Brain Residency](http://tinyclouds.org/residency/)
 - [The Google Brain Residency Program - One Year Later](https://research.googleblog.com/2017/07/the-google-brain-residency-program-one.html)
 - [Intel AI Residency](https://ai.intel.com/iclr-2018/)
+- [Residence In: NVIDIA Launches Year-Long Research Residency Program](https://blogs.nvidia.com/blog/2018/11/02/residence-in-nvidia-launches-year-long-research-residency-program/)
 
 ---------
 
