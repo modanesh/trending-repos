@@ -1210,6 +1210,22 @@ Using Artificial Intelligence to Transform Urban Transport](https://verdict-ai.n
 - [Michelangelo PyML: Introducing Uber’s Platform for Rapid Python ML Model Development](https://eng.uber.com/michelangelo-pyml/)
 - [Scaling Machine Learning at Uber with Michelangelo](https://eng.uber.com/scaling-michelangelo/)
 
+------------
+
+Nvidia AI
+
+- [@dl-blog](https://blogs.nvidia.com/blog/category/deep-learning/)
+- [@av-blog](https://blogs.nvidia.com/blog/category/autonomous-machines/)
+- [@sd-blog](https://blogs.nvidia.com/blog/category/auto/)
+- [@publications](https://research.nvidia.com/publications)
+
+-----------
+
+IBM AI
+
+- [@publications](https://www.research.ibm.com/artificial-intelligence/publications/)
+- [@ai-blog](https://www.ibm.com/blogs/research/category/ai/)
+
 
 ----------
 
@@ -1234,22 +1250,6 @@ Using Artificial Intelligence to Transform Urban Transport](https://verdict-ai.n
 - [The Google Brain Residency Program - One Year Later](https://research.googleblog.com/2017/07/the-google-brain-residency-program-one.html)
 - [Intel AI Residency](https://ai.intel.com/iclr-2018/)
 - [NVIDIA AI Research Residency - 2019](https://blogs.nvidia.com/blog/2018/11/02/residence-in-nvidia-launches-year-long-research-residency-program/)
-
-------------
-
-Nvidia AI
-
-- [@dl-blog](https://blogs.nvidia.com/blog/category/deep-learning/)
-- [@av-blog](https://blogs.nvidia.com/blog/category/autonomous-machines/)
-- [@sd-blog](https://blogs.nvidia.com/blog/category/auto/)
-- [@publications](https://research.nvidia.com/publications)
-
------------
-
-IBM AI
-
-- [@publications](https://www.research.ibm.com/artificial-intelligence/publications/)
-- []()
 
 
 
