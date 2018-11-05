@@ -1235,6 +1235,14 @@ Using Artificial Intelligence to Transform Urban Transport](https://verdict-ai.n
 - [Intel AI Residency](https://ai.intel.com/iclr-2018/)
 - [NVIDIA AI Research Residency - 2019](https://blogs.nvidia.com/blog/2018/11/02/residence-in-nvidia-launches-year-long-research-residency-program/)
 
+------------
+
+Nvidia AI
+
+- [@dl-blog](https://blogs.nvidia.com/blog/category/deep-learning/)
+- [@av-blog](https://blogs.nvidia.com/blog/category/autonomous-machines/)
+- [@sd-blog](https://blogs.nvidia.com/blog/category/auto/)
+
 ---------
 
 [Back to top](#contents)
