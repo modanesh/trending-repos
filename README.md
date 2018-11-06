@@ -1275,7 +1275,7 @@ IBM AI
 - [Institute launches the MIT Intelligence Quest](https://www.csail.mit.edu/news/institute-launches-mit-intelligence-quest)
 - [Programming drones to fly in the face of uncertainty](https://www.csail.mit.edu/news/programming-drones-fly-face-uncertainty)
 - [Protecting confidentiality in genomic studies](https://www.csail.mit.edu/news/protecting-confidentiality-genomic-studies)
-- [From Utopia to Dystopia in 29 Short Years](https://www.csail.mit.edu/news/utopia-dystopia-29-short-years)
+
 
 ---------
 
