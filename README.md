@@ -1257,6 +1257,8 @@ IBM AI
 
 [MIT CSAIL](https://www.csail.mit.edu/)
 
+- [MIT reshapes itself to shape the future](http://news.mit.edu/2018/mit-reshapes-itself-stephen-schwarzman-college-of-computing-1015)
+- [FAQ on the newly established MIT Stephen A. Schwarzman College of Computing](https://news.mit.edu/2018/faq-mit-stephen-schwarzman-college-of-computing-1015)
 - [Honda Research Institute Launches “Curious Minded Machine” Research Collaboration with MIT, University of Pennsylvania and University of Washington](https://www.csail.mit.edu/news/honda-research-institute-launches-curious-minded-machine-research-collaboration-mit-university)
 - [Opening up open-source to design better chips](https://www.csail.mit.edu/news/opening-open-source-design-better-chips)
 - [Detecting fake news at its source](https://www.csail.mit.edu/news/detecting-fake-news-its-source)
