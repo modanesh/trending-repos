@@ -1253,7 +1253,30 @@ IBM AI
 - [Intel AI Residency](https://ai.intel.com/iclr-2018/)
 - [NVIDIA AI Research Residency - 2019](https://blogs.nvidia.com/blog/2018/11/02/residence-in-nvidia-launches-year-long-research-residency-program/)
 
+------------
 
+[MIT CSAIL](https://www.csail.mit.edu/)
+
+- [Honda Research Institute Launches “Curious Minded Machine” Research Collaboration with MIT, University of Pennsylvania and University of Washington](https://www.csail.mit.edu/news/honda-research-institute-launches-curious-minded-machine-research-collaboration-mit-university)
+- [Opening up open-source to design better chips](https://www.csail.mit.edu/news/opening-open-source-design-better-chips)
+- [Detecting fake news at its source](https://www.csail.mit.edu/news/detecting-fake-news-its-source)
+- [Google, Intel and Microsoft team up w/CSAIL on new data-driven initiative](https://www.csail.mit.edu/news/google-intel-and-microsoft-team-wcsail-new-data-driven-initiative)
+- [Google AI’s Jeff Dean discusses using deep learning to solve challenging problems](https://www.csail.mit.edu/news/google-ais-jeff-dean-discusses-using-deep-learning-solve-challenging-problems)
+- [Machine-learning system tackles speech and object recognition, all at once](https://www.csail.mit.edu/news/machine-learning-system-tackles-speech-and-object-recognition-all-once)
+- [“Hot Topics in Computing” series covers the spread of information and fake news](https://www.csail.mit.edu/news/hot-topics-computing-series-covers-spread-information-and-fake-news)
+- [CSAIL launches new initiative for financial technology](https://www.csail.mit.edu/news/csail-launches-new-initiative-financial-technology)
+- [Machines that learn language more like kids do](https://www.csail.mit.edu/news/machines-learn-language-more-kids-do)
+- [Helping computers fill in the gaps between video frames](https://www.csail.mit.edu/news/helping-computers-fill-gaps-between-video-frames)
+- [Holding law-enforcement accountable for electronic surveillance](https://www.csail.mit.edu/news/holding-law-enforcement-accountable-electronic-surveillance)
+- [Making driverless cars change lanes more like human drivers do](https://www.csail.mit.edu/news/making-driverless-cars-change-lanes-more-human-drivers-do)
+- [Building AI systems that make fair decisions](https://www.csail.mit.edu/news/building-ai-systems-make-fair-decisions)
+- [Institute launches the MIT Intelligence Quest](https://www.csail.mit.edu/news/institute-launches-mit-intelligence-quest)
+- [Programming drones to fly in the face of uncertainty](https://www.csail.mit.edu/news/programming-drones-fly-face-uncertainty)
+- [Protecting confidentiality in genomic studies](https://www.csail.mit.edu/news/protecting-confidentiality-genomic-studies)
+- [From Utopia to Dystopia in 29 Short Years](https://www.csail.mit.edu/news/utopia-dystopia-29-short-years)
+- []()
+- []()
+- []()
 
 ---------
 
