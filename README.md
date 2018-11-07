@@ -625,6 +625,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [openface](https://github.com/cmusatyalab/openface) - 
+Face recognition with deep neural networks. http://cmusatyalab.github.io/openface/
 - [pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT) - 
 PyTorch version of Google AI's BERT model with script to load Google's pre-trained models
 - [awful-ai](https://github.com/daviddao/awful-ai) - Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness
