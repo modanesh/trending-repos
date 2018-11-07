@@ -84,6 +84,9 @@
 - [timvieira](http://timvieira.github.io/blog/)
 - [adeshpande3](https://adeshpande3.github.io/)
 - [oreilly](https://www.oreilly.com/topics/ai)
+- [ai.washington](https://www.cs.washington.edu/research/ai/)
+- [ai.sri](http://www.ai.sri.com/)
+- [visualqa](http://www.visualqa.org/)
 
 --------------
 11/02
@@ -830,6 +833,7 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
 - [awesome-actions](https://github.com/sdras/awesome-actions)
 - [omi](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating) http://omijs.org
 - [mio](https://github.com/mandreyel/mio) - Cross-platform header-only C++11 library for memory mapped file IO
+- [An end to end implementation of a Machine Learning pipeline](https://spandan-madan.github.io/DeepLearningProject/)
 
 -----------
 
