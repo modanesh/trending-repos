@@ -641,6 +641,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [funNLP](https://github.com/fighting41love/funNLP)
 - [awesome-graph-embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
 - [awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music) - 
 List of articles related to deep learning applied to music
