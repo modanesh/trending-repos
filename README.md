@@ -1284,7 +1284,7 @@ IBM AI
 [MIT CSAIL](https://www.csail.mit.edu/)
 
 - [MIT reshapes itself to shape the future](http://news.mit.edu/2018/mit-reshapes-itself-stephen-schwarzman-college-of-computing-1015)
-- [FAQ on the newly established MIT Stephen A. Schwarzman College of Computing](https://news.mit.edu/2018/faq-mit-stephen-schwarzman-
+- [FAQ on the newly established MIT Stephen A. Schwarzman College of Computing](http://news.mit.edu/2018/faq-mit-stephen-schwarzman-college-of-computing-1015)
 ---------
 
 [Back to top](#contents)
