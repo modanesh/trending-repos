@@ -87,20 +87,6 @@
 - [ai.washington](https://www.cs.washington.edu/research/ai/)
 - [ai.sri](http://www.ai.sri.com/)
 - [visualqa](http://www.visualqa.org/)
-- [ufldl.stanford](http://ufldl.stanford.edu/tutorial/)
-- [deeplearning.stanford](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
-- [neuralnetworksanddeeplearning](http://neuralnetworksanddeeplearning.com/)
-- [deeplearning](http://deeplearning.net/tutorial/deeplearning.pdf)
-- [leonardoaraujosantos](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/)
-- [work.caltech](http://work.caltech.edu/lectures.html)
-- [https://arxiv.org/pdf/1404.7828v4.pdf](https://arxiv.org/pdf/1404.7828v4.pdf)
-- [cmu.edu/~tom](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
-- [vision.stanford](http://vision.stanford.edu/teaching/cs231n/syllabus.html)
-- [ai.nvidia](https://www.nvidia.com/en-us/deep-learning-ai/education/)
-- [yann-lecun](https://www.college-de-france.fr/site/en-yann-lecun/course-2016-02-12-14h30.htm)
-- [introtodeeplearning](http://introtodeeplearning.com/index.html)
-- [course.fast.ai](https://course.fast.ai/)
-- [deeplearning.cs.cmu.fall.2018](http://deeplearning.cs.cmu.edu/)
 
 --------------
 11/02
@@ -604,6 +590,20 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
 
 [Back to top](#contents)
 
+- [ufldl.stanford](http://ufldl.stanford.edu/tutorial/)
+- [deeplearning.stanford](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
+- [neuralnetworksanddeeplearning](http://neuralnetworksanddeeplearning.com/)
+- [deeplearning](http://deeplearning.net/tutorial/deeplearning.pdf)
+- [leonardoaraujosantos](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/)
+- [work.caltech](http://work.caltech.edu/lectures.html)
+- [https://arxiv.org/pdf/1404.7828v4.pdf](https://arxiv.org/pdf/1404.7828v4.pdf)
+- [cmu.edu/~tom](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
+- [vision.stanford](http://vision.stanford.edu/teaching/cs231n/syllabus.html)
+- [ai.nvidia](https://www.nvidia.com/en-us/deep-learning-ai/education/)
+- [yann-lecun](https://www.college-de-france.fr/site/en-yann-lecun/course-2016-02-12-14h30.htm)
+- [introtodeeplearning](http://introtodeeplearning.com/index.html)
+- [course.fast.ai](https://course.fast.ai/)
+- [deeplearning.cs.cmu.fall.2018](http://deeplearning.cs.cmu.edu/)
 - [AI in 2018 for researchers](https://blog.goodaudience.com/ai-in-2018-for-researchers-8955df0caaf9)
 - [Supervised Learning cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning.html)
 - [Deep Learning cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning.html)
@@ -622,6 +622,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
 - [Over 150 of the Best Machine Learning, NLP, and Python Tutorials I’ve Found](https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
 - [ml-cheatsheet](https://github.com/bfortuner/ml-cheatsheet)
 - [int8](https://int8.io/)
+- [An end to end implementation of a Machine Learning pipeline](https://spandan-madan.github.io/DeepLearningProject/)
 
 -------------
 -------------
@@ -853,8 +854,8 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
 - [awesome-actions](https://github.com/sdras/awesome-actions)
 - [omi](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating) http://omijs.org
 - [mio](https://github.com/mandreyel/mio) - Cross-platform header-only C++11 library for memory mapped file IO
-- [An end to end implementation of a Machine Learning pipeline](https://spandan-madan.github.io/DeepLearningProject/)
-- [deeplearning](http://deeplearning.net/tutorial/deeplearning.pdf)
+
+
 
 -----------
 
