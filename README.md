@@ -87,6 +87,20 @@
 - [ai.washington](https://www.cs.washington.edu/research/ai/)
 - [ai.sri](http://www.ai.sri.com/)
 - [visualqa](http://www.visualqa.org/)
+- [ufldl.stanford](http://ufldl.stanford.edu/tutorial/)
+- [deeplearning.stanford](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
+- [neuralnetworksanddeeplearning](http://neuralnetworksanddeeplearning.com/)
+- [deeplearning](http://deeplearning.net/tutorial/deeplearning.pdf)
+- [leonardoaraujosantos](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/)
+- [work.caltech](http://work.caltech.edu/lectures.html)
+- [https://arxiv.org/pdf/1404.7828v4.pdf](https://arxiv.org/pdf/1404.7828v4.pdf)
+- [cmu.edu/~tom](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
+- [vision.stanford](http://vision.stanford.edu/teaching/cs231n/syllabus.html)
+- [ai.nvidia](https://www.nvidia.com/en-us/deep-learning-ai/education/)
+- [yann-lecun](https://www.college-de-france.fr/site/en-yann-lecun/course-2016-02-12-14h30.htm)
+- [introtodeeplearning](http://introtodeeplearning.com/index.html)
+- [course.fast.ai](https://course.fast.ai/)
+- [deeplearning.cs.cmu.fall.2018](http://deeplearning.cs.cmu.edu/)
 
 --------------
 11/02
