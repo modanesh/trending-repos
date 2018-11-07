@@ -625,6 +625,10 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [awesome-graph-embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
+- [awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music) - 
+List of articles related to deep learning applied to music
+- [Rochester-NRT/RocAlphaGo](https://github.com/Rochester-NRT/RocAlphaGo) - An independent, student-led replication of DeepMind's 2016 Nature publication, "Mastering the game of Go with deep neural networks and tree search" (Nature 529, 484-489, 28 Jan 2016), details of which can be found on their website https://deepmind.com/publications.html.
 - [openface](https://github.com/cmusatyalab/openface) - 
 Face recognition with deep neural networks. http://cmusatyalab.github.io/openface/
 - [pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT) - 
@@ -836,6 +840,7 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
 - [omi](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating) http://omijs.org
 - [mio](https://github.com/mandreyel/mio) - Cross-platform header-only C++11 library for memory mapped file IO
 - [An end to end implementation of a Machine Learning pipeline](https://spandan-madan.github.io/DeepLearningProject/)
+- [deeplearning](http://deeplearning.net/tutorial/deeplearning.pdf)
 
 -----------
 
