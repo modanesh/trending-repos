@@ -13,7 +13,7 @@
 - [Research News](#research-news)
   - [Imp](#imp)
   - [AI Residency](#ai-residency)
-  - [Old Posts- Jan-Jun 2018](https://github.com/gopala-kr/summary/tree/master/articles)
+  - [Old Posts-Jan-Jun 2018](https://github.com/gopala-kr/summary/tree/master/articles)
 
 [Back to top](#contents)
 
