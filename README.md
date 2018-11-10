@@ -90,6 +90,19 @@
 
 --------------
 
+11/09
+
+- [GDPR a challenge to AI black boxes](https://www.computerweekly.com/news/252452183/GDPR-a-challenge-to-AI-black-boxes)
+- [IBM: Meet the best server for enterprise AI](https://www.ibm.com/it-infrastructure/power/enterprise-ai)
+- [AI startup Flex Logix touts vastly higher performance than Nvidia](https://www.zdnet.com/article/ai-startup-flex-logix-targets-nvidias-market-for-inference-chips/)
+- [Microsoft develops flexible AI system that can summarize the news](https://venturebeat.com/2018/11/06/microsoft-researchers-develop-ai-system-that-can-generate-articles-summaries/)
+- [Intel Shares A Broader Perspective On The Artificial Intelligence Technology Landscape](https://www.forbes.com/sites/maribellopez/2018/11/02/intel-shares-a-broader-perspective-on-the-artificial-intelligence-technology-landscape/#22af8412629e)
+- [Walmart is building an AI lab inside one of its stores](https://techcrunch.com/2018/11/08/walmart-is-building-an-ai-lab-inside-one-of-its-store/)
+- [Google's latest machine learning model can track down the source of restaurant food poisoning](https://www.techspot.com/news/77279-google-latest-machine-learning-model-can-track-down.html)
+- [New AI solver platform from Fujitsu Labs enables real-time AI simulators](https://www.iot-now.com/2018/11/08/90230-new-ai-solver-platform-fujitsu-labs-enables-real-time-ai-simulators/)
+- [EU ethical guidelines to tackle AI's racial and gender bias](https://asia.nikkei.com/Politics/EU-ethical-guidelines-to-tackle-AI-s-racial-and-gender-bias)
+
+-----------
 11/02
 
 
