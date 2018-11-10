@@ -135,7 +135,7 @@
 - [Could artificial intelligence make doctors obsolete?](https://www.bmj.com/content/363/bmj.k4563/rr-0)
 - [Artificial Intelligence Will Be the Greatest Jobs Engine the World Has Ever Seen](https://www.entrepreneur.com/article/322141)
 - [Does Synthetic Data Hold The Secret To Artificial Intelligence?](https://www.forbes.com/sites/bernardmarr/2018/11/05/does-synthetic-data-hold-the-secret-to-artificial-intelligence/#718e115742f8)
-
+- [To build new college, MIT seeks campus and alumni input](http://news.mit.edu/2018/schwarzman-college-computing-campus-alumni-input-1102)
 
 -----------
 11/02
@@ -1346,7 +1346,6 @@ From 2017
 - [An AI agent with human-like language acquisition in a virtual environment](http://research.baidu.com/Blog/index-view?id=99)
 - [Deep Speaker: an End-to-End System for Large-Scale Speaker Recognition](http://research.baidu.com/Blog/index-view?id=98)
 - [Deep Voice 2: Multi-Speaker Neural Text-to-Speech](http://research.baidu.com/Blog/index-view?id=97)
-- [To build new college, MIT seeks campus and alumni input](http://news.mit.edu/2018/schwarzman-college-computing-campus-alumni-input-1102)
 - [Learning to Speak via Interaction](http://research.baidu.com/Blog/index-view?id=96)
 - [Baidu Research Announces Next Generation Open Source Deep Learning Benchmark Tool](http://research.baidu.com/Blog/index-view?id=95)
 - [A Spatial-Temporal Modeling Framework for Large-scale Video Understanding](http://research.baidu.com/Blog/index-view?id=94)
