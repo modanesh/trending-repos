@@ -92,6 +92,9 @@
 
 11/09
 
+- [OpenAI: Spinning Up in Deep RL](https://blog.openai.com/spinning-up-in-deep-rl/)
+- [FAIR:Making floating point math highly efficient for AI hardware ](https://code.fb.com/ai-research/floating-point-math/)
+- [intel-ai-at-sc18](https://ai.intel.com/intel-ai-at-sc18/)
 - [GDPR a challenge to AI black boxes](https://www.computerweekly.com/news/252452183/GDPR-a-challenge-to-AI-black-boxes)
 - [IBM: Meet the best server for enterprise AI](https://www.ibm.com/it-infrastructure/power/enterprise-ai)
 - [AI startup Flex Logix touts vastly higher performance than Nvidia](https://www.zdnet.com/article/ai-startup-flex-logix-targets-nvidias-market-for-inference-chips/)
@@ -101,6 +104,36 @@
 - [Google's latest machine learning model can track down the source of restaurant food poisoning](https://www.techspot.com/news/77279-google-latest-machine-learning-model-can-track-down.html)
 - [New AI solver platform from Fujitsu Labs enables real-time AI simulators](https://www.iot-now.com/2018/11/08/90230-new-ai-solver-platform-fujitsu-labs-enables-real-time-ai-simulators/)
 - [EU ethical guidelines to tackle AI's racial and gender bias](https://asia.nikkei.com/Politics/EU-ethical-guidelines-to-tackle-AI-s-racial-and-gender-bias)
+- [How Jaguar Land Rover Is Getting Ready For The 4th Industrial Revolution: AI & Autonomous Cars](https://www.forbes.com/sites/bernardmarr/2018/10/26/how-jaguar-land-rover-is-getting-ready-for-the-4th-industrial-revolution-autonomous-vehicles/amp/)
+- [Not Just for Google: ML-Assisted Data Center Cooling You Can Do Today](https://www.datacenterknowledge.com/machine-learning/not-just-google-ml-assisted-data-center-cooling-you-can-do-today)
+- [How Machine Learning Can Create a More Meritocratic, Less Biased Job Market](https://www.entrepreneur.com/article/322703)
+- [World's first AI news anchor unveiled in China](https://www.theguardian.com/world/2018/nov/09/worlds-first-ai-news-anchor-unveiled-in-china?CMP=share_btn_tw)
+- [China Recruits "Patriotic" Children to Develop Its AI Weapons](https://futurism.com/ai-weapons-china-children/amp/)
+- [Artificial Intelligence, China And The U.S. - How The U.S. Is Losing The Technology War](https://www.forbes.com/sites/steveandriole/2018/11/09/artificial-intelligence-china-and-the-us-how-the-us-is-losing-the-technology-war/#28fec72f6195)
+- [Can AI Love?](https://www.forbes.com/sites/forbestechcouncil/2018/11/09/can-ai-love/#4deecf232083)
+- [Machine learning in recruitment: it works for everybody](https://www.itproportal.com/features/machine-learning-in-recruitment-it-works-for-everybody/)
+- [Why Is Data Science Different than Software Development?  It Starts with Data…Lots o’ DATA!!](https://www.datasciencecentral.com/profiles/blogs/why-is-data-science-different-than-software-development-it-starts?xg_)
+- [Dating apps use artificial intelligence to help search for love](https://phys.org/news/2018-11-dating-apps-artificial-intelligence.html)
+- [The Amazing Ways Toyota Is Using Artificial Intelligence, Big Data & Robots](https://www.forbes.com/sites/bernardmarr/2018/11/09/the-amazing-ways-toyota-is-using-artificial-intelligence-big-data-robots/#32e061553863)
+- [China is grooming its smartest teenagers to develop AI-powered weapons to help the superpower 'lead the game of modern wars'](https://www.dailymail.co.uk/news/article-6367209/Chinas-brightest-teens-studying-AI-weapons-Beijing-lead-war-game.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- [MIT is using Artificial Intelligence (AI) for development of specialized Nanoparticles](https://www.marktechpost.com/2018/11/08/mit-is-using-artificial-intelligence-ai-for-specialized-development-of-nanoparticles/)
+- [Google Cloud rolls out new tools to make AI more accessible](https://www.zdnet.com/article/google-cloud-rolls-out-new-tools-to-make-ai-more-accessible/#ftag=RSSbaffb68)
+- [NVIDIA: Real-Time Noise Suppression Using Deep Learning](https://devblogs.nvidia.com/nvidia-real-time-noise-suppression-deep-learning/?nvid=em-ded-63638&mkt_tok=eyJpIjoiTVRKa05USmlPVEl4TW1JeiIsInQiOiJ3b3pQWkdNZEN4eXN0d0N3QjE3WThMdkl0MktSWmdiY2lVN0FxY3ZRZVZlcTh1VEN5RGJYaSs4enUxenJmUElZVkpkREJUQXQ1c3Y0RWdrQTFVOVl6ODR1VVQ0Q0NndVF3ekh6V1lVWUVtajhuYlcrZ0ZqNElSaHNycFFGb1Q0bnZOOUh5RUViNkJaQ3JHYTRraUM0eGJ2UXh5NVlPckpkU0NYWTJCdXdXWkU9In0%3D)
+- [The eight types of AI you should know about](https://europeansting.com/2018/11/07/the-eight-types-of-ai-you-should-know-about/)
+- [Huawei Chips Unlock New Era of Artificial Intelligence](https://www.prnewswire.com/news-releases/huawei-chips-unlock-new-era-of-artificial-intelligence-300745629.html)
+- [China’s embrace of AI: Enthusiasm and challenges](https://www.ecfr.eu/article/commentary_chinas_embrace_of_ai_enthusiasm_and_challenges)
+- [China rolls out surveillance system to identify people by their body shape and walk](https://www.independent.co.uk/news/world/asia/china-surveillance-facial-recognition-body-walk-technology-watrix-privacy-cctv-a8622156.html)
+- [New Quantum Machine Learning Algorithm Could Crush Big Data](https://ctovision.com/new-quantum-machine-learning-algorithm-could-crush-big-data/)
+- [We Let Tech Companies Frame the Debate Over AI Ethics. That Was a Mistake.](https://undark.org/2018/11/01/the-debate-over-ai-ethics/)
+- [How can India influence adoption of AI/Machine Learning Globally](https://agileintelligence.in/how-can-india-influence-adoption-of-ai-machine-globally/)
+- [Why Chinese Artificial Intelligence Will Run The World](https://interestingengineering.com/why-chinese-artificial-intelligence-will-run-the-world)
+- [Three Paths Towards Global Governance of Artificial Intelligence](https://www.cigionline.org/articles/three-paths-towards-global-governance-artificial-intelligence)
+- [The £2.5 MILLION Martian mansion: Mars's first occupants will have gardens, gyms, spas and carports in luxury accommodation, claim experts](https://www.dailymail.co.uk/sciencetech/article-6362529/The-2-5-MILLION-martian-mansion-Marss-homes-gardens-gyms-spas.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- [This is how artificial intelligence will become weaponized in future cyberattacks](https://www.zdnet.com/article/this-is-how-artificial-intelligence-will-become-weaponized-in-future-cyberattacks/#ftag=RSSbaffb68)
+- [Could artificial intelligence make doctors obsolete?](https://www.bmj.com/content/363/bmj.k4563/rr-0)
+- [Artificial Intelligence Will Be the Greatest Jobs Engine the World Has Ever Seen](https://www.entrepreneur.com/article/322141)
+- [Does Synthetic Data Hold The Secret To Artificial Intelligence?](https://www.forbes.com/sites/bernardmarr/2018/11/05/does-synthetic-data-hold-the-secret-to-artificial-intelligence/#718e115742f8)
+
 
 -----------
 11/02
@@ -654,6 +687,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [openai/spinningup](https://github.com/openai/spinningup) - An educational resource to help anyone learn deep reinforcement learning.
 - [funNLP](https://github.com/fighting41love/funNLP)
 - [awesome-graph-embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
 - [awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music) - 
@@ -1300,6 +1334,88 @@ IBM AI
 
 - [MIT reshapes itself to shape the future](http://news.mit.edu/2018/mit-reshapes-itself-stephen-schwarzman-college-of-computing-1015)
 - [FAQ on the newly established MIT Stephen A. Schwarzman College of Computing](http://news.mit.edu/2018/faq-mit-stephen-schwarzman-college-of-computing-1015)
+
+-----
+
+Baidu AI
+
+From 2017
+
+- [An AI agent with human-like language acquisition in a virtual environment](http://research.baidu.com/Blog/index-view?id=99)
+- [Deep Speaker: an End-to-End System for Large-Scale Speaker Recognition](http://research.baidu.com/Blog/index-view?id=98)
+- [Deep Voice 2: Multi-Speaker Neural Text-to-Speech](http://research.baidu.com/Blog/index-view?id=97)
+- [To build new college, MIT seeks campus and alumni input](http://news.mit.edu/2018/schwarzman-college-computing-campus-alumni-input-1102)
+- [Learning to Speak via Interaction](http://research.baidu.com/Blog/index-view?id=96)
+- [Baidu Research Announces Next Generation Open Source Deep Learning Benchmark Tool](http://research.baidu.com/Blog/index-view?id=95)
+- [A Spatial-Temporal Modeling Framework for Large-scale Video Understanding](http://research.baidu.com/Blog/index-view?id=94)
+- [Globally Normalized Reader](http://research.baidu.com/Blog/index-view?id=93)
+- [Mixed Precision Training](http://research.baidu.com/Blog/index-view?id=92)
+- [Deep Voice 3: 2000-Speaker Neural Text-to-Speech](http://research.baidu.com/Blog/index-view?id=91)
+- [Deep Speech 3: Even more end-to-end speech recognition](http://research.baidu.com/Blog/index-view?id=90)
+- [Deep Learning Scaling is Predictable, Empirically](http://research.baidu.com/Blog/index-view?id=89)
+- [PaddlePaddle Fluid: Elastic Deep Learning on Kubernetes](http://research.baidu.com/Blog/index-view?id=87)
+
+2018
+
+- [Baidu Research Announces the Hiring of Three World-Renowned AI scientists](http://research.baidu.com/Blog/index-view?id=86)
+- [Baidu Research Showcased at Top Artificial Intelligence Conferences](http://research.baidu.com/Blog/index-view?id=85)
+- [Neural Voice Cloning with a Few Samples](http://research.baidu.com/Blog/index-view?id=81)
+- [MLPerf: A New Benchmark for Deep Learning Models](http://research.baidu.com/Blog/index-view?id=100)
+- [Language Acquisition and One-Shot Concept Learning Through Conversational Interactions](http://research.baidu.com/Blog/index-view?id=102)
+- [Experimental Evaluation of Mixed Precision Training for End to End Applications](http://research.baidu.com/Blog/index-view?id=103)
+- [Using Deep Learning to Help Pathologists Find Tumors](http://research.baidu.com/Blog/index-view?id=104)
+- [The Association for Computational Linguistics Appoints Baidu’s Haifeng Wang as the Founding Chair of the Newly Launched Asia-Pacific Chapter](http://research.baidu.com/Blog/index-view?id=105)
+- [ClariNet: Parallel Wave Generation in End-to-End Text-to-Speech](http://research.baidu.com/Blog/index-view?id=106)
+- [Baidu Research Announces Breakthrough in Simultaneous Translation](http://research.baidu.com/Blog/index-view?id=107)
+
+------------
+
+BAIR
+
+From Jun 2017
+
+- [Introducing the BAIR Blog](https://bair.berkeley.edu/blog/2017/06/20/welcome/)
+- [Constrained Policy Optimization](https://bair.berkeley.edu/blog/2017/07/06/cpo/)
+- [The Confluence of Geometry and Learning](https://bair.berkeley.edu/blog/2017/07/11/confluence-of-geometry-and-learning/)
+- [Learning to Learn](https://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)
+- [Minibatch Metropolis-Hastings](https://bair.berkeley.edu/blog/2017/08/02/minibatch-metropolis-hastings/)
+- [Captioning Novel Objects in Images](https://bair.berkeley.edu/blog/2017/08/08/novel-object-captioning/)
+- [Releasing the Dexterity Network (Dex-Net) 2.0 Dataset for Deep Grasping](https://bair.berkeley.edu/blog/2017/06/27/dexnet-2.0/)
+- [Model-based Reinforcement Learning with Neural Network Dynamics](https://bair.berkeley.edu/blog/2017/11/30/model-based-rl/)
+- [Drilling Down on Depth Sensing and Deep Learning](https://bair.berkeley.edu/blog/2017/11/09/learn-to-attend-fovea/)
+- [DART: Noise Injection for Robust Imitation Learning](https://bair.berkeley.edu/blog/2017/10/26/dart/)
+- [Learning to Reason with Neural Module Networks](https://bair.berkeley.edu/blog/2017/06/20/learning-to-reason-with-neural-module-networks/)
+- [Learning Long Duration Sequential Task Structure From Demonstrations with Application in Surgical Robotics](https://bair.berkeley.edu/blog/2017/10/17/lfd-surgical-robots/)
+- [Learning Diverse Skills via Maximum Entropy Deep Reinforcement Learning](https://bair.berkeley.edu/blog/2017/10/06/soft-q-learning/)
+- [Learning to Optimize with Reinforcement Learning](https://bair.berkeley.edu/blog/2017/09/12/learning-to-optimize-with-rl/)
+- [Learning a Multi-View Stereo Machine](https://bair.berkeley.edu/blog/2017/09/05/unified-3d/)
+- [How to Escape Saddle Points Efficiently](https://bair.berkeley.edu/blog/2017/08/31/saddle-efficiency/)
+- [High Quality 3D Object Reconstruction from a Single Color Image](https://bair.berkeley.edu/blog/2017/08/23/high-quality-3d-obj-reconstruction/)
+- [Cooperatively Learning Human Values](https://bair.berkeley.edu/blog/2017/08/17/cooperatively-learning-human-values/)
+- [FaSTrack: Ensuring Safe Real-Time Navigation of Dynamic Systems](https://bair.berkeley.edu/blog/2017/12/05/fastrack/)
+- [Towards Intelligent Industrial Co-robots](https://bair.berkeley.edu/blog/2017/12/12/corobots/)
+- [Reverse Curriculum Generation for Reinforcement Learning Agents](https://bair.berkeley.edu/blog/2017/12/20/reverse-curriculum/)
+- [Physical Adversarial Examples Against Deep Neural Networks](https://bair.berkeley.edu/blog/2017/12/30/yolo-attack/)
+
+2018
+
+- [Ray: A Distributed System for AI](https://bair.berkeley.edu/blog/2018/01/09/ray/)
+- [Kernel Feature Selection via Conditional Covariance Minimization](https://bair.berkeley.edu/blog/2018/01/23/kernels/)
+- [Learning Robot Objectives from Physical Human Interaction](https://bair.berkeley.edu/blog/2018/02/06/phri/)
+- [Transfer Your Font Style with GANs](https://bair.berkeley.edu/blog/2018/03/13/mcgan/)
+- [Towards a Virtual Stuntman](https://bair.berkeley.edu/blog/2018/04/10/virtual-stuntman/)
+- [Shared Autonomy via Deep Reinforcement Learning](https://bair.berkeley.edu/blog/2018/04/18/shared-autonomy/)
+- [TDM: From Model-Free to Model-Based Deep Reinforcement Learning](https://bair.berkeley.edu/blog/2018/04/26/tdm/)
+- [Delayed Impact of Fair Machine Learning](https://bair.berkeley.edu/blog/2018/05/17/delayed-impact/)
+- [BDD100K: A Large-scale Diverse Driving Video Database](https://bair.berkeley.edu/blog/2018/05/30/bdd/)
+- [BDD100K Blog Update](https://bair.berkeley.edu/blog/2018/06/18/bdd-update/)
+- [One-Shot Imitation from Watching Videos](https://bair.berkeley.edu/blog/2018/06/28/daml/)
+- [When Recurrent Models Don't Need to be Recurrent](https://bair.berkeley.edu/blog/2018/08/06/recurrent/)
+- [Dexterous Manipulation with Reinforcement Learning: Efficient, General, and Low-Cost](https://bair.berkeley.edu/blog/2018/08/31/dexterous-manip/)
+- [Visual Reinforcement Learning with Imagined Goals](https://bair.berkeley.edu/blog/2018/09/06/rig/)
+- [Learning Acrobatics by Watching YouTube](https://bair.berkeley.edu/blog/2018/10/09/sfv/)
+- [Drilling Down on Depth Sensing and Deep Learning](https://bair.berkeley.edu/blog/2018/10/23/depth-sensing/)
+
 
 ---------
 
