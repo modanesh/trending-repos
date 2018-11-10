@@ -25,6 +25,7 @@
 [Back to top](#contents)
 
 
+
 - [deepmind](https://deepmind.com/blog/)
 - [openai](https://blog.openai.com/)
 - [googleblog-brain-team](https://ai.googleblog.com/)
