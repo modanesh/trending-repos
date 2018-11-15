@@ -690,6 +690,9 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [nlp_course](https://github.com/yandexdataschool/nlp_course) - YSDA course in Natural Language Processing
+- [tensorspace](https://github.com/tensorspace-team/tensorspace) - Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js https://tensorspace.org
+- [deep-rules](https://github.com/Benjamin-Lee/deep-rules) - Ten Simple Rules for Deep Learning in Biology 
 - [openai/spinningup](https://github.com/openai/spinningup) - An educational resource to help anyone learn deep reinforcement learning.
 - [funNLP](https://github.com/fighting41love/funNLP)
 - [awesome-graph-embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
@@ -906,7 +909,7 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
 - [awesome-actions](https://github.com/sdras/awesome-actions)
 - [omi](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating) http://omijs.org
 - [mio](https://github.com/mandreyel/mio) - Cross-platform header-only C++11 library for memory mapped file IO
-
+- [frontend-tech-list](https://github.com/alienzhou/frontend-tech-list)
 
 
 -----------
