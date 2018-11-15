@@ -690,6 +690,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [yandexdataschool](https://github.com/yandexdataschool) - Yandex School of Data Analysis
+- [cpp-compilation](https://github.com/green7ea/cpp-compilation) - A short description of the C++ build process
 - [nlp_course](https://github.com/yandexdataschool/nlp_course) - YSDA course in Natural Language Processing
 - [tensorspace](https://github.com/tensorspace-team/tensorspace) - Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js https://tensorspace.org
 - [deep-rules](https://github.com/Benjamin-Lee/deep-rules) - Ten Simple Rules for Deep Learning in Biology 
