@@ -98,6 +98,32 @@
 
 --------------
 
+11/16
+
+- [AI’s role in addressing data overload and GDPR compliance](https://www.verdict.co.uk/ai-and-big-data-gdpr-compliance/)
+- [Enlisting Machine Learning to Fight Data Center Outages](https://www.datacenterknowledge.com/machine-learning/enlisting-machine-learning-fight-data-center-outages)
+- [Google Cloud launches AI Hub to simplify machine learning deployment](https://www.networksasia.net/article/google-cloud-launches-ai-hub-simplify-machine-learning-deployment.1542166044)
+- [Microsoft allies with Facebook on A.I. software](https://www.cnbc.com/2018/11/15/microsoft-allies-with-facebook-on-pytorch-onnx-ai-software.html)
+- [Intel Neural Compute Stick 2 Launched for AI, Deep Learning Without the Cloud](https://gadgets.ndtv.com/laptops/news/intel-neural-compute-stick-2-launched-for-ai-deep-learning-without-the-cloud-1947175)
+- [LF Deep Learning Unveils First Acumos AI Release](https://www.lightreading.com/artificial-intelligence-machine-learning/lf-deep-learning-unveils-first-acumos-ai-release/d/d-id/747577)
+- [HPE expands AI-driven operations](https://itbrief.co.nz/story/hpe-expands-ai-driven-operations)
+- [Oracle to double Reading AI lab in multi-million pound UK investment](https://www.telegraph.co.uk/technology/2018/11/14/oracle-double-reading-ai-lab-multi-million-pound-uk-investment/)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
+
+----------------
+
 11/09
 
 - [OpenAI: Spinning Up in Deep RL](https://blog.openai.com/spinning-up-in-deep-rl/)
