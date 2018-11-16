@@ -90,6 +90,11 @@
 - [visualqa](http://www.visualqa.org/)
 - [semiconductorengineering](http://semiengineering.com/special-reports/)
 - [acumos.ai](https://www.acumos.org/)
+- [acm-fca](https://acm-fca.org/fca-blog/)
+- [fastforwardlabs](https://blog.fastforwardlabs.com/)
+- [machinethink](http://machinethink.net/blog/)
+- [r2d3](http://www.r2d3.us)
+- [google seedbank](https://research.google.com/seedbank/)
 
 --------------
 
