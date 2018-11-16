@@ -88,6 +88,7 @@
 - [ai.washington](https://www.cs.washington.edu/research/ai/)
 - [ai.sri](http://www.ai.sri.com/)
 - [visualqa](http://www.visualqa.org/)
+- [semiconductorengineering](http://semiengineering.com/special-reports/)
 
 --------------
 
