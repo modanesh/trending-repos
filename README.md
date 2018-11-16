@@ -89,6 +89,7 @@
 - [ai.sri](http://www.ai.sri.com/)
 - [visualqa](http://www.visualqa.org/)
 - [semiconductorengineering](http://semiengineering.com/special-reports/)
+- [acumos.ai](https://www.acumos.org/)
 
 --------------
 
