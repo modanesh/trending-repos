@@ -116,9 +116,8 @@
 - [Fujitsu enables next-gen realtime AI simulators](https://it-online.co.za/2018/11/15/fujitsu-enables-next-gen-realtime-ai-simulators/)
 - [Microsoft to acquire chatbot startup as it pushes for 'responsible AI'](https://www.cnet.com/news/microsoft-to-acquire-chatbot-startup-as-it-pushes-for-responsible-ai/#ftag=CAD590a51e)
 - [How Google is looking to ensure AI development is ethical and fair](https://www.cio.co.nz/article/649455/how-google-looking-ensure-ai-development-ethical-fair/?utm_medium=rss&utm_source=taxonomyfeed)
-- []()
-- []()
-- []()
+- [AI Bias And The 'People Factor' In AI Development](https://www.forbes.com/sites/marksears1/2018/11/13/ai-bias-and-the-people-factor-in-ai-development/#f7fd3e9134c4)
+
 
 
 
