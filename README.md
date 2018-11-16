@@ -697,6 +697,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [torchdiffeq](https://github.com/rtqichen/torchdiffeq) - Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.
 - [yandexdataschool](https://github.com/yandexdataschool) - Yandex School of Data Analysis
 - [cpp-compilation](https://github.com/green7ea/cpp-compilation) - A short description of the C++ build process
 - [nlp_course](https://github.com/yandexdataschool/nlp_course) - YSDA course in Natural Language Processing
