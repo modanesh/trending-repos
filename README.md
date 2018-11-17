@@ -1011,6 +1011,30 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
 
 -----------
 
+#### AI Residency
+
+[Back to top](#contents)
+
+- Google AI Residency Program [[Link](https://research.google.com/teams/brain/residency/)]. [[Reddit Link 1](https://www.reddit.com/r/MachineLearning/comments/7rajic/d_anyone_heard_back_from_google_ai_residency/)],
+[[Reddit Link 2](https://www.reddit.com/r/MachineLearning/comments/690ixs/d_google_brain_residency_requirements_and/)]
+- Microsoft AI Residency Program [[Link](https://www.microsoft.com/en-us/research/academic-program/microsoft-ai-residency-program/)] ,[[Reddit Link 1](https://www.reddit.com/r/MachineLearning/comments/7u2a19/news_microsoft_ai_residency/)]
+- Microsoft NERD Artificial Intelligence Program [[Link](http://microsoftnewengland.com/nerdAI/)]
+- Facebook AI Residency Program [[Link](https://research.fb.com/programs/facebook-ai-research-residency-program/)], [[ Reddit Link 1](https://www.reddit.com/r/MachineLearning/comments/7w5unr/d_has_anybody_heard_back_from_facebook_ai/)],
+[[Reddit Link 2](https://www.reddit.com/r/MachineLearning/comments/7xxng0/d_anyone_hear_back_from_facebook_ai_research_fair/)],
+[[Reddit Link 3](https://www.reddit.com/r/MachineLearning/comments/7t9y9f/discussion_facebook_ai_residency_closed_early/)]
+- Uber AI Residency [[Link](https://eng.uber.com/uber-ai-residency/)], [[Reddit Link](https://www.reddit.com/r/MachineLearning/comments/7yycov/d_introducing_the_uber_ai_residency/)]
+- PFN (Preferred Networks) AI residency program [[Link](https://www.preferred-networks.jp/en/news/residency-program2018-2019tokyo)]
+- Fall NAVER Clova AI Research Global Residency Program [[Link](https://clova.ai/m/en/research/careers.html)]
+- OpenAI 2019 Winter Scholars [[Link](https://blog.openai.com/openai-scholars-2019/)]
+- Profile for Google AI Program [[Link](https://www.quora.com/Has-anyone-been-accepted-to-the-Google-Brain-Residency-Program-What-was-your-profile-when-you-applied)]
+- [My year at Brain](http://colinraffel.com/blog/my-year-at-brain.html).
+- [Google Brain Residency](http://tinyclouds.org/residency/)
+- [The Google Brain Residency Program - One Year Later](https://research.googleblog.com/2017/07/the-google-brain-residency-program-one.html)
+- [Intel AI Residency](https://ai.intel.com/iclr-2018/)
+- [NVIDIA AI Research Residency - 2019](https://blogs.nvidia.com/blog/2018/11/02/residence-in-nvidia-launches-year-long-research-residency-program/)
+
+------------
+
 ###### Google Research 2006 - 2014
 
 - [Google's Hybrid Approach to Research](https://cacm.acm.org/magazines/2012/7/151226-googles-hybrid-approach-to-research/fulltext)
@@ -1409,29 +1433,7 @@ IBM AI
 
 ----------
 
-#### AI Residency
 
-[Back to top](#contents)
-
-- Google AI Residency Program [[Link](https://research.google.com/teams/brain/residency/)]. [[Reddit Link 1](https://www.reddit.com/r/MachineLearning/comments/7rajic/d_anyone_heard_back_from_google_ai_residency/)],
-[[Reddit Link 2](https://www.reddit.com/r/MachineLearning/comments/690ixs/d_google_brain_residency_requirements_and/)]
-- Microsoft AI Residency Program [[Link](https://www.microsoft.com/en-us/research/academic-program/microsoft-ai-residency-program/)] ,[[Reddit Link 1](https://www.reddit.com/r/MachineLearning/comments/7u2a19/news_microsoft_ai_residency/)]
-- Microsoft NERD Artificial Intelligence Program [[Link](http://microsoftnewengland.com/nerdAI/)]
-- Facebook AI Residency Program [[Link](https://research.fb.com/programs/facebook-ai-research-residency-program/)], [[ Reddit Link 1](https://www.reddit.com/r/MachineLearning/comments/7w5unr/d_has_anybody_heard_back_from_facebook_ai/)],
-[[Reddit Link 2](https://www.reddit.com/r/MachineLearning/comments/7xxng0/d_anyone_hear_back_from_facebook_ai_research_fair/)],
-[[Reddit Link 3](https://www.reddit.com/r/MachineLearning/comments/7t9y9f/discussion_facebook_ai_residency_closed_early/)]
-- Uber AI Residency [[Link](https://eng.uber.com/uber-ai-residency/)], [[Reddit Link](https://www.reddit.com/r/MachineLearning/comments/7yycov/d_introducing_the_uber_ai_residency/)]
-- PFN (Preferred Networks) AI residency program [[Link](https://www.preferred-networks.jp/en/news/residency-program2018-2019tokyo)]
-- Fall NAVER Clova AI Research Global Residency Program [[Link](https://clova.ai/m/en/research/careers.html)]
-- OpenAI 2019 Winter Scholars [[Link](https://blog.openai.com/openai-scholars-2019/)]
-- Profile for Google AI Program [[Link](https://www.quora.com/Has-anyone-been-accepted-to-the-Google-Brain-Residency-Program-What-was-your-profile-when-you-applied)]
-- [My year at Brain](http://colinraffel.com/blog/my-year-at-brain.html).
-- [Google Brain Residency](http://tinyclouds.org/residency/)
-- [The Google Brain Residency Program - One Year Later](https://research.googleblog.com/2017/07/the-google-brain-residency-program-one.html)
-- [Intel AI Residency](https://ai.intel.com/iclr-2018/)
-- [NVIDIA AI Research Residency - 2019](https://blogs.nvidia.com/blog/2018/11/02/residence-in-nvidia-launches-year-long-research-residency-program/)
-
-------------
 
 [MIT CSAIL](https://www.csail.mit.edu/)
 
