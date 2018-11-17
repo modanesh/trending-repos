@@ -1037,6 +1037,8 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
 
 ###### Google Research 2006 - 2014
 
+[Back to top](#contents)
+
 - [Google's Hybrid Approach to Research](https://cacm.acm.org/magazines/2012/7/151226-googles-hybrid-approach-to-research/fulltext)
 - [Google Research Picks for Videos of the Year - 2006](https://ai.googleblog.com/2006/12/google-research-picks-for-videos-of-year.html)
 - [The Continuing
@@ -1087,6 +1089,9 @@ Of the Web - 2009](http://www2009.eprints.org/214/1/www2009azsv4FinalV3.pdf)
 
 ###### Google Research - 2015
 
+[Back to top](#contents)
+
+
 - [From Pixels to Actions: Human-level control through Deep Reinforcement Learning](https://ai.googleblog.com/2015/02/from-pixels-to-actions-human-level.html)
 - [Large-Scale Machine Learning for Drug Discovery](https://ai.googleblog.com/2015/03/large-scale-machine-learning-for-drug.html)
 - [A step closer to quantum computation with Quantum Error Correction](https://ai.googleblog.com/2015/03/a-step-closer-to-quantum-computation.html)
@@ -1114,6 +1119,8 @@ Of the Web - 2009](http://www2009.eprints.org/214/1/www2009azsv4FinalV3.pdf)
 ---------
 
 ###### Google Research - 2016
+
+[Back to top](#contents)
 
 - [AlphaGo: Mastering the ancient game of Go with Machine Learning](https://ai.googleblog.com/2016/01/alphago-mastering-ancient-game-of-go.html)
 - [Running your models in production with TensorFlow Serving](https://ai.googleblog.com/2016/02/running-your-models-in-production-with.html)
@@ -1157,6 +1164,8 @@ Of the Web - 2009](http://www2009.eprints.org/214/1/www2009azsv4FinalV3.pdf)
 ----------
 
 ###### Google Research - 2017
+
+[Back to top](#contents)
 
 - [Google Brain Residency Program - 7 months in and looking ahead](https://ai.googleblog.com/2017/01/google-brain-residency-program-7-months.html)
 - [The Google Brain Team — Looking Back on 2016](https://ai.googleblog.com/2017/01/the-google-brain-team-looking-back-on.html)
@@ -1240,6 +1249,8 @@ Of the Web - 2009](http://www2009.eprints.org/214/1/www2009azsv4FinalV3.pdf)
 -------------
 
 ###### Google Research - 2018
+
+[Back to top](#contents)
 
 - [The Google Brain Team — Looking Back on 2017 (Part 1 of 2)](https://ai.googleblog.com/2018/01/the-google-brain-team-looking-back-on.html)
 - [The Google Brain Team — Looking Back on 2017 (Part 2 of 2)](https://ai.googleblog.com/2018/01/the-google-brain-team-looking-back-on_12.html)
@@ -1326,6 +1337,8 @@ Of the Web - 2009](http://www2009.eprints.org/214/1/www2009azsv4FinalV3.pdf)
 
 Microsoft Research
 
+[Back to top](#contents)
+
 - [research projects](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/projects/)
 - [@events](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/events/)
 - [research-blog](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/microsoft-research-blog/)
@@ -1334,6 +1347,8 @@ Microsoft Research
 -----------
 
 Uber AI Labs
+
+[Back to top](#contents)
 
 from 2016
 
@@ -1444,6 +1459,8 @@ IBM AI
 
 Baidu AI
 
+[Back to top](#contents)
+
 From 2017
 
 - [An AI agent with human-like language acquisition in a virtual environment](http://research.baidu.com/Blog/index-view?id=99)
@@ -1475,6 +1492,8 @@ From 2017
 ------------
 
 BAIR
+
+[Back to top](#contents)
 
 From Jun 2017
 
