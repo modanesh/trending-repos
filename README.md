@@ -106,7 +106,7 @@
 - [INtel AI: brainiak-ai-powered-neuroscience](https://ai.intel.com/brainiak-ai-powered-neuroscience/)
 - [INtel AI: intel-neural-compute-stick-2-smarter-faster-plug-and-play-ai-at-the-edge](https://ai.intel.com/intel-neural-compute-stick-2-smarter-faster-plug-and-play-ai-at-the-edge/)
 - [Uber AI: Announcing the 2019 Uber AI Residency](https://eng.uber.com/ai-residency-2019/)
-- [Uber AI: NVIDIA: Accelerating Deep Learning with Uber’s Horovo](https://eng.uber.com/nvidia-horovod-deep-learning/)
+- [Uber AI: NVIDIA: Accelerating Deep Learning with Uber’s Horovod](https://eng.uber.com/nvidia-horovod-deep-learning/)
 - [Uber AI: Experience in AI: Uber Hires Jan Pedersen ](https://eng.uber.com/uber-hires-jan-pedersen/)
 - [Baidu Research Establishes an Advisory Board, Holds 1st Board Meeting in Silicon Valley](http://research.baidu.com/Blog/index-view?id=108)
 - [BAIR: AdaSearch: A Successive Elimination Approach to Adaptive Search](https://bair.berkeley.edu/blog/2018/11/14/adasearch/)
