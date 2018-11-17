@@ -782,6 +782,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [10-steps-to-become-a-data-scientist](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist) - In this repository, we want to review 10 skills as data scientist: Machine Learning, Deep Learning, Data Cleaning, EDA, Learn Python, Learn python packages such as Numpy, Pandas, Seaborn, Matplotlib, Plotly, Tensorfolw, Theano...., Linear Algebra, Big Data, Analysis Tools and solve real problem for instance predict house prices
+- [deep-learning-v2-pytorch](https://github.com/udacity/deep-learning-v2-pytorch) - Projects and exercises for the latest Deep Learning ND program
 - [hmtl](https://github.com/huggingface/hmtl) - HMTL: Hierarchical Multi-Task Learning
 - [torchdiffeq](https://github.com/rtqichen/torchdiffeq) - Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.
 - [yandexdataschool](https://github.com/yandexdataschool) - Yandex School of Data Analysis
