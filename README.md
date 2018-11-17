@@ -782,6 +782,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [hmtl](https://github.com/huggingface/hmtl) - HMTL: Hierarchical Multi-Task Learning
 - [torchdiffeq](https://github.com/rtqichen/torchdiffeq) - Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.
 - [yandexdataschool](https://github.com/yandexdataschool) - Yandex School of Data Analysis
 - [cpp-compilation](https://github.com/green7ea/cpp-compilation) - A short description of the C++ build process
