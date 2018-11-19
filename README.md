@@ -1043,7 +1043,7 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
 - [omi](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating) http://omijs.org
 - [mio](https://github.com/mandreyel/mio) - Cross-platform header-only C++11 library for memory mapped file IO
 - [frontend-tech-list](https://github.com/alienzhou/frontend-tech-list)
-
+- [hardware-effects](https://github.com/Kobzol/hardware-effects) - Demonstration of various hardware effects.
 
 -----------
 
