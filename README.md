@@ -43,9 +43,11 @@
 - [sciencedaily](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/)
 - [machinelearningmastery](https://machinelearningmastery.com/blog/)
 - [news.mit](http://news.mit.edu/topic/artificial-intelligence2)
+- [csail.mit](https://www.csail.mit.edu/news)
 - [reddit](https://www.reddit.com/r/artificial/)
 - [aitopics](http://aitopics.org/whats-new)
-- [machinelearnings](https://machinelearnings.co/)
+- [hbr.org](https://hbr.org/topic/technology)
+- [mittechnologyreview](https://www.technologyreview.com/) | [10 Breakthrough Technologies](https://www.technologyreview.com/lists/technologies/2018/) | [Innovators](https://www.technologyreview.com/lists/innovators-under-35/2018/) | [50 Smartest Companies](https://www.technologyreview.com/lists/companies/2017/) |
 - [ai-blog](https://www.artificial-intelligence.blog/news/)
 - [news.google](https://news.google.com/search?q=artificial+intelligence&tbm=nws&*&hl=en-IN&gl=IN&ceid=IN:en)
 - [chatbotsmagazine](https://chatbotsmagazine.com/)
@@ -96,6 +98,29 @@
 - [machinethink](http://machinethink.net/blog/)
 - [r2d3](http://www.r2d3.us)
 - [google seedbank](https://research.google.com/seedbank/)
+- [recode.net](https://www.recode.net/emerging-tech)
+- [a16z](https://a16z.com/content/)
+- [tesla](https://www.tesla.com/blog)
+- [economist](https://www.economist.com/science-and-technology/)
+- [medium.com/tag/deep-learning](https://medium.com/tag/deep-learning/latest)
+- [usepanda](https://usepanda.com/app/#/)
+- [bloomberg](https://www.bloomberg.com/technology)
+- [techcrunch.ai](https://techcrunch.com/tag/artificial-intelligence/)
+- [techemergence](https://www.techemergence.com/)
+- [nytimes](https://www.nytimes.com/section/technology?emc=rss&partner=rss)
+- [qz.com/india](https://qz.com/india/)
+- [theatlantic](https://www.theatlantic.com/technology/)
+- [npr](https://www.npr.org/sections/alltechconsidered/)
+- [vice](https://motherboard.vice.com/en_us)
+- [dzone.com](https://dzone.com/artificial-intelligence-tutorials-tools-news)
+- [dribbble](https://dribbble.com/)
+- [behance](https://www.behance.net/)
+- [fastcompany](https://www.fastcompany.com/technology)
+- [news.ycombinator](https://news.ycombinator.com/)
+- [inc.com](https://www.inc.com/technology)
+- [producthunt](https://www.producthunt.com/)
+
+
 
 
 --------------
