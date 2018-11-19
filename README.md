@@ -47,6 +47,7 @@
 | [csail.mit](https://www.csail.mit.edu/news)
 | [reddit](https://www.reddit.com/r/artificial/)
 | [aitopics](http://aitopics.org/whats-new)
+| [h2o.ai](http://h2o.ai/blog/)
 | [hbr.org](https://hbr.org/topic/technology)
 | [mittechnologyreview](https://www.technologyreview.com/) | [10 Breakthrough Technologies](https://www.technologyreview.com/lists/technologies/2018/) | [Innovators](https://www.technologyreview.com/lists/innovators-under-35/2018/) | [50 Smartest Companies](https://www.technologyreview.com/lists/companies/2017/) 
 | [ai-blog](https://www.artificial-intelligence.blog/news/)
@@ -122,7 +123,7 @@
 | [producthunt](https://www.producthunt.com/)
 | [kaggle.com/competitions](https://www.kaggle.com/competitions) | [kaggle.com/datasets](https://www.kaggle.com/datasets) 
 | [investopedia](https://www.investopedia.com/tech/)
-| [h2o.ai](http://h2o.ai/blog/) ||
+ ||
 
 
 
