@@ -119,7 +119,7 @@
 - [news.ycombinator](https://news.ycombinator.com/)
 - [inc.com](https://www.inc.com/technology)
 - [producthunt](https://www.producthunt.com/)
-
+- [kaggle.com/competitions](https://www.kaggle.com/competitions) | [kaggle.com/datasets](https://www.kaggle.com/datasets)
 
 
 
