@@ -15,12 +15,11 @@
   - [Imp](#imp)
   - [AI Residency](#ai-residency)
   - [Old Posts-Jan-Jun 2018](https://github.com/gopala-kr/summary/tree/master/articles)
-
+  - [fundamentals](https://github.com/gopala-kr/fundamentals/tree/master/use-cases)
+  
 [Back to top](#contents)
 
-
 -------
-
 
 ### Research News
 
@@ -102,7 +101,6 @@
 | [google seedbank](https://research.google.com/seedbank/)
 | [recode.net](https://www.recode.net/emerging-tech)
 | [a16z](https://a16z.com/content/)
-| [tesla](https://www.tesla.com/blog)
 | [economist](https://www.economist.com/science-and-technology/)
 | [medium.com/tag/deep-learning](https://medium.com/tag/deep-learning/latest)
 | [usepanda](https://usepanda.com/app/#/)
@@ -122,8 +120,35 @@
 | [inc.com](https://www.inc.com/technology)
 | [producthunt](https://www.producthunt.com/)
 | [kaggle.com/competitions](https://www.kaggle.com/competitions) | [kaggle.com/datasets](https://www.kaggle.com/datasets) 
-| [investopedia](https://www.investopedia.com/tech/)
- ||
+| [investopedia](https://www.investopedia.com/tech/) ||
+
+VC
+
+|| [cbinsights.com](https://www.cbinsights.com/research/report/)
+| [intelligence.businessinsider.com](https://intelligence.businessinsider.com/)
+| [cta.tech](https://www.cta.tech/)
+| [factiva.com](https://global.factiva.com/np/default.aspx?NAPC=P)
+| [emarketer.com](http://contentb-na1.emarketer.com/prohome2/pro-home-11.html)
+| [gartner.com](https://www.gartner.com)
+| [idc.com](https://blogs.idc.com/)
+| [advancedmobilityproject.com](https://www.advancedmobilityproject.com/)
+| [autobeatdaily](https://www.autobeatdaily.com/)
+| [cnwmarketingresearch](http://www.cnwmarketingresearch.com/index/)
+| [fitchsolutions](https://www.fitchsolutions.com/articles)
+| [autonews](http://www.autonews.com/)
+| [oecd-ilibrary.org](https://www.oecd-ilibrary.org/)
+| [pitchbook](https://pitchbook.com/blog)
+| [World Economic Forum](https://www.weforum.org/)
+| [gsmaintelligence](https://www.gsmaintelligence.com/)
+| [statista](https://www.statista.com/)
+| [pwc.com](https://www.pwc.com/gx/en)
+| [spglobal](https://www.spglobal.com/marketintelligence/en/news-insights/blog/index)
+| [tbri.com](https://tbri.com/category/blog/)
+| [inc42.com](https://inc42.com/features)
+| [Venture-Hacks-Bible](http://venturehacks.wpengine.com/wp-content/uploads/2010/11/Venture-Hacks-Bible1.pdf?ref=producthunt)
+| [Paul Graham: Essays](http://www.paulgraham.com/articles.html)
+| [One Page Investor Summary](https://seedproof.com/investors/?ref=sideLeft)
+| [dev.tube](https://dev.tube/?ref=producthunt) ||
 
 
 
