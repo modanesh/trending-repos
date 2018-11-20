@@ -122,7 +122,6 @@
 | [kaggle.com/competitions](https://www.kaggle.com/competitions) | [kaggle.com/datasets](https://www.kaggle.com/datasets) 
 | [investopedia](https://www.investopedia.com/tech/) ||
 
-VC
 
 || [cbinsights.com](https://www.cbinsights.com/research/report/)
 | [intelligence.businessinsider.com](https://intelligence.businessinsider.com/)
