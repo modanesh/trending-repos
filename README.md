@@ -201,7 +201,8 @@
 | [nathan.ai newsletter](https://www.getrevue.co/profile/nathanbenaich/)
 | [strictlyvc](https://www.strictlyvc.com/)
 | [axios](https://www.axios.com/newsletters/axios-pro-rata)
- ||
+||
+ 
 --------------
 
 11/16
