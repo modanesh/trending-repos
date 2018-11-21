@@ -103,7 +103,7 @@
 | [deeplearning.net](http://deeplearning.net/blog/)
 | [kaggle.com/competitions](https://www.kaggle.com/competitions) | [kaggle.com/datasets](https://www.kaggle.com/datasets) 
 | [deeplearning.ml](http://newsletters.deeplearning.ml/) ||
-| 
+ 
 
 || [r-bloggers](https://www.r-bloggers.com/)
 | [echen](http://blog.echen.me/)
