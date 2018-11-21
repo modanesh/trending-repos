@@ -946,6 +946,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [self_driving_pi_car](https://github.com/felipessalvatore/self_driving_pi_car) - A deep neural network based self-driving car, that combines Lego Mindstorms NXT with the computational power of a Raspberry Pi 3.
 - [Tiramisu-keras](https://github.com/junjungoal/Tiramisu-keras) - Tiramisu — One hundred layers
 - [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) - PyTorch implementations of Generative Adversarial Networks.
 - [pytorch-summary](https://github.com/sksq96/pytorch-summary) - Model summary in PyTorch similar to `model.summary()` in Keras
