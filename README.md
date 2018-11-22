@@ -102,7 +102,18 @@
 | [medium.com/tag/deep-learning](https://medium.com/tag/deep-learning/latest)
 | [deeplearning.net](http://deeplearning.net/blog/)
 | [kaggle.com/competitions](https://www.kaggle.com/competitions) | [kaggle.com/datasets](https://www.kaggle.com/datasets) 
-| [deeplearning.ml](http://newsletters.deeplearning.ml/) ||
+| [deeplearning.ml](http://newsletters.deeplearning.ml/) 
+| [nature](https://www.nature.com/news)
+| [MAL](https://www.nowpublishers.com/MAL)
+| [Evolutionary Computation](http://cognet.mit.edu/content/evolutionary-computation)
+| [mitpressjournals](https://www.mitpressjournals.org/action/showPublications)
+| [jamesmc](http://jamesmc.com/)
+| [phys.org](https://phys.org/)
+| [revolutionanalytics](https://blog.revolutionanalytics.com/2018/10/bridge-safety-in-r.html)
+| [guide2research](http://www.guide2research.com/journals/machine-learning)
+| [gccis](http://phd.gccis.rit.edu/policies/Top-tier%20Journal%20List.pdf)
+| [ijbidm](https://www.inderscience.com/jhome.php?jcode=ijbidm)
+||
  
 
 || [r-bloggers](https://www.r-bloggers.com/)
