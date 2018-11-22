@@ -112,6 +112,7 @@
 | [revolutionanalytics](https://blog.revolutionanalytics.com/2018/10/bridge-safety-in-r.html)
 | [gccis](http://phd.gccis.rit.edu/policies/Top-tier%20Journal%20List.pdf)
 | [ijbidm](https://www.inderscience.com/jhome.php?jcode=ijbidm)
+| [theschool.ai](https://www.theschool.ai/courses/move-37-course/)
 ||
  
 
