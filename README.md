@@ -274,7 +274,42 @@
 ||
  
 --------------
+11/23
 
+- [University of Birmingham Unveils Powerful IBM AI Cluster](https://www.technologynetworks.com/informatics/news/university-of-birmingham-unveils-powerful-ibm-ai-cluster-312143)
+- [AI and ethics – challenging questions from the UK with global applicability](https://diginomica.com/2018/11/20/ai-ethics-debate-uk-government/)
+- [Explainable Artificial Intelligence: How Does it Work?](https://www.expertsystem.com/explainable-artificial-intelligence-work/)
+- [IBM: Build a handwritten digit recognizer in Watson Studio and PyTorch](https://developer.ibm.com/patterns/handwritten-digit-recognizer-in-watson-studio-and-pytorch/)
+- [New Features For Amazon SageMaker: Workflows, Algorithms, and Accreditation](https://aws.amazon.com/blogs/machine-learning/new-features-for-amazon-sagemaker-workflows-algorithms-and-accreditation/)
+- [Amazon Rekognition announces updates to its face detection, analysis, and recognition capabilities](https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-announces-updates-to-its-face-detection-analysis-and-recognition-capabilities/)
+- [Artificial intelligence competition announces $1 million prize](https://www.kitchenertoday.com/local-news/artificial-intelligence-competition-announces-1-million-prize-1132960)
+- [How Cheap Labor Drives China’s A.I. Ambitions](https://www.nytimes.com/2018/11/25/business/china-artificial-intelligence-labeling.html)
+- [China’s artificial intelligence ambitions hit hurdles](https://www.ft.com/content/8620933a-e0c5-11e8-a6e5-792428919cee)
+- [Fei-Fei Li's Quest to Make AI Better for Humanity](https://www.wired.com/story/fei-fei-li-artificial-intelligence-humanity/)
+- [Chinese AI chipmaker Horizon Robotics raises up to $1bn](https://www.ft.com/content/bea3090c-f15c-11e8-ae55-df4bf40f9d0d)
+- [Apple acquires Artificial Intelligence startup Silk Labs](https://www.timesnownews.com/technology-science/article/apple-acquires-artificial-intelligence-startup-silk-labs/318511)
+- [HBO documentary a creepy look at artificial intelligence](http://www.bostonherald.com/entertainment/television/2018/11/hbo_documentary_a_creepy_look_at_artificial_intelligence)
+- [5 trends to expect for artificial intelligence in 2019](https://www.healthdatamanagement.com/list/5-trends-to-expect-for-artificial-intelligence-in-2019)
+- [Kumbh Mela: Indian Railways to use Artificial Intelligence-based technology for crowd control at stations](https://www.financialexpress.com/infrastructure/railways/kumbh-mela-indian-railways-to-use-artificial-intelligence-based-technology-for-crowd-control-at-stations/1394001/)
+- [Elon Musk: Humans must merge with machines](https://www.axios.com/elon-musk-artificial-intelligence-neuralink-9d351dbb-987b-4b63-9fdc-617182922c33.html)
+- [Our nation needs to accelerate artificial intelligence for farm tech](https://www.desmoinesregister.com/story/opinion/columnists/iowa-view/2018/11/26/artificial-intelligence-agriculture-food-systems-tom-vilsack-ag-farm-tech-drone-ai-robots/2114073002/)
+- [Is Artificial Intelligence Dangerous? 6 AI Risks Everyone Should Know About](https://www.forbes.com/sites/bernardmarr/2018/11/19/is-artificial-intelligence-dangerous-6-ai-risks-everyone-should-know-about/#3e1ce1f02404)
+- [Battlefield 2.0: How Edge Artificial Intelligence Is Setting Man Against Machine](https://www.forbes.com/sites/zakdoffman/2018/11/25/battlefield-2-0-how-edge-ai-is-setting-man-against-machine/#542e88162577)
+- [Driving the Next Generation of Vehicles](https://blogs.nvidia.com/blog/2018/11/20/nvidia-drive-agx-next-gen-vehicles/)
+- [IBM Research AI at 2018 Conference on Neural Information Processing Systems](https://www.ibm.com/blogs/research/2018/11/ibm-ai-2018-neurips/)
+- [BAIR: Physics-Based Learned Design: Teaching a Microscope How to Image](https://bair.berkeley.edu/blog/2018/11/26/physics-learning/)
+- [Prevalence-Induced Behavior and AI Self-Driving Cars](https://aitrends.com/ai-insider/prevalence-induced-behavior-and-ai-self-driving-cars/)
+- [2019 AI Predictions From Forrester: Data Quality a Top Challenge](https://aitrends.com/2019-ai-predictions/2019-ai-predictions-from-forrester-data-quality-a-top-challenge/)
+- [Smarter AI: Machine learning without negative data](https://www.sciencedaily.com/releases/2018/11/181126123323.htm)
+- [Model of quantum artificial life on quantum computer](https://www.sciencedaily.com/releases/2018/11/181120125838.htm)
+- [Investments in artificial intelligence to triple, as firms seek payday](https://www.dig-in.com/news/investments-in-artificial-intelligence-to-triple-as-firms-seek-payday?tag=00000157-0f79-d9a8-a5d7-ff7d1e2d0000)
+- [NASA's Insight lands on Mars - What's next?](https://www.aljazeera.com/news/2018/11/nasa-insight-lander-mars-teach-planet-181125131220997.html)
+- [AI & Global Governance: Three Paths Towards a Global Governance of Artificial Intelligence](https://cpr.unu.edu/ai-global-governance-three-paths-towards-a-global-governance-of-artificial-intelligence.html)
+- [Voice ‘Fingerprint’ Propels Speaker Recognition](https://www.datanami.com/2018/08/24/voice-fingerprint-propels-speaker-recognition/)
+- [One of the largest AI platforms in healthcare is one you’ve never heard of, until now](http://newsroom.gehealthcare.com/new-apps-smart-devices-launch-healthcare-edison-ai-platform/)
+
+
+-----------
 11/16
 
 - [Google AI: Accurate Online Speaker Diarization with Supervised Learning](https://ai.googleblog.com/2018/11/accurate-online-speaker-diarization.html)
