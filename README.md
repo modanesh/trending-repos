@@ -257,6 +257,7 @@
 | [a16z](https://a16z.com/content/)
 | [economist](https://www.economist.com/science-and-technology/)
 | [mattermark](https://mattermark.com/blog/)
+| [blumbergcapital](https://www.blumbergcapital.com/news-insights/)
 | [fortune term-sheet](http://fortune.com/tag/term-sheet/)
 | [ben-evans](https://www.ben-evans.com/newsletter/)
 | [nathan.ai newsletter](https://www.getrevue.co/profile/nathanbenaich/)
