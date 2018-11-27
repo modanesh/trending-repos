@@ -48,7 +48,7 @@
 | [aitopics](http://aitopics.org/whats-new)
 | [h2o.ai](http://h2o.ai/blog/)
 | [hbr.org](https://hbr.org/topic/technology)
-| [mittechnologyreview](https://www.technologyreview.com/) | [10 Breakthrough Technologies](https://www.technologyreview.com/lists/technologies/2018/) | [Innovators](https://www.technologyreview.com/lists/innovators-under-35/2018/) | [50 Smartest Companies](https://www.technologyreview.com/lists/companies/2017/) 
+| [mittechnologyreview](https://www.technologyreview.com/) | [10 Breakthrough Technologies](https://www.technologyreview.com/lists/technologies/2018/) | [Innovators](https://www.technologyreview.com/lists/innovators-under-35/2018/) | [50 Smartest Companies](https://www.technologyreview.com/lists/companies/2017/) | [Videos - MIT Technology Review](https://www.technologyreview.com/videos/)
 | [ai-blog](https://www.artificial-intelligence.blog/news/)
 | [news.google](https://news.google.com/search?q=artificial+intelligence&tbm=nws&*&hl=en-IN&gl=IN&ceid=IN:en)
 | [chatbotsmagazine](https://chatbotsmagazine.com/)
