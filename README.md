@@ -960,6 +960,11 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [3DDFA](https://github.com/cleardusk/3DDFA) - The pytorch improved re-implementation of TPAMI 2017 paper: Face Alignment in Full Pose Range: A 3D Total Solution.
+- [tencent-ml-images](https://github.com/Tencent/tencent-ml-images) - Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet
+- [practical-cryptography-for-developers-book](https://github.com/nakov/practical-cryptography-for-developers-book) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Elliptic Curves, Digital Signatures https://cryptobook.nakov.com
+- [http3-explained](https://github.com/bagder/http3-explained) - A document describing the HTTP/3 and QUIC protocols https://daniel.haxx.se/http3-explained/
+- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm http://www.zstd.net
 - [self_driving_pi_car](https://github.com/felipessalvatore/self_driving_pi_car) - A deep neural network based self-driving car, that combines Lego Mindstorms NXT with the computational power of a Raspberry Pi 3.
 - [Tiramisu-keras](https://github.com/junjungoal/Tiramisu-keras) - Tiramisu — One hundred layers
 - [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) - PyTorch implementations of Generative Adversarial Networks.
@@ -1153,6 +1158,7 @@ ML study process record
 - [pytorch-book](https://github.com/chenyuntc/pytorch-book) : PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation
 - [CFDPython](https://github.com/barbagroup/CFDPython) - 
 A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http://lorenabarba.com/
+-  [eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support. https://akveo.github.io/eva-icons/
 
 ---------------
 
