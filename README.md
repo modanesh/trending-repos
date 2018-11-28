@@ -279,7 +279,6 @@
 - [University of Birmingham Unveils Powerful IBM AI Cluster](https://www.technologynetworks.com/informatics/news/university-of-birmingham-unveils-powerful-ibm-ai-cluster-312143)
 - [AI and ethics – challenging questions from the UK with global applicability](https://diginomica.com/2018/11/20/ai-ethics-debate-uk-government/)
 - [Explainable Artificial Intelligence: How Does it Work?](https://www.expertsystem.com/explainable-artificial-intelligence-work/)
-- [IBM: Build a handwritten digit recognizer in Watson Studio and PyTorch](https://developer.ibm.com/patterns/handwritten-digit-recognizer-in-watson-studio-and-pytorch/)
 - [New Features For Amazon SageMaker: Workflows, Algorithms, and Accreditation](https://aws.amazon.com/blogs/machine-learning/new-features-for-amazon-sagemaker-workflows-algorithms-and-accreditation/)
 - [Amazon Rekognition announces updates to its face detection, analysis, and recognition capabilities](https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-announces-updates-to-its-face-detection-analysis-and-recognition-capabilities/)
 - [Artificial intelligence competition announces $1 million prize](https://www.kitchenertoday.com/local-news/artificial-intelligence-competition-announces-1-million-prize-1132960)
