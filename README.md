@@ -994,7 +994,35 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  ###### Latest
  
  [Back to top](#contents)
+ 
+  ---------
+NIPS 2018
 
+- [PointCNN](https://github.com/yangyanli/PointCNN)
+- [n3net](https://github.com/visinf/n3net)
+- [cgnl-network.pytorch](https://github.com/KaiyuYue/cgnl-network.pytorch)
+- [OneShotTranslation](https://github.com/sagiebenaim/OneShotTranslation)
+- [NIPS2018](https://github.com/shipubupt/NIPS2018)
+- [SEAL](https://github.com/muhanzhang/SEAL)
+- [AttentionConvLSTM](https://github.com/GuangmingZhu/AttentionConvLSTM)
+- [NIPS2018_DECAPROP](https://github.com/vanzytay/NIPS2018_DECAPROP)
+- [generalize-unseen-domains](https://github.com/ricvolpi/generalize-unseen-domains)
+- [tpprl](https://github.com/Networks-Learning/tpprl)
+- [adversarial-object-removal](https://github.com/rakshithShetty/adversarial-object-removal)
+- [Batch_Instance_Normalization-Tensorflow](https://github.com/taki0112/Batch_Instance_Normalization-Tensorflow)
+- [Frequency-Agnostic](https://github.com/ChengyueGongR/Frequency-Agnostic)
+- [NIPS2018_RCRN](https://github.com/vanzytay/NIPS2018_RCRN)
+- [DDPAE-video-prediction](https://github.com/jthsieh/DDPAE-video-prediction)
+- [kernel-mod](https://github.com/wittawatj/kernel-mod)
+- [nips2018-agent](https://github.com/m2q/nips2018-agent)
+- [NIPS-2018-Adversarial-Vision-Challenge](https://github.com/Simsso/NIPS-2018-Adversarial-Vision-Challenge)
+- [Robust-Conditional-GAN](https://github.com/POLane16/Robust-Conditional-GAN)
+- [CDAN-re-implement](https://github.com/YabinZhang1994/CDAN-re-implement)
+- [nips2018survey](https://github.com/hal3/nips2018survey/blob/master/nips2018survey.pdf)
+- [https://nips2018url.github.io/](https://nips2018url.github.io/)
+- [nips-2018-ai-for-prosthetics-challenge](https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge)
+
+  ----------
 - [osim-rl-helper](https://github.com/seungjaeryanlee/osim-rl-helper) - Helper for NIPS 2018 Challenge: AI for Prosthetics
 - [awslabs/amazon-sagemaker-examples](https://github.com/awslabs/amazon-sagemaker-examples) - Example notebooks that show how to apply machine learning and deep learning in Amazon SageMaker
 - [d2l-en](https://github.com/diveintodeeplearning/d2l-en) - Dive into Deep Learning (CV chapters coming soon) https://en.diveintodeeplearning.org
