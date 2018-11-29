@@ -995,9 +995,10 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
-  ---------
-NIPS 2018
-
+ ---------
+  
+ NIPS 2018
+ 
 - [PointCNN](https://github.com/yangyanli/PointCNN)
 - [n3net](https://github.com/visinf/n3net)
 - [cgnl-network.pytorch](https://github.com/KaiyuYue/cgnl-network.pytorch)
@@ -1021,8 +1022,7 @@ NIPS 2018
 - [nips2018survey](https://github.com/hal3/nips2018survey/blob/master/nips2018survey.pdf)
 - [https://nips2018url.github.io/](https://nips2018url.github.io/)
 - [nips-2018-ai-for-prosthetics-challenge](https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge)
-
-  ----------
+ ----------
 - [osim-rl-helper](https://github.com/seungjaeryanlee/osim-rl-helper) - Helper for NIPS 2018 Challenge: AI for Prosthetics
 - [awslabs/amazon-sagemaker-examples](https://github.com/awslabs/amazon-sagemaker-examples) - Example notebooks that show how to apply machine learning and deep learning in Amazon SageMaker
 - [d2l-en](https://github.com/diveintodeeplearning/d2l-en) - Dive into Deep Learning (CV chapters coming soon) https://en.diveintodeeplearning.org
