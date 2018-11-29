@@ -994,6 +994,9 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [stanford-cs-230-deep-learning](https://github.com/afshinea/stanford-cs-230-deep-learning) - 
+VIP cheatsheets for Stanford's CS 230 Deep Learning
+- [CSAILVision/gandissect](https://github.com/CSAILVision/gandissect) - Pytorch-based tools for visualizing and understanding the neurons of a GAN. https://gandissect.csail.mit.edu/
 - [3DDFA](https://github.com/cleardusk/3DDFA) - The pytorch improved re-implementation of TPAMI 2017 paper: Face Alignment in Full Pose Range: A 3D Total Solution.
 - [tencent-ml-images](https://github.com/Tencent/tencent-ml-images) - Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet
 - [practical-cryptography-for-developers-book](https://github.com/nakov/practical-cryptography-for-developers-book) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Elliptic Curves, Digital Signatures https://cryptobook.nakov.com
@@ -1160,8 +1163,7 @@ This is an automated machine learning (AutoML) package. http://autokeras.com/
 
 [Back to top](#contents)
 
-- [stanford-cs-230-deep-learning](https://github.com/afshinea/stanford-cs-230-deep-learning) - 
-VIP cheatsheets for Stanford's CS 230 Deep Learning
+
 - [udacity/deep-reinforcement-learning](https://github.com/udacity/deep-reinforcement-learning) : Repo for the Deep Reinforcement Learning Nanodegree program
 - [Mask-RCNN](https://github.com/wannabeOG/Mask-RCNN) : A PyTorch implementation of the architecture of Mask RCNN, serves as an introduction to working with PyTorch
 - [cascade-rcnn](https://github.com/zhaoweicai/cascade-rcnn) : Caffe implementation of multiple popular object detection frameworks
@@ -1233,6 +1235,8 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
 - [mio](https://github.com/mandreyel/mio) - Cross-platform header-only C++11 library for memory mapped file IO
 - [frontend-tech-list](https://github.com/alienzhou/frontend-tech-list)
 - [hardware-effects](https://github.com/Kobzol/hardware-effects) - Demonstration of various hardware effects.
+- [edex-ui ](https://github.com/GitSquared/edex-ui) - A science fiction terminal emulator designed for large touchscreens that runs on all major OSs.
+- [ncc](https://github.com/zeit/ncc) - Node.js Compiler Collection
 
 -----------
 
