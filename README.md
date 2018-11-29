@@ -993,7 +993,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  ###### Latest
  
  [Back to top](#contents)
-
+ 
+- [d2l-en](https://github.com/diveintodeeplearning/d2l-en) - Dive into Deep Learning (CV chapters coming soon) https://en.diveintodeeplearning.org
 - [stanford-cs-230-deep-learning](https://github.com/afshinea/stanford-cs-230-deep-learning) - 
 VIP cheatsheets for Stanford's CS 230 Deep Learning
 - [CSAILVision/gandissect](https://github.com/CSAILVision/gandissect) - Pytorch-based tools for visualizing and understanding the neurons of a GAN. https://gandissect.csail.mit.edu/
