@@ -1160,6 +1160,8 @@ This is an automated machine learning (AutoML) package. http://autokeras.com/
 
 [Back to top](#contents)
 
+- [stanford-cs-230-deep-learning](https://github.com/afshinea/stanford-cs-230-deep-learning) - 
+VIP cheatsheets for Stanford's CS 230 Deep Learning
 - [udacity/deep-reinforcement-learning](https://github.com/udacity/deep-reinforcement-learning) : Repo for the Deep Reinforcement Learning Nanodegree program
 - [Mask-RCNN](https://github.com/wannabeOG/Mask-RCNN) : A PyTorch implementation of the architecture of Mask RCNN, serves as an introduction to working with PyTorch
 - [cascade-rcnn](https://github.com/zhaoweicai/cascade-rcnn) : Caffe implementation of multiple popular object detection frameworks
