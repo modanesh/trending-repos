@@ -305,7 +305,9 @@
 - [Super-Intelligent AI Paperclip Maximizer Conundrum and AI Self-Driving Cars](https://aitrends.com/ai-insider/super-intelligent-ai-paperclip-maximizer-conundrum-and-ai-self-driving-cars/)
 - [Big Tech Primary Adopter of AI So Far; Adoption by Non-Tech Picking Up](https://aitrends.com/ai-adoption/big-tech-primary-adopter-of-ai-so-far-adoption-by-non-tech-picking-up/)
 - [How to Avoid the Potential Dangers of AI, Robots and Big Tech Companies](https://aitrends.com/ethics-and-social-issues/how-to-avoid-the-potential-dangers-of-ai-robots-and-big-tech-companies/)
-- []()
+- [Four billion people lack an address. Machine learning could change that.](https://www.technologyreview.com/s/612492/four-billion-people-lack-an-address-machine-learning-could-change-that/)
+- [technology-innovations-the-future-of-ai-and-blockchain](https://www.technologyreview.com/s/612419/technology-innovations-the-future-of-ai-and-blockchain/)
+- [Making AI algorithms crazy fast using chips powered by light](https://www.technologyreview.com/s/612449/making-ai-algorithms-crazy-fast-using-chips-powered-by-light/)
 
 
 -----------
