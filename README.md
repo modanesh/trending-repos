@@ -1023,6 +1023,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
 - [https://nips2018url.github.io/](https://nips2018url.github.io/)
 - [nips-2018-ai-for-prosthetics-challenge](https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge)
  ----------
+
 - [osim-rl-helper](https://github.com/seungjaeryanlee/osim-rl-helper) - Helper for NIPS 2018 Challenge: AI for Prosthetics
 - [awslabs/amazon-sagemaker-examples](https://github.com/awslabs/amazon-sagemaker-examples) - Example notebooks that show how to apply machine learning and deep learning in Amazon SageMaker
 - [d2l-en](https://github.com/diveintodeeplearning/d2l-en) - Dive into Deep Learning (CV chapters coming soon) https://en.diveintodeeplearning.org
@@ -1269,6 +1270,7 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
 - [hardware-effects](https://github.com/Kobzol/hardware-effects) - Demonstration of various hardware effects.
 - [edex-ui ](https://github.com/GitSquared/edex-ui) - A science fiction terminal emulator designed for large touchscreens that runs on all major OSs.
 - [ncc](https://github.com/zeit/ncc) - Node.js Compiler Collection
+- [Cyanea](https://github.com/jaredrummler/Cyanea) - A theme engine for Android
 
 -----------
 
