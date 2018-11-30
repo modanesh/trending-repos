@@ -301,7 +301,7 @@
 - [Microsoft AI: Discovering the best neural architectures in the continuous space](https://www.microsoft.com/en-us/research/blog/discovering-the-best-neural-architectures-in-the-continuous-space/?OCID=msr_blog_neuralarchitecture_neurips_hero)
 - [Microsoft AI: Minimizing trial and error in the drug discovery process](https://www.microsoft.com/en-us/research/blog/minimizing-trial-and-error-in-the-drug-discovery-process/?ocid=msr_blog_mintrialerror_neurips_hero)
 - [Microsoft AI: Challenge accepted—MARLÖ competition among conference highlights](https://www.microsoft.com/en-us/research/blog/challenge-accepted-marlo-competition-among-conference-highlights/?OCID=msr_blog_marlo_highlights)
-- []()
+- [Uber AI: Montezuma’s Revenge Solved by Go-Explore, a New Algorithm for Hard-Exploration Problems (Sets Records on Pitfall, Too)](https://eng.uber.com/go-explore/)
 - []()
 - []()
 - []()
