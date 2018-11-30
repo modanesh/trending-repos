@@ -275,6 +275,23 @@
 ||
  
 --------------
+
+11/30
+
+- [Global Financial Services Bullish On AI, The 'Disruptive Tech' Frontrunner](https://www.forbes.com/sites/rogeraitken/2018/11/28/global-financial-services-bullish-on-ai-the-disruptive-tech-frontrunner/#584128223114)
+- [AWS Machine Learning Game Gets A Boost With New Services, Custom-Designed ML Chip](https://www.crn.com/news/cloud/aws-machine-learning-game-gets-a-boost-with-new-services-custom-designed-ml-chip?itc=refresh)
+- [Huawei releases autonomous AI driving solution and demos cellular-connected cars](https://venturebeat.com/2018/11/26/huawei-releases-autonomous-ai-driving-solution-and-demos-cellular-connected-cars/)
+- [AI Startup Gyrfalcon spins plethora of chips for machine learning](https://www.zdnet.com/article/ai-startup-gyrfalcon-spins-plethora-of-chips-for-machine-learning/)
+- [AI startup Petuum aims to industrialize machine learning](https://www.zdnet.com/article/ai-startup-petuum-aims-to-industrialize-machine-learning/)
+- [IBM and IIT Delhi collaborate for AI research](https://tech.economictimes.indiatimes.com/news/technology/ibm-and-iit-delhi-collaborate-for-ai-research/66870633)
+- [Qualcomm bets $100M on new AI venture fund](https://www.cnet.com/news/qualcomm-bets-100m-on-new-ai-venture-fund/)
+- [Government earmarks £3m in funding for AI research for legal and financial service](https://www.telegraph.co.uk/technology/2018/11/28/uk-government-earmarks-3m-funding-ai-research-legal-financial/)
+- [Facebook AI research and NYU school of medicine announces new open-source AI models and MRI dataset as part of their FastMRI project](https://hub.packtpub.com/facebook-ai-research-and-nyu-school-of-medicine-announces-new-open-source-ai-models-and-mri-dataset-as-part-of-their-fastmri-project/)
+- [Fearful of bias, Google blocks gender-based pronouns from new AI tool](https://www.cio.co.nz/article/650090/fearful-bias-google-blocks-gender-based-pronouns-from-new-ai-tool/?utm_medium=rss&utm_source=taxonomyfeed)
+- [MIT: Student group explores the ethical dimensions of artificial intelligence](http://news.mit.edu/2018/mit-student-group-explores-artificial-intelligence-ethics-1127)
+
+-----------
+
 11/23
 
 - [University of Birmingham Unveils Powerful IBM AI Cluster](https://www.technologynetworks.com/informatics/news/university-of-birmingham-unveils-powerful-ibm-ai-cluster-312143)
