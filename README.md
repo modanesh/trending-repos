@@ -302,9 +302,9 @@
 - [Microsoft AI: Minimizing trial and error in the drug discovery process](https://www.microsoft.com/en-us/research/blog/minimizing-trial-and-error-in-the-drug-discovery-process/?ocid=msr_blog_mintrialerror_neurips_hero)
 - [Microsoft AI: Challenge accepted—MARLÖ competition among conference highlights](https://www.microsoft.com/en-us/research/blog/challenge-accepted-marlo-competition-among-conference-highlights/?OCID=msr_blog_marlo_highlights)
 - [Uber AI: Montezuma’s Revenge Solved by Go-Explore, a New Algorithm for Hard-Exploration Problems (Sets Records on Pitfall, Too)](https://eng.uber.com/go-explore/)
-- []()
-- []()
-- []()
+- [Super-Intelligent AI Paperclip Maximizer Conundrum and AI Self-Driving Cars](https://aitrends.com/ai-insider/super-intelligent-ai-paperclip-maximizer-conundrum-and-ai-self-driving-cars/)
+- [Big Tech Primary Adopter of AI So Far; Adoption by Non-Tech Picking Up](https://aitrends.com/ai-adoption/big-tech-primary-adopter-of-ai-so-far-adoption-by-non-tech-picking-up/)
+- [How to Avoid the Potential Dangers of AI, Robots and Big Tech Companies](https://aitrends.com/ethics-and-social-issues/how-to-avoid-the-potential-dangers-of-ai-robots-and-big-tech-companies/)
 - []()
 
 
