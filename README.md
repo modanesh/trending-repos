@@ -1061,9 +1061,11 @@ Transfer Learning
 - [imagenet](https://github.com/floydhub/imagenet)
 - [transferflow](https://github.com/dominiek/transferflow)
 - [Simple-Inception-Transfer-Learning](https://github.com/jiexunsee/Simple-Inception-Transfer-Learning)
-- []()
-- []()
-- []()
+- [transfer-mxnet](https://github.com/deepinsight/transfer-mxnet)
+- [Transfer-Learning-for-Animal-Classification-in-Tensorflow](https://github.com/Aniruddha-Tapas/Transfer-Learning-for-Animal-Classification-in-Tensorflow)
+- [transfer-learning-asr](https://github.com/transfer-learning-asr/transfer-learning-asr)
+- [cvpr18-inaturalist-transfer](https://github.com/richardaecn/cvpr18-inaturalist-transfer)
+- [image-classifier](https://github.com/abnera/image-classifier)
 
  ---------
   
