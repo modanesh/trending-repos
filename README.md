@@ -278,6 +278,8 @@
 
 11/30
 
+- [Google AI: A Structured Approach to Unsupervised Depth Learning from Monocular Videos](https://ai.googleblog.com/2018/11/a-structured-approach-to-unsupervised.html)
+- [Google AI: Learning to Predict Depth on the Pixel 3 Phones](https://ai.googleblog.com/2018/11/learning-to-predict-depth-on-pixel-3.html)
 - [Global Financial Services Bullish On AI, The 'Disruptive Tech' Frontrunner](https://www.forbes.com/sites/rogeraitken/2018/11/28/global-financial-services-bullish-on-ai-the-disruptive-tech-frontrunner/#584128223114)
 - [AWS Machine Learning Game Gets A Boost With New Services, Custom-Designed ML Chip](https://www.crn.com/news/cloud/aws-machine-learning-game-gets-a-boost-with-new-services-custom-designed-ml-chip?itc=refresh)
 - [Huawei releases autonomous AI driving solution and demos cellular-connected cars](https://venturebeat.com/2018/11/26/huawei-releases-autonomous-ai-driving-solution-and-demos-cellular-connected-cars/)
@@ -289,8 +291,6 @@
 - [Facebook AI research and NYU school of medicine announces new open-source AI models and MRI dataset as part of their FastMRI project](https://hub.packtpub.com/facebook-ai-research-and-nyu-school-of-medicine-announces-new-open-source-ai-models-and-mri-dataset-as-part-of-their-fastmri-project/)
 - [Fearful of bias, Google blocks gender-based pronouns from new AI tool](https://www.cio.co.nz/article/650090/fearful-bias-google-blocks-gender-based-pronouns-from-new-ai-tool/?utm_medium=rss&utm_source=taxonomyfeed)
 - [MIT: Student group explores the ethical dimensions of artificial intelligence](http://news.mit.edu/2018/mit-student-group-explores-artificial-intelligence-ethics-1127)
-- []()
-- []()
 - []()
 - []()
 - []()
