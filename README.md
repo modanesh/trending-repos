@@ -1038,7 +1038,10 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  - [mss_pytorch](https://github.com/Js-Mim/mss_pytorch)
  - [VirtualtoReal-RL](https://github.com/xinleipan/VirtualtoReal-RL)
  - [fast-artistic-videos](https://github.com/manuelruder/fast-artistic-videos)
- - []()
+ - [blocksparse](https://github.com/openai/blocksparse)
+ - [vime](https://github.com/openai/vime)
+ - [self-imitation-learning](https://github.com/junhyukoh/self-imitation-learning)
+ - [MANet_for_Video_Object_Detection](https://github.com/wangshy31/MANet_for_Video_Object_Detection)
  
  ----------
 
