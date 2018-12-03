@@ -47,7 +47,6 @@
 | [reddit](https://www.reddit.com/r/artificial/)
 | [aitopics](http://aitopics.org/whats-new)
 | [h2o.ai](http://h2o.ai/blog/)
-| [singularityhub](https://singularityhub.com/topics/#sm.0000u2nejl1ee3czhzjl7iznot63h)
 | [hbr.org](https://hbr.org/topic/technology)
 | [mittechnologyreview](https://www.technologyreview.com/) | [10 Breakthrough Technologies](https://www.technologyreview.com/lists/technologies/2018/) | [Innovators](https://www.technologyreview.com/lists/innovators-under-35/2018/) | [50 Smartest Companies](https://www.technologyreview.com/lists/companies/2017/) | [Videos - MIT Technology Review](https://www.technologyreview.com/videos/)
 | [TED talks](https://www.ted.com/talks?topics%5B%5D=technology)
@@ -120,7 +119,8 @@
  
  
 
-|| [r-bloggers](https://www.r-bloggers.com/)
+|| [singularityhub](https://singularityhub.com/topics/#sm.0000u2nejl1ee3czhzjl7iznot63h)
+| [r-bloggers](https://www.r-bloggers.com/)
 | [echen](http://blog.echen.me/)
 | [towardsdatascience](https://towardsdatascience.com/)
 | [sujitpal](http://sujitpal.blogspot.com/)
