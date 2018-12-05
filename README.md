@@ -1045,6 +1045,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  - [MANet_for_Video_Object_Detection](https://github.com/wangshy31/MANet_for_Video_Object_Detection)
  - [NVIDIAGameWorks/PhysX-3.4](https://github.com/NVIDIAGameWorks/PhysX-3.4)
  - [Me_Bot](https://github.com/Spandan-Madan/Me_Bot)
+ - [MSG-GAN](https://github.com/akanimax/MSG-GAN)
  
  ----------
 
