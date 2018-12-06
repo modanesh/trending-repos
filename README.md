@@ -119,6 +119,7 @@
  
  
 
+
 || [singularityhub](https://singularityhub.com/topics/#sm.0000u2nejl1ee3czhzjl7iznot63h)
 | [r-bloggers](https://www.r-bloggers.com/)
 | [echen](http://blog.echen.me/)
