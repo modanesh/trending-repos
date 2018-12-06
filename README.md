@@ -1036,7 +1036,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  [Back to top](#contents)
  
  
- 
+ - [Microsoft/Ethr](https://github.com/Microsoft/Ethr)
  - [mss_pytorch](https://github.com/Js-Mim/mss_pytorch)
  - [VirtualtoReal-RL](https://github.com/xinleipan/VirtualtoReal-RL)
  - [fast-artistic-videos](https://github.com/manuelruder/fast-artistic-videos)
