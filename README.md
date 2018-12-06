@@ -1035,6 +1035,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [video-to-ascii](https://github.com/joelibaceta/video-to-ascii)
  - [sourcegraph](https://github.com/sourcegraph/sourcegraph)
  - [Microsoft/Ethr](https://github.com/Microsoft/Ethr)
  - [mss_pytorch](https://github.com/Js-Mim/mss_pytorch)
