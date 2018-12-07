@@ -282,13 +282,18 @@
 
 - [Deepmind: AlphaFold: Using AI for scientific discovery](https://deepmind.com/blog/alphafold/)
 - [Deepmind: AlphaZero: Shedding new light on the grand games of chess, shogi and Go](https://deepmind.com/blog/alphazero-shedding-new-light-grand-games-chess-shogi-and-go/)
+- [OpenAI; Quantifying Generalization in Reinforcement Learning](https://blog.openai.com/quantifying-generalization-in-reinforcement-learning/)
+- [Google AI: Highlights from the 2018 Google PhD Fellowship Summit](https://ai.googleblog.com/2018/11/highlights-from-2018-google-phd.html)
+- [Google AI: Google at NeurIPS 2018](https://ai.googleblog.com/2018/12/google-at-neurips-2018.html)
+- [Google AI: The NeurIPS 2018 Test of Time Award: The Trade-Offs of Large Scale Learning](https://ai.googleblog.com/2018/12/the-neurips-2018-test-of-time-award.html)
+- [Google AI: TF-Ranking: A Scalable TensorFlow Library for Learning-to-Rank ](https://ai.googleblog.com/2018/12/tf-ranking-scalable-tensorflow-library.html)
+- [Google AI: Adding Diversity to Images with Open Images Extended](https://ai.googleblog.com/2018/12/adding-diversity-to-images-with-open.html)
 - [AI will transform product management](https://www.zdnet.com/article/ai-is-transforming-product-management/)
 - [Report: U.S. needs an AI strategy now](https://gcn.com/articles/2018/12/06/ai-strategy.aspx?admgarea=TC_AIAutomation)
 - [NVIDIA's new AI turns videos of the real world into virtual landscapes](https://www.engadget.com/2018/12/03/nvidia-ai-video-to-video-synthesis/?guccounter=1)
 - [White House to Release New AI Research Plan in 2019](https://www.executivegov.com/2018/12/white-house-to-release-new-ai-research-plan-in-2019/)
 - [Nvidia AI research points to an evolution of the chip business](https://www.zdnet.com/article/nvidia-ai-research-points-to-an-evolution-of-the-chip-business/)
 - [DeepMind claims early progress in AI-based predictive protein modelling](https://techcrunch.com/2018/12/03/deepmind-claims-early-progress-in-ai-based-predictive-protein-modelling/?guccounter=1)
-- [OpenAI; Quantifying Generalization in Reinforcement Learning](https://blog.openai.com/quantifying-generalization-in-reinforcement-learning/)
 - []()
 - []()
 - []()
@@ -299,12 +304,6 @@
 - []()
 - []()
 - []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
 
 ---------------
 11/30
