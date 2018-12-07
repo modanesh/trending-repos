@@ -311,8 +311,8 @@
 - [IBM AI: 8-Bit Precision for Training Deep Learning Systems](https://www.ibm.com/blogs/research/2018/12/8-bit-precision-training/)
 - [IBM AI: Dual 8-Bit Breakthroughs Bring AI to the Edge](https://www.ibm.com/blogs/research/2018/12/8-bit-breakthroughs-ai/)
 - [IBM AI: Interpretability and Performance: Can the Same Model Achieve Both?](https://www.ibm.com/blogs/research/2018/12/interpretability-performance/)
-- []()
-- []()
+- [BAIR: Building Gene Expression Atlases with Deep Generative Models for Single-cell Transcriptomics](https://bair.berkeley.edu/blog/2018/12/05/genes/)
+- [BAIR: Visual Model-Based Reinforcement Learning as a Path towards Generalist Robots](https://bair.berkeley.edu/blog/2018/11/30/visual-rl/)
 - []()
 - []()
 
