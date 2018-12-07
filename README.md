@@ -278,6 +278,35 @@
  
 --------------
 
+12/07
+
+- [AI will transform product management](https://www.zdnet.com/article/ai-is-transforming-product-management/)
+- [Report: U.S. needs an AI strategy now](https://gcn.com/articles/2018/12/06/ai-strategy.aspx?admgarea=TC_AIAutomation)
+- [NVIDIA's new AI turns videos of the real world into virtual landscapes](https://www.engadget.com/2018/12/03/nvidia-ai-video-to-video-synthesis/?guccounter=1)
+- [White House to Release New AI Research Plan in 2019](https://www.executivegov.com/2018/12/white-house-to-release-new-ai-research-plan-in-2019/)
+- [Nvidia AI research points to an evolution of the chip business](https://www.zdnet.com/article/nvidia-ai-research-points-to-an-evolution-of-the-chip-business/)
+- [DeepMind claims early progress in AI-based predictive protein modelling](https://techcrunch.com/2018/12/03/deepmind-claims-early-progress-in-ai-based-predictive-protein-modelling/?guccounter=1)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
+---------------
 11/30
 
 - [Google AI: A Structured Approach to Unsupervised Depth Learning from Monocular Videos](https://ai.googleblog.com/2018/11/a-structured-approach-to-unsupervised.html)
