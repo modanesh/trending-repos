@@ -322,7 +322,7 @@
 - [Quantum computers pose a security threat that we’re still totally unprepared for](https://www.technologyreview.com/s/612509/quantum-computers-encryption-threat/)
 - [Alibaba already has a voice assistant way better than Google’s](https://www.technologyreview.com/s/612511/alibaba-already-has-a-voice-assistant-way-better-than-googles/)
 - [AI software can dream up an entire digital world from a simple sketch](https://www.technologyreview.com/s/612503/ai-software-can-dream-up-an-entire-digital-world-from-a-simple-sketch/)
-- []()
+- [5 Paradoxes Which Left Artificial Intelligence Researchers In A Lurch](https://www.analyticsindiamag.com/5-paradoxes-which-left-ai-researchers-in-a-lurch/)
 - []()
 - []()
 
