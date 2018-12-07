@@ -288,7 +288,7 @@
 - [White House to Release New AI Research Plan in 2019](https://www.executivegov.com/2018/12/white-house-to-release-new-ai-research-plan-in-2019/)
 - [Nvidia AI research points to an evolution of the chip business](https://www.zdnet.com/article/nvidia-ai-research-points-to-an-evolution-of-the-chip-business/)
 - [DeepMind claims early progress in AI-based predictive protein modelling](https://techcrunch.com/2018/12/03/deepmind-claims-early-progress-in-ai-based-predictive-protein-modelling/?guccounter=1)
-- []()
+- [OpenAI; Quantifying Generalization in Reinforcement Learning](https://blog.openai.com/quantifying-generalization-in-reinforcement-learning/)
 - []()
 - []()
 - []()
