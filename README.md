@@ -1035,6 +1035,12 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [DeepCreamPy](https://github.com/deeppomf/DeepCreamPy)
+ - [DeOldify](https://github.com/jantic/DeOldify)
+ - [adanet](https://github.com/tensorflow/adanet)
+ - [graph_nets](https://github.com/deepmind/graph_nets)
+ - [MAMEToolkit](https://github.com/M-J-Murray/MAMEToolkit)
+ - [PocketFlow](https://github.com/Tencent/PocketFlow)
  - [video-to-ascii](https://github.com/joelibaceta/video-to-ascii)
  - [sourcegraph](https://github.com/sourcegraph/sourcegraph)
  - [Microsoft/Ethr](https://github.com/Microsoft/Ethr)
