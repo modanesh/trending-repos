@@ -323,7 +323,7 @@
 - [Alibaba already has a voice assistant way better than Google’s](https://www.technologyreview.com/s/612511/alibaba-already-has-a-voice-assistant-way-better-than-googles/)
 - [AI software can dream up an entire digital world from a simple sketch](https://www.technologyreview.com/s/612503/ai-software-can-dream-up-an-entire-digital-world-from-a-simple-sketch/)
 - [5 Paradoxes Which Left Artificial Intelligence Researchers In A Lurch](https://www.analyticsindiamag.com/5-paradoxes-which-left-ai-researchers-in-a-lurch/)
-- []()
+- [The Best Autonomous Vehicle Events to Attend in 2019](https://mighty.ai/blog/the-best-events-to-attend-in-2019-for-computer-vision-in-autonomous-vehicles/)
 - []()
 
 ---------------
