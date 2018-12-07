@@ -307,7 +307,7 @@
 - [Intel AI:improving-the-efficiency-and-accuracy-of-normalization-schemes-in-deep-networks](https://ai.intel.com/improving-the-efficiency-and-accuracy-of-normalization-schemes-in-deep-networks/)
 - [Nvidia AI:NVIDIA Research Takes NeurIPS Attendees on AI Road Trip ](https://blogs.nvidia.com/blog/2018/12/04/nvidia-research-neurips-demos/)
 - [Nvidia AI:NVIDIAN Rhapsody: Elite AI Researchers Win First TITAN RTX GPUs at NeurIPS ](https://blogs.nvidia.com/blog/2018/12/05/neurips-reception-titan-giveaway/)
-- []()
+- [How to Get a Better GAN (Almost) for Free: Introducing the Metropolis-Hastings GAN](https://eng.uber.com/mh-gan/)
 - []()
 - []()
 - []()
