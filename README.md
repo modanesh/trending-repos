@@ -324,7 +324,7 @@
 - [AI software can dream up an entire digital world from a simple sketch](https://www.technologyreview.com/s/612503/ai-software-can-dream-up-an-entire-digital-world-from-a-simple-sketch/)
 - [5 Paradoxes Which Left Artificial Intelligence Researchers In A Lurch](https://www.analyticsindiamag.com/5-paradoxes-which-left-ai-researchers-in-a-lurch/)
 - [The Best Autonomous Vehicle Events to Attend in 2019](https://mighty.ai/blog/the-best-events-to-attend-in-2019-for-computer-vision-in-autonomous-vehicles/)
-- []()
+- [Deep Hunt — Issue #62](https://deephunt.in/deep-hunt-issue-62-60bf98744c86)
 
 ---------------
 11/30
