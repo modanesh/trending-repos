@@ -1084,6 +1084,11 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ 
+ 
+ 
+ 
+ - [practicalAI](https://github.com/GokuMohandas/practicalAI) - A practical approach to learning machine learning.
  - [DeepCreamPy](https://github.com/deeppomf/DeepCreamPy)
  - [DeOldify](https://github.com/jantic/DeOldify)
  - [adanet](https://github.com/tensorflow/adanet)
