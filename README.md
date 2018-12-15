@@ -283,7 +283,7 @@
 - [Google AI:Providing Gender-Specific Translations in Google Translate](https://ai.googleblog.com/2018/12/providing-gender-specific-translations.html)
 - [Google AI: Grasp2Vec: Learning Object Representations from Self-Supervised Grasping](https://ai.googleblog.com/2018/12/grasp2vec-learning-object.html)
 - [FAIR: Facebook contributes to MLPerf, open-sources Mask R-CNN2Go](https://code.fb.com/ml-applications/mask-r-cnn2go/)
-
+- [us-intelligence-quantum-computing-artificial-intelligence-national-security-threat](https://techcrunch.com/2018/12/13/us-intelligence-quantum-computing-artificial-intelligence-national-security-threat/)
 
 --------------
 12/07
