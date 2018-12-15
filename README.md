@@ -1087,7 +1087,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  
  
- 
+ - [facebookresearch/pytext](https://github.com/facebookresearch/pytext) - A natural language modeling framework based on PyTorch https://fb.me/pytextdocs
  - [practicalAI](https://github.com/GokuMohandas/practicalAI) - A practical approach to learning machine learning.
  - [DeepCreamPy](https://github.com/deeppomf/DeepCreamPy)
  - [DeOldify](https://github.com/jantic/DeOldify)
