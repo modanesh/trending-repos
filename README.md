@@ -1386,7 +1386,7 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
 - [edex-ui ](https://github.com/GitSquared/edex-ui) - A science fiction terminal emulator designed for large touchscreens that runs on all major OSs.
 - [ncc](https://github.com/zeit/ncc) - Node.js Compiler Collection
 - [Cyanea](https://github.com/jaredrummler/Cyanea) - A theme engine for Android
-
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 -----------
 
 #### AI Residency
