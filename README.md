@@ -277,7 +277,11 @@
 ||
  
 --------------
+12/14
 
+- [OpenAI: How AI Training Scales](https://blog.openai.com/science-of-ai/)
+
+--------------
 12/07
 
 - [Deepmind: AlphaFold: Using AI for scientific discovery](https://deepmind.com/blog/alphafold/)
