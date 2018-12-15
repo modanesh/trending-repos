@@ -289,7 +289,7 @@
 - [BAIR: Scaling Multi-Agent Reinforcement Learning](https://bair.berkeley.edu/blog/2018/12/12/rllib/)
 - [The State of Natural Language Processing – Giant Prospects, Great Challenges](https://aitrends.com/natural-language/the-state-of-natural-language-processing-giant-prospects-great-challenges/)
 - [MIT: The 18 biggest computer science stories of 2018](https://www.csail.mit.edu/news/18-biggest-computer-science-stories-2018)
-- [Rise of the Data Center GPU: 5 Predictions for 2019](https://blogs.nvidia.com/blog/2018/12/13/five-data-center-gpu-predictions-2019/)
+- [NVIDIA AI: Rise of the Data Center GPU: 5 Predictions for 2019](https://blogs.nvidia.com/blog/2018/12/13/five-data-center-gpu-predictions-2019/)
 - [Intel AI: mlperf-results-validate-cpus-for-dl-training](https://ai.intel.com/mlperf-results-validate-cpus-for-dl-training/)
 - [Intel AI: deep-defense-training-dnns-with-improved-adversarial-robustness](https://ai.intel.com/deep-defense-training-dnns-with-improved-adversarial-robustness/)
 
