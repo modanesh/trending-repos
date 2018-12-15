@@ -280,6 +280,9 @@
 12/14
 
 - [OpenAI: How AI Training Scales](https://blog.openai.com/science-of-ai/)
+- [Google AI:Providing Gender-Specific Translations in Google Translate](https://ai.googleblog.com/2018/12/providing-gender-specific-translations.html)
+- [Google AI: Grasp2Vec: Learning Object Representations from Self-Supervised Grasping](https://ai.googleblog.com/2018/12/grasp2vec-learning-object.html)
+
 
 --------------
 12/07
