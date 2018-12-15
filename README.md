@@ -1085,8 +1085,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  [Back to top](#contents)
  
  
- 
- 
+ - [photomosaic](https://github.com/worldveil/photomosaic) - Creating fun photomosaics, GIFs, and murals from your family pictures using ML & similarity search (http://photofun.strikingly.com)
+ - [torchdiffeq](https://github.com/rtqichen/torchdiffeq) - Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.
  - [facebookresearch/pytext](https://github.com/facebookresearch/pytext) - A natural language modeling framework based on PyTorch https://fb.me/pytextdocs
  - [practicalAI](https://github.com/GokuMohandas/practicalAI) - A practical approach to learning machine learning.
  - [DeepCreamPy](https://github.com/deeppomf/DeepCreamPy)
@@ -1387,6 +1387,8 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
 - [ncc](https://github.com/zeit/ncc) - Node.js Compiler Collection
 - [Cyanea](https://github.com/jaredrummler/Cyanea) - A theme engine for Android
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+- [FAQGURU](https://github.com/FAQGURU/FAQGURU) - A list of interview questions. This repository is everything you need to prepare for your technical interview. 
+
 -----------
 
 #### AI Residency
