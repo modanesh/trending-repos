@@ -279,11 +279,19 @@
 --------------
 12/14
 
+- [How to Set Up an AI R&D Lab](https://hbr.org/2018/11/how-to-set-up-an-ai-rd-lab)
 - [OpenAI: How AI Training Scales](https://blog.openai.com/science-of-ai/)
 - [Google AI:Providing Gender-Specific Translations in Google Translate](https://ai.googleblog.com/2018/12/providing-gender-specific-translations.html)
 - [Google AI: Grasp2Vec: Learning Object Representations from Self-Supervised Grasping](https://ai.googleblog.com/2018/12/grasp2vec-learning-object.html)
 - [FAIR: Facebook contributes to MLPerf, open-sources Mask R-CNN2Go](https://code.fb.com/ml-applications/mask-r-cnn2go/)
 - [us-intelligence-quantum-computing-artificial-intelligence-national-security-threat](https://techcrunch.com/2018/12/13/us-intelligence-quantum-computing-artificial-intelligence-national-security-threat/)
+- [BAIR: Soft Actor Critic—Deep Reinforcement Learning with Real-World Robots](https://bair.berkeley.edu/blog/2018/12/14/sac/)
+- [BAIR: Scaling Multi-Agent Reinforcement Learning](https://bair.berkeley.edu/blog/2018/12/12/rllib/)
+- [The State of Natural Language Processing – Giant Prospects, Great Challenges](https://aitrends.com/natural-language/the-state-of-natural-language-processing-giant-prospects-great-challenges/)
+- [MIT: The 18 biggest computer science stories of 2018](https://www.csail.mit.edu/news/18-biggest-computer-science-stories-2018)
+- [Rise of the Data Center GPU: 5 Predictions for 2019](https://blogs.nvidia.com/blog/2018/12/13/five-data-center-gpu-predictions-2019/)
+- [Intel AI: mlperf-results-validate-cpus-for-dl-training](https://ai.intel.com/mlperf-results-validate-cpus-for-dl-training/)
+- [Intel AI: deep-defense-training-dnns-with-improved-adversarial-robustness](https://ai.intel.com/deep-defense-training-dnns-with-improved-adversarial-robustness/)
 
 --------------
 12/07
