@@ -292,6 +292,16 @@
 - [NVIDIA AI: Rise of the Data Center GPU: 5 Predictions for 2019](https://blogs.nvidia.com/blog/2018/12/13/five-data-center-gpu-predictions-2019/)
 - [Intel AI: mlperf-results-validate-cpus-for-dl-training](https://ai.intel.com/mlperf-results-validate-cpus-for-dl-training/)
 - [Intel AI: deep-defense-training-dnns-with-improved-adversarial-robustness](https://ai.intel.com/deep-defense-training-dnns-with-improved-adversarial-robustness/)
+- [Playment partners with Ouster to simplify LiDAR data annotations](https://blog.playment.io/playment-ouster-lidar-data-annotations/)
+- [https://www.stateoftheart.ai/](https://www.stateoftheart.ai/)
+- [AI Index 2018 Annual Report.pdf](http://cdn.aiindex.org/2018/AI%20Index%202018%20Annual%20Report.pdf?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_92)
+- [Amazon’s Homegrown Chips Threaten Silicon Valley Giant Intel](https://www.nytimes.com/2018/12/10/technology/amazon-server-chip-intel.html?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_92)
+- [The Role of Explainable Artificial Intelligence in Patent Law](http://aitechnologylaw.com/2018/12/explainable-ai-crucial-in-this-area-of-law/)
+- [Deep Hunt — Issue #63](https://deephunt.in/deep-hunt-issue-63-c18766c62bda)
+- [A Full Hardware Guide to Deep Learning](http://timdettmers.com/2018/12/16/deep-learning-hardware-guide/)
+- [Machine Learning PhD Applications — Everything You Need to Know](http://timdettmers.com/2018/11/26/phd-applications/)
+- [The Cost Of Accuracy](https://semiengineering.com/the-cost-of-accuracy/)
+- [Science in longform: Favourite feature stories in 2018](https://www.nature.com/articles/d41586-018-07748-5)
 
 --------------
 12/07
