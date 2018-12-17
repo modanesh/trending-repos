@@ -1404,6 +1404,7 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
 - [Cyanea](https://github.com/jaredrummler/Cyanea) - A theme engine for Android
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [FAQGURU](https://github.com/FAQGURU/FAQGURU) - A list of interview questions. This repository is everything you need to prepare for your technical interview. 
+- [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 
 -----------
 
