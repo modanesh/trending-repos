@@ -302,6 +302,13 @@
 - [Machine Learning PhD Applications — Everything You Need to Know](http://timdettmers.com/2018/11/26/phd-applications/)
 - [The Cost Of Accuracy](https://semiengineering.com/the-cost-of-accuracy/)
 - [Science in longform: Favourite feature stories in 2018](https://www.nature.com/articles/d41586-018-07748-5)
+- [SU Faculty Finds: What to Read In December](https://su.org/blog/su-faculty-finds-what-to-read-in-december/)
+- [Exponential Technology Trends That Will Define 2019](https://su.org/blog/exponential-technology-trends-defined-2019/)
+- [Improve your Scientific Models with Meta-Learning and Likelihood-Free Inference](https://towardsdatascience.com/improve-your-scientific-models-with-meta-learning-and-likelihood-free-inference-2f904d0bd7fa)
+- [A Peek Into Software Engineering at Mythic](https://medium.com/mythic-ai/a-peek-into-software-engineering-at-mythic-1b0ca5522868)
+- [Top 10 Algorithmia Blog Posts of 2018](https://blog.algorithmia.com/top-10-algorithmia-blog-posts-of-2018/)
+- [120 AI Predictions For 2019](https://www.forbes.com/sites/gilpress/2018/12/09/120-ai-predictions-for-2019/#bac33d688cd4)
+
 
 --------------
 12/07
