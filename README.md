@@ -1100,7 +1100,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
- 
+ - [Deep-Neural-Networks-HealthCare](https://github.com/TarrySingh/Deep-Neural-Networks-HealthCare) - Tangible and Practical Deep Learning Projects Repository for Healthcare such as Cancer, Drug Discovery, Genomic and More
  - [photomosaic](https://github.com/worldveil/photomosaic) - Creating fun photomosaics, GIFs, and murals from your family pictures using ML & similarity search (http://photofun.strikingly.com)
  - [torchdiffeq](https://github.com/rtqichen/torchdiffeq) - Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.
  - [facebookresearch/pytext](https://github.com/facebookresearch/pytext) - A natural language modeling framework based on PyTorch https://fb.me/pytextdocs
