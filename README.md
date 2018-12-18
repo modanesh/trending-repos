@@ -1120,6 +1120,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [confluo](https://github.com/ucbrise/confluo) - Real-time Monitoring and Analysis of Data Streams https://ucbrise.github.io/confluo/
  - [Deep-Neural-Networks-HealthCare](https://github.com/TarrySingh/Deep-Neural-Networks-HealthCare) - Tangible and Practical Deep Learning Projects Repository for Healthcare such as Cancer, Drug Discovery, Genomic and More
  - [photomosaic](https://github.com/worldveil/photomosaic) - Creating fun photomosaics, GIFs, and murals from your family pictures using ML & similarity search (http://photofun.strikingly.com)
  - [torchdiffeq](https://github.com/rtqichen/torchdiffeq) - Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.
@@ -1425,6 +1426,7 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [FAQGURU](https://github.com/FAQGURU/FAQGURU) - A list of interview questions. This repository is everything you need to prepare for your technical interview. 
 - [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
+- [jupytext](https://github.com/mwouts/jupytext) - Jupyter notebooks as Markdown documents, Julia, Python or R scripts
 
 -----------
 
