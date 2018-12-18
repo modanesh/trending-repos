@@ -308,6 +308,8 @@
 - [A Peek Into Software Engineering at Mythic](https://medium.com/mythic-ai/a-peek-into-software-engineering-at-mythic-1b0ca5522868)
 - [Top 10 Algorithmia Blog Posts of 2018](https://blog.algorithmia.com/top-10-algorithmia-blog-posts-of-2018/)
 - [120 AI Predictions For 2019](https://www.forbes.com/sites/gilpress/2018/12/09/120-ai-predictions-for-2019/#bac33d688cd4)
+- [China’s $856 Billion Startup Juggernaut Is Getting Stuck](https://www.bloomberg.com/opinion/articles/2018-12-16/china-s-856-billion-startup-juggernaut-is-getting-stuck)
+- [toranto: The What’s Next Intermittent Computing Architecture](http://www.eecg.toronto.edu/~ganesa10/assets/pdfs/whatsnext-hpca2019.pdf)
 
 
 --------------
