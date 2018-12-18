@@ -310,6 +310,7 @@
 - [120 AI Predictions For 2019](https://www.forbes.com/sites/gilpress/2018/12/09/120-ai-predictions-for-2019/#bac33d688cd4)
 - [China’s $856 Billion Startup Juggernaut Is Getting Stuck](https://www.bloomberg.com/opinion/articles/2018-12-16/china-s-856-billion-startup-juggernaut-is-getting-stuck)
 - [toranto: The What’s Next Intermittent Computing Architecture](http://www.eecg.toronto.edu/~ganesa10/assets/pdfs/whatsnext-hpca2019.pdf)
+- [Your guide to AI, Holiday Season Special, by nathan.ai](https://www.getrevue.co/profile/nathanbenaich/issues/your-guide-to-ai-holiday-season-special-by-nathan-ai-136260)
 
 
 --------------
