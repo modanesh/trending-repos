@@ -1127,6 +1127,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [FavoritePapers](https://github.com/SeitaroShinagawa/FavoritePapers) - 
+ - [openai/coinrun](https://github.com/openai/coinrun) - Code for the paper "Quantifying Transfer in Reinforcement Learning" https://blog.openai.com
  - [CollaborativeMemoryNetwork](https://github.com/tebesu/CollaborativeMemoryNetwork) - Collaborative Memory Network for Recommendation Systems, SIGIR 2018
  - [feudal-montezuma](https://github.com/dnddnjs/feudal-montezuma) - Pytorch implementation of "FeUdal Networks for Hierarchical Reinforcement Learning" for Montezuma's Revenge
  - [neural-collage](https://github.com/quolc/neural-collage) - Collaging on Internal Representations: An Intuitive Approach for Semantic Transfiguration
