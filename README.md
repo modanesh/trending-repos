@@ -1127,6 +1127,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [neural-collage](https://github.com/quolc/neural-collage) - Collaging on Internal Representations: An Intuitive Approach for Semantic Transfiguration
  - [capsule-networks](https://github.com/gram-ai/capsule-networks) - A PyTorch implementation of the NIPS 2017 paper "Dynamic Routing Between Capsules". https://arxiv.org/abs/1710.09829
  - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
  - [Neural-Ordinary-Differential-Equations](https://github.com/JSeam2/Neural-Ordinary-Differential-Equations) - Sample implementation of Neural Ordinary Differential Equations
