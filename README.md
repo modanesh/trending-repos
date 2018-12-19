@@ -1127,6 +1127,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
  - [Neural-Ordinary-Differential-Equations](https://github.com/JSeam2/Neural-Ordinary-Differential-Equations) - Sample implementation of Neural Ordinary Differential Equations
  - [confluo](https://github.com/ucbrise/confluo) - Real-time Monitoring and Analysis of Data Streams https://ucbrise.github.io/confluo/
  - [Deep-Neural-Networks-HealthCare](https://github.com/TarrySingh/Deep-Neural-Networks-HealthCare) - Tangible and Practical Deep Learning Projects Repository for Healthcare such as Cancer, Drug Discovery, Genomic and More
