@@ -1109,6 +1109,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
 - [An end to end implementation of a Machine Learning pipeline](https://spandan-madan.github.io/DeepLearningProject/)
 - [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
 - [Train Your Machine Learning Models on Google’s GPUs for Free — Forever](https://hackernoon.com/train-your-machine-learning-models-on-googles-gpus-for-free-forever-a41bd309d6ad)
+- [Google’s AutoML will change how businesses use Machine Learning](https://towardsdatascience.com/googles-automl-will-change-how-businesses-use-machine-learning-c7d72257aba9)
 
 -------------
 -------------
