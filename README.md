@@ -280,6 +280,10 @@
 12/14
 
 - [How to Set Up an AI R&D Lab](https://hbr.org/2018/11/how-to-set-up-an-ai-rd-lab)
+- [IBM: The 
+new 
+frontiers
+of AI](https://www.research.ibm.com/artificial-intelligence/publications/2018/?fbclid=IwAR3s-A9DiyKEEIIMDR33J39cfjAEw4ly4XW5InfuAaW2pDD5DCD4UYx_nHQ)
 - [OpenAI: How AI Training Scales](https://blog.openai.com/science-of-ai/)
 - [Google AI:Providing Gender-Specific Translations in Google Translate](https://ai.googleblog.com/2018/12/providing-gender-specific-translations.html)
 - [Google AI: Grasp2Vec: Learning Object Representations from Self-Supervised Grasping](https://ai.googleblog.com/2018/12/grasp2vec-learning-object.html)
