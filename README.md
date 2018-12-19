@@ -1107,6 +1107,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
 - [ml-cheatsheet](https://github.com/bfortuner/ml-cheatsheet)
 - [int8](https://int8.io/)
 - [An end to end implementation of a Machine Learning pipeline](https://spandan-madan.github.io/DeepLearningProject/)
+- [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
 
 -------------
 -------------
