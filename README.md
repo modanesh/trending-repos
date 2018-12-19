@@ -1127,6 +1127,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [demo2program](https://github.com/shaohua0116/demo2program) - An official TensorFlow implementation of "Neural Program Synthesis from Diverse Demonstration Videos" (ICML 2018) by Shao-Hua Sun, Hyeonwoo Noh, Sriram Somasundaram, and Joseph J. Lim
  - [uber-research/atari-model-zoo](https://github.com/uber-research/atari-model-zoo) - A binary release of trained deep reinforcement learning models trained in the Atari machine learning benchmark, and a software release that enables easy visualization and analysis of models, and comparison across training algorithms.
  - [fast-artistic-videos](https://github.com/manuelruder/fast-artistic-videos) - Video style transfer using feed-forward networks.
  - [torchdiffeq](https://github.com/rtqichen/torchdiffeq) - Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.
