@@ -1127,6 +1127,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [torchdiffeq](https://github.com/rtqichen/torchdiffeq) - Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.
  - [FavoritePapers](https://github.com/SeitaroShinagawa/FavoritePapers) - 
  - [openai/coinrun](https://github.com/openai/coinrun) - Code for the paper "Quantifying Transfer in Reinforcement Learning" https://blog.openai.com
  - [CollaborativeMemoryNetwork](https://github.com/tebesu/CollaborativeMemoryNetwork) - Collaborative Memory Network for Recommendation Systems, SIGIR 2018
