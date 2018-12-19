@@ -1127,6 +1127,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [CollaborativeMemoryNetwork](https://github.com/tebesu/CollaborativeMemoryNetwork) - Collaborative Memory Network for Recommendation Systems, SIGIR 2018
  - [feudal-montezuma](https://github.com/dnddnjs/feudal-montezuma) - Pytorch implementation of "FeUdal Networks for Hierarchical Reinforcement Learning" for Montezuma's Revenge
  - [neural-collage](https://github.com/quolc/neural-collage) - Collaging on Internal Representations: An Intuitive Approach for Semantic Transfiguration
  - [capsule-networks](https://github.com/gram-ai/capsule-networks) - A PyTorch implementation of the NIPS 2017 paper "Dynamic Routing Between Capsules". https://arxiv.org/abs/1710.09829
