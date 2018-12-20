@@ -291,6 +291,7 @@
 | [Data & Society](https://datasociety.net/about/)
 | [PERVADE: Pervasive Data Ethics](https://pervade.umd.edu/)
 | [DataEthics](https://dataethics.eu/en/)
+| [The Royal Society](https://www.youtube.com/channel/UC5MOW8BO3dH38Fo3Rau17KQ)
 ||
 
 --------------
