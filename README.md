@@ -275,7 +275,24 @@
 | [venturescanner](https://medium.com/@venturescanner)
 | [venturedeal](http://www.venturedeal.com/Reports/Default.aspx)
 ||
- 
+
+|| [Kate Crawford](http://www.katecrawford.net/)
+| [Meredith Whittaker](https://twitter.com/mer__edith)
+| [Kate Darling](https://twitter.com/grok_)
+| [Cathy O'Neil](https://mathbabe.org/)
+| [Alan Winfield](https://alanwinfield.blogspot.com/)
+| [AI Now](https://artificialintelligencenow.com/)
+| [Algorithm Watch](https://algorithmwatch.org)
+| [Moritz Hardt](http://moritzhardt.com/)
+| [Solon Barocas](http://solon.barocas.org/)
+| [Institute for Ethics and Emerging Technologies](https://ieet.org/)
+| [The Center for Technology, Society & Policy Berkley](https://twitter.com/CTSPBerkeley)
+| [Zeynep Tufekci](https://twitter.com/zeynep)
+| [Data & Society](https://datasociety.net/about/)
+| [PERVADE: Pervasive Data Ethics](https://pervade.umd.edu/)
+| [DataEthics](https://dataethics.eu/en/)
+||
+
 --------------
 12/14
 
