@@ -297,10 +297,6 @@
 
 --------------
 
-- [2018 in science](https://en.wikipedia.org/wiki/2018_in_science)
-
-----------
-
 12/14
 
 - [How to Set Up an AI R&D Lab](https://hbr.org/2018/11/how-to-set-up-an-ai-rd-lab)
@@ -339,7 +335,7 @@ of AI](https://www.research.ibm.com/artificial-intelligence/publications/2018/?f
 - [China’s $856 Billion Startup Juggernaut Is Getting Stuck](https://www.bloomberg.com/opinion/articles/2018-12-16/china-s-856-billion-startup-juggernaut-is-getting-stuck)
 - [toranto: The What’s Next Intermittent Computing Architecture](http://www.eecg.toronto.edu/~ganesa10/assets/pdfs/whatsnext-hpca2019.pdf)
 - [Your guide to AI, Holiday Season Special, by nathan.ai](https://www.getrevue.co/profile/nathanbenaich/issues/your-guide-to-ai-holiday-season-special-by-nathan-ai-136260)
-
+- [2018 in science](https://en.wikipedia.org/wiki/2018_in_science)
 
 --------------
 12/07
