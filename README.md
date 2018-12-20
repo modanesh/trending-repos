@@ -296,6 +296,11 @@
 ||
 
 --------------
+
+- [2018 in science](https://en.wikipedia.org/wiki/2018_in_science)
+
+----------
+
 12/14
 
 - [How to Set Up an AI R&D Lab](https://hbr.org/2018/11/how-to-set-up-an-ai-rd-lab)
