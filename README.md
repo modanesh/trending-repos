@@ -301,6 +301,7 @@
 
 - [Google AI: Google AI Princeton: Current and Future Research](https://ai.googleblog.com/2018/12/google-ai-princeton-current-and-future.html)
 - [Google AI: Exploring Quantum Neural Networks](https://ai.googleblog.com/2018/12/exploring-quantum-neural-networks.html)
+- [FAIR: Open-sourcing DeepFocus, an AI-powered system for more realistic VR images](https://code.fb.com/virtual-reality/deepfocus/)
 
 --------------
 
