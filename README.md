@@ -302,6 +302,9 @@
 - [Google AI: Google AI Princeton: Current and Future Research](https://ai.googleblog.com/2018/12/google-ai-princeton-current-and-future.html)
 - [Google AI: Exploring Quantum Neural Networks](https://ai.googleblog.com/2018/12/exploring-quantum-neural-networks.html)
 - [FAIR: Open-sourcing DeepFocus, an AI-powered system for more realistic VR images](https://code.fb.com/virtual-reality/deepfocus/)
+- [Intel AI; ai-for-social-good-at-neurips](https://ai.intel.com/ai-for-social-good-at-neurips/)
+- [Intel AI; iiit-hyderabad-and-intel-release-worlds-first-dataset-for-driving-in-india](https://ai.intel.com/iiit-hyderabad-and-intel-release-worlds-first-dataset-for-driving-in-india/)
+- [Intel AI; ai-for-radiology-shines-at-rsna-2018](https://ai.intel.com/ai-for-radiology-shines-at-rsna-2018/)
 
 --------------
 
