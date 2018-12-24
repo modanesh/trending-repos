@@ -305,6 +305,24 @@
 - [Intel AI; ai-for-social-good-at-neurips](https://ai.intel.com/ai-for-social-good-at-neurips/)
 - [Intel AI; iiit-hyderabad-and-intel-release-worlds-first-dataset-for-driving-in-india](https://ai.intel.com/iiit-hyderabad-and-intel-release-worlds-first-dataset-for-driving-in-india/)
 - [Intel AI; ai-for-radiology-shines-at-rsna-2018](https://ai.intel.com/ai-for-radiology-shines-at-rsna-2018/)
+- [3Q: Aleksander Madry on building trustworthy artificial intelligence](http://news.mit.edu/2018/mit-3q-aleksander-madry-building-trustworthy-ai-1214)
+- [Deep-learning technique reveals “invisible” objects in the dark](http://news.mit.edu/2018/deep-learning-dark-objects-1212)
+- [Artificial Life that learns Foraging Behavior using Neuroevolution](https://www.reddit.com/r/artificial/comments/a8w7gl/artificial_life_that_learns_foraging_behavior/)
+- [HBR: The Competitive Landscape of AI Startups](https://hbr.org/2018/12/the-competitive-landscape-of-ai-startups)
+- [A Year of AI Transformation](https://www.hpcwire.com/solution_content/ibm/cross-industry/a-year-of-ai-transformation/)
+- [AI Market Ramps Everywhere](https://semiengineering.com/what-is-artificial-intelligence/)
+- [Microsoft 'Intelligent Cloud Hub' to build AI-ready workforce in India](https://economictimes.indiatimes.com/tech/software/microsoft-intelligent-cloud-hub-to-build-ai-ready-workforce-in-india/articleshow/67177951.cms)
+- [DeepSolar: A Machine Learning Framework to
+Efficiently Construct Solar Deployment Database in
+the United States
+](https://aiforsocialgood.github.io/2018/pdfs/track1/78-78-deepsolar.pdf)
+- [Geoffrey Hinton and Demis Hassabis: AGI is nowhere close to being a reality](https://venturebeat.com/2018/12/17/geoffrey-hinton-and-demis-hassabis-agi-is-nowhere-close-to-being-a-reality/)
+- [Living with machines: A five-year research project that will take a fresh look at the well-known history of the Industrial Revolution using data-driven approaches](https://www.turing.ac.uk/research/research-projects/living-machines)
+- [Tech giants focus AI on healthcare as India joins the bandwagon]()
+- [Google and Princeton University are opening an AI lab](https://edscoop.com/google-and-princeton-university-are-opening-an-ai-lab/)
+- [AMD partners Singapore university to launch AI lab](https://www.zdnet.com/article/amd-partners-singapore-university-to-launch-ai-lab/)
+- [European AI ethics guidelines opened to consultation](https://www.out-law.com/en/articles/2018/december/european-ai-ethics-guidelines-opened-to-consultation/)
+
 
 --------------
 
