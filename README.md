@@ -1176,6 +1176,12 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ 
+ - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python. ftp://you:relookin@it.example.com#readme
+ - [ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
+ - [netcap](https://github.com/dreadl0ck/netcap) - A framework for secure and scalable network traffic analysis
+ - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
+ - [alibaba/x-deeplearning](https://github.com/alibaba/x-deeplearning) - An industrial deep learning framework for high-dimension sparse data
  - [trellisnet](https://github.com/locuslab/trellisnet) - Trellis Networks for Sequence Modeling
  - [demo2program](https://github.com/shaohua0116/demo2program) - An official TensorFlow implementation of "Neural Program Synthesis from Diverse Demonstration Videos" (ICML 2018) by Shao-Hua Sun, Hyeonwoo Noh, Sriram Somasundaram, and Joseph J. Lim
  - [uber-research/atari-model-zoo](https://github.com/uber-research/atari-model-zoo) - A binary release of trained deep reinforcement learning models trained in the Atari machine learning benchmark, and a software release that enables easy visualization and analysis of models, and comparison across training algorithms.
@@ -1497,6 +1503,7 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
 - [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [jupytext](https://github.com/mwouts/jupytext) - Jupyter notebooks as Markdown documents, Julia, Python or R scripts
 - [goldpinger](https://github.com/bloomberg/goldpinger) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
+ - [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list (November 2018) https://twitter.com/nodepractices/
 -----------
 
 #### AI Residency
