@@ -1177,7 +1177,6 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  [Back to top](#contents)
  
  - [mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation. 
- - [awesome-golang-security](https://github.com/guardrailsio/awesome-golang-security) - Awesome golang Security resources
  - [torchgan](https://github.com/torchgan/torchgan) - Research Framework for easy and efficient training of GANs based on Pytorch
  - [GNNPapers](https://github.com/thunlp/GNNPapers) - Must-read papers on graph neural network (GNN)
  - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python. ftp://you:relookin@it.example.com#readme
@@ -1507,6 +1506,7 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
 - [jupytext](https://github.com/mwouts/jupytext) - Jupyter notebooks as Markdown documents, Julia, Python or R scripts
 - [goldpinger](https://github.com/bloomberg/goldpinger) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
  - [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list (November 2018) https://twitter.com/nodepractices/
+ - [awesome-golang-security](https://github.com/guardrailsio/awesome-golang-security) - Awesome golang Security resources
 -----------
 
 #### AI Residency
