@@ -1176,7 +1176,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
- 
+ - [GNNPapers](https://github.com/thunlp/GNNPapers) - Must-read papers on graph neural network (GNN)
  - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python. ftp://you:relookin@it.example.com#readme
  - [ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
  - [netcap](https://github.com/dreadl0ck/netcap) - A framework for secure and scalable network traffic analysis
