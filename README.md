@@ -1176,6 +1176,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [cocoapi](https://github.com/cocodataset/cocoapi) - COCO API - Dataset @ http://cocodataset.org/
  - [adanet](https://github.com/tensorflow/adanet) - Fast and flexible AutoML with learning guarantees. 
  - [StaticGIFGen](https://github.com/christophershultz/StaticGIFGen)
  - [mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation. 
