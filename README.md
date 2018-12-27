@@ -1176,6 +1176,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [adanet](https://github.com/tensorflow/adanet) - Fast and flexible AutoML with learning guarantees. 
  - [StaticGIFGen](https://github.com/christophershultz/StaticGIFGen)
  - [mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation. 
  - [torchgan](https://github.com/torchgan/torchgan) - Research Framework for easy and efficient training of GANs based on Pytorch
