@@ -1176,6 +1176,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+
  - [mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation. 
  - [torchgan](https://github.com/torchgan/torchgan) - Research Framework for easy and efficient training of GANs based on Pytorch
  - [GNNPapers](https://github.com/thunlp/GNNPapers) - Must-read papers on graph neural network (GNN)
@@ -1507,6 +1508,7 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
 - [goldpinger](https://github.com/bloomberg/goldpinger) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
  - [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list (November 2018) https://twitter.com/nodepractices/
  - [awesome-golang-security](https://github.com/guardrailsio/awesome-golang-security) - Awesome golang Security resources
+ - [sherlock](https://github.com/sdushantha/sherlock) -  Find usernames across over 75 social networks
 -----------
 
 #### AI Residency
