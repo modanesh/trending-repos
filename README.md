@@ -1176,7 +1176,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
-
+ - [StaticGIFGen](https://github.com/christophershultz/StaticGIFGen)
  - [mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation. 
  - [torchgan](https://github.com/torchgan/torchgan) - Research Framework for easy and efficient training of GANs based on Pytorch
  - [GNNPapers](https://github.com/thunlp/GNNPapers) - Must-read papers on graph neural network (GNN)
