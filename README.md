@@ -307,6 +307,11 @@
 - [Big Changes For Mainstream Chip Architectures](https://semiengineering.com/big-changes-for-mainstream-chip-architectures/)
 - [Highlights of 2018](https://blog.fastforwardlabs.com/2018/12/18/highlights-2018.html)
 - [MobileNetV2 + SSDLite with Core ML](http://machinethink.net/blog/mobilenet-ssdlite-coreml/)
+- [What to expect in 2019: science in the new year](https://www.nature.com/articles/d41586-018-07847-3)
+- [Pakistan and Egypt had highest rises in research output in 2018](https://www.nature.com/articles/d41586-018-07841-9)
+- [How a major AI conference is attempting to tackle its culture problem](https://www.nature.com/articles/d41586-018-07839-3)
+- [Nature’s 10 Ten people who mattered this year.](https://www.nature.com/immersive/d41586-018-07683-5/index.html)
+- [2018 in news: The science events that shaped the year](https://www.nature.com/articles/d41586-018-07685-3)
 
 --------------
 12/21
