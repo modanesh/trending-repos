@@ -301,6 +301,8 @@
 
 - [Asia’s AI agenda: The ecosystem](https://www.technologyreview.com/s/612654/asias-ai-agenda-the-ecosystem/)
 - [10 Exciting Ideas of 2018 in NLP](http://ruder.io/10-exciting-ideas-of-2018-in-nlp/)
+- [People Vs. Self-Driving Cars](https://semiengineering.com/people-vs-self-driving-cars/)
+- [Carmakers To Chipmakers: Where’s The Data?](https://semiengineering.com/carmakers-to-chip-industry-wheres-the-data/)
 
 --------------
 12/21
