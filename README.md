@@ -300,6 +300,7 @@
 12/28
 
 - [Asia’s AI agenda: The ecosystem](https://www.technologyreview.com/s/612654/asias-ai-agenda-the-ecosystem/)
+- [10 Exciting Ideas of 2018 in NLP](http://ruder.io/10-exciting-ideas-of-2018-in-nlp/)
 
 --------------
 12/21
