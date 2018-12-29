@@ -303,6 +303,10 @@
 - [10 Exciting Ideas of 2018 in NLP](http://ruder.io/10-exciting-ideas-of-2018-in-nlp/)
 - [People Vs. Self-Driving Cars](https://semiengineering.com/people-vs-self-driving-cars/)
 - [Carmakers To Chipmakers: Where’s The Data?](https://semiengineering.com/carmakers-to-chip-industry-wheres-the-data/)
+- [Anatomy Of An Autonomous Vehicle Crash](https://semiengineering.com/anatomy-of-an-autonomous-vehicle-crash/)
+- [Big Changes For Mainstream Chip Architectures](https://semiengineering.com/big-changes-for-mainstream-chip-architectures/)
+- [Highlights of 2018](https://blog.fastforwardlabs.com/2018/12/18/highlights-2018.html)
+- [MobileNetV2 + SSDLite with Core ML](http://machinethink.net/blog/mobilenet-ssdlite-coreml/)
 
 --------------
 12/21
