@@ -1193,6 +1193,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List) - A machine translation reading list maintained by Tsinghua Natural Language Processing Group
  - [Super-SloMo](https://github.com/avinashpaliwal/Super-SloMo)
  - [cocoapi](https://github.com/cocodataset/cocoapi) - COCO API - Dataset @ http://cocodataset.org/
  - [adanet](https://github.com/tensorflow/adanet) - Fast and flexible AutoML with learning guarantees. 
