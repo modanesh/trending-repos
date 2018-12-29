@@ -297,6 +297,11 @@
 ||
 
 --------------
+12/28
+
+- [Asia’s AI agenda: The ecosystem](https://www.technologyreview.com/s/612654/asias-ai-agenda-the-ecosystem/)
+
+--------------
 12/21
 
 - [Google AI: Google AI Princeton: Current and Future Research](https://ai.googleblog.com/2018/12/google-ai-princeton-current-and-future.html)
