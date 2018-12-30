@@ -1193,6 +1193,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [t81_558_deep_learning](https://github.com/jeffheaton/t81_558_deep_learning) - Washington University (in St. Louis) Course T81-558: Applications of Deep Neural Networks 
  - [IBM/coursera](https://github.com/IBM/coursera) 
  - [libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
  - [MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List) - A machine translation reading list maintained by Tsinghua Natural Language Processing Group
