@@ -1193,6 +1193,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
  - [MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List) - A machine translation reading list maintained by Tsinghua Natural Language Processing Group
  - [Super-SloMo](https://github.com/avinashpaliwal/Super-SloMo)
  - [cocoapi](https://github.com/cocodataset/cocoapi) - COCO API - Dataset @ http://cocodataset.org/
