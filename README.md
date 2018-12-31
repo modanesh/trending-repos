@@ -1193,6 +1193,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [lihang-code](https://github.com/fengdu78/lihang-code) - 
  - [Neural-Network-from-scratch](https://github.com/ahmedbesbes/Neural-Network-from-scratch) - Ever wondered how to code your Neural Network using NumPy, with no frameworks involved?
  - [Reinforcement-Learning-Notebooks](https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks) - A collection of Reinforcement Learning algorithms from Sutton and Barto's book and other research papers implemented in Python.
  - [artificial-intelligence-for-trading](https://github.com/udacity/artificial-intelligence-for-trading) - Content for Udacity's AI in Trading NanoDegree. https://www.udacity.com/course/nd880
