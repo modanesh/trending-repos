@@ -1535,6 +1535,7 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
  - [nodebestpractices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list (November 2018) https://twitter.com/nodepractices/
  - [awesome-golang-security](https://github.com/guardrailsio/awesome-golang-security) - Awesome golang Security resources
  - [sherlock](https://github.com/sdushantha/sherlock) -  Find usernames across over 75 social networks
+ - [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions. Feel free to contribute!
 -----------
 
 #### AI Residency
