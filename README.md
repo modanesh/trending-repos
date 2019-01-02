@@ -1193,6 +1193,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [Microsoft/Recommenders](https://github.com/Microsoft/Recommenders) - 
+Recommender Systems
  - [DL-workshop-series](https://github.com/Machine-Learning-Tokyo/DL-workshop-series) - Material used for Deep Learning related workshops for Machine Learning Tokyo (MLT)
  - [flair](https://github.com/zalandoresearch/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
  - [intel-analytics/analytics-zoo](https://github.com/intel-analytics/analytics-zoo) - Distributed Tensorflow, Keras and BigDL on Apache Spark https://analytics-zoo.github.io
