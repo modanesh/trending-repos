@@ -1193,6 +1193,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [pose_estimation_CVPR_ECCV_2018](https://github.com/wjbKimberly/pose_estimation_CVPR_ECCV_2018)
  - [Microsoft/Recommenders](https://github.com/Microsoft/Recommenders) - 
 Recommender Systems
  - [DL-workshop-series](https://github.com/Machine-Learning-Tokyo/DL-workshop-series) - Material used for Deep Learning related workshops for Machine Learning Tokyo (MLT)
