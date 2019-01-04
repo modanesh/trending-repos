@@ -312,6 +312,9 @@
 - [How a major AI conference is attempting to tackle its culture problem](https://www.nature.com/articles/d41586-018-07839-3)
 - [Nature’s 10 Ten people who mattered this year.](https://www.nature.com/immersive/d41586-018-07683-5/index.html)
 - [2018 in news: The science events that shaped the year](https://www.nature.com/articles/d41586-018-07685-3)
+- [One year of deep learning](https://www.fast.ai/2019/01/02/one-year-of-deep-learning/)
+- [Data Science vs Engineering: Tension Points](https://blog.dominodatalab.com/data-science-vs-engineering-tension-points/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_93)
+- [What’s The Right Path For Scaling?](https://semiengineering.com/whats-the-right-path-for-scaling/)
 
 --------------
 12/21
