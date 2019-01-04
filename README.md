@@ -315,6 +315,16 @@
 - [One year of deep learning](https://www.fast.ai/2019/01/02/one-year-of-deep-learning/)
 - [Data Science vs Engineering: Tension Points](https://blog.dominodatalab.com/data-science-vs-engineering-tension-points/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_93)
 - [What’s The Right Path For Scaling?](https://semiengineering.com/whats-the-right-path-for-scaling/)
+- [Nvidia’s Fake Faces Are a Masterpiece—But Have Deeper Implications](https://singularityhub.com/2018/12/24/nvidias-fake-faces-are-a-masterpiece-but-have-deeper-implications/#sm.0001aunh4f6r1d4uqjz24tc9h6xoq)
+- [Life-or-Death Algorithms: Avoiding the Black Box of AI in Medicine](https://singularityhub.com/2018/12/18/life-or-death-algorithms-the-black-box-of-ai-in-medicine-and-how-to-avoid-it/#sm.0001aunh4f6r1d4uqjz24tc9h6xoq)
+- [AI Will Create Millions More Jobs Than It Will Destroy. Here’s How](https://singularityhub.com/2019/01/01/ai-will-create-millions-more-jobs-than-it-will-destroy-heres-how/#sm.0001aunh4f6r1d4uqjz24tc9h6xoq)
+- [Are We Made of Memories? A Researcher’s Quest to Record His Life](https://singularityhub.com/2018/12/09/are-we-made-of-memories-a-researchers-quest-to-record-his-life/#sm.0001aunh4f6r1d4uqjz24tc9h6xoq)
+- [Quantum Communication Just Took a Great Leap Forward](https://singularityhub.com/2018/12/26/quantum-communication-just-took-a-great-leap-forward/#sm.0001aunh4f6r1d4uqjz24tc9h6xoq)
+- [NEAT: An Awesome Approach to NeuroEvolution](https://towardsdatascience.com/neat-an-awesome-approach-to-neuroevolution-3eca5cc7930f)
+- [December Edition](https://towardsdatascience.com/december-edition-80d8992a0fc)
+- [Industry Predictions](https://www.kdnuggets.com/2018/12/predictions-industry-2019.html)
+- [Data Science Project Flow for Startups](https://towardsdatascience.com/data-science-project-flow-for-startups-282a93d4508d)
+
 
 --------------
 12/21
