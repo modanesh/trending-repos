@@ -1207,6 +1207,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [deeptraffic](https://github.com/lexfridman/deeptraffic) - DeepTraffic is a deep reinforcement learning competition, part of the MIT Deep Learning series. 
  - [edge-connect](https://github.com/knazeri/edge-connect) - EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning. https://arxiv.org/abs/1901.00212
  - [uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy http://uncaptcha.cs.umd.edu/
  - [pose_estimation_CVPR_ECCV_2018](https://github.com/wjbKimberly/pose_estimation_CVPR_ECCV_2018)
