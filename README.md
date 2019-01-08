@@ -1207,6 +1207,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [nefarious-linkedin](https://github.com/dandrews/nefarious-linkedin) - A look at how LinkedIn spies on its users.
  - [harvardnlp/namedtensor](https://github.com/harvardnlp/namedtensor) - Proof of concept for a dynamic named tensor for pytorch http://nlp.seas.harvard.edu/NamedTensor
  - [deeptraffic](https://github.com/lexfridman/deeptraffic) - DeepTraffic is a deep reinforcement learning competition, part of the MIT Deep Learning series. 
  - [edge-connect](https://github.com/knazeri/edge-connect) - EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning. https://arxiv.org/abs/1901.00212
