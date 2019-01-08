@@ -1207,6 +1207,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [sketch_rnn_keras](https://github.com/eyalzk/sketch_rnn_keras) - Keras implementation of Sketch RNN
  - [nefarious-linkedin](https://github.com/dandrews/nefarious-linkedin) - A look at how LinkedIn spies on its users.
  - [harvardnlp/namedtensor](https://github.com/harvardnlp/namedtensor) - Proof of concept for a dynamic named tensor for pytorch http://nlp.seas.harvard.edu/NamedTensor
  - [deeptraffic](https://github.com/lexfridman/deeptraffic) - DeepTraffic is a deep reinforcement learning competition, part of the MIT Deep Learning series. 
