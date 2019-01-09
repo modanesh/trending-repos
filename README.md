@@ -1207,6 +1207,12 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [NeuralDater](https://github.com/malllabiisc/NeuralDater) - ACL 2018: Dating Documents using Graph Convolution Networks
+ - [NeurIPS-2018-papers](https://github.com/contentinnovation/NeurIPS-2018-papers) - Machine-generated summaries and highlights of the every accepted paper at Thirty-second Conference on Neural Information Processing Systems 2018. Generated with the Scholarcy Highlights API
+ - [KDD2018_MPCN](https://github.com/vanzytay/KDD2018_MPCN) - Code for our KDD 2018 Paper "Multi-Pointer Co-Attention Networks for Recommendation"
+ - [capsule-net-pytorch](https://github.com/cedrickchee/capsule-net-pytorch) - A PyTorch implementation of CapsNet architecture in the NIPS 2017 paper "Dynamic Routing Between Capsules".
+ - [mister_ed](https://github.com/revbucket/mister_ed) - Pytorch Adversarial Attack Framework
+ - [nevergrad](https://github.com/facebookresearch/nevergrad) - A Python toolbox for performing gradient-free optimization
  - [sketch_rnn_keras](https://github.com/eyalzk/sketch_rnn_keras) - Keras implementation of Sketch RNN
  - [nefarious-linkedin](https://github.com/dandrews/nefarious-linkedin) - A look at how LinkedIn spies on its users.
  - [harvardnlp/namedtensor](https://github.com/harvardnlp/namedtensor) - Proof of concept for a dynamic named tensor for pytorch http://nlp.seas.harvard.edu/NamedTensor
