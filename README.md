@@ -298,6 +298,7 @@
 ||
 
 --------------
+
 12/28
 
 - [Asia’s AI agenda: The ecosystem](https://www.technologyreview.com/s/612654/asias-ai-agenda-the-ecosystem/)
@@ -325,7 +326,7 @@
 - [December Edition](https://towardsdatascience.com/december-edition-80d8992a0fc)
 - [Industry Predictions](https://www.kdnuggets.com/2018/12/predictions-industry-2019.html)
 - [Data Science Project Flow for Startups](https://towardsdatascience.com/data-science-project-flow-for-startups-282a93d4508d)
-
+- [The state of artificial intelligence](https://www.technologyreview.com/s/612663/the-state-of-artificial-intelligence/)
 
 --------------
 12/21
