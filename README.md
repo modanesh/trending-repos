@@ -1208,6 +1208,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [uber-research/atari-model-zoo](https://github.com/uber-research/atari-model-zoo)
  - [NeuralDater](https://github.com/malllabiisc/NeuralDater) - ACL 2018: Dating Documents using Graph Convolution Networks
  - [NeurIPS-2018-papers](https://github.com/contentinnovation/NeurIPS-2018-papers) - Machine-generated summaries and highlights of the every accepted paper at Thirty-second Conference on Neural Information Processing Systems 2018. Generated with the Scholarcy Highlights API
  - [KDD2018_MPCN](https://github.com/vanzytay/KDD2018_MPCN) - Code for our KDD 2018 Paper "Multi-Pointer Co-Attention Networks for Recommendation"
