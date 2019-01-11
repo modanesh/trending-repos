@@ -327,6 +327,10 @@
 - [Industry Predictions](https://www.kdnuggets.com/2018/12/predictions-industry-2019.html)
 - [Data Science Project Flow for Startups](https://towardsdatascience.com/data-science-project-flow-for-startups-282a93d4508d)
 - [The state of artificial intelligence](https://www.technologyreview.com/s/612663/the-state-of-artificial-intelligence/)
+- [DARPA wants to build an AI to find the patterns hidden in global chaos](https://techcrunch.com/2019/01/07/darpa-wants-to-build-an-ai-to-find-the-patterns-hidden-in-global-chaos/)
+- [The Turing Institute joins forces with Japan to bolster AI research](https://tech.newstatesman.com/policy/turing-institute-japan)
+- [IBM’s Project Debater AI helps humans process complex arguments](https://venturebeat.com/2019/01/07/ibms-project-debater-ai-helps-humans-process-complex-arguments/)
+- [Pentagon Seeks a List of Ethical Principles for Using AI in War](https://www.defenseone.com/technology/2019/01/pentagon-seeks-list-ethical-principles-using-ai-war/153940/)
 
 --------------
 12/21
