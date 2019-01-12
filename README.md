@@ -297,10 +297,8 @@
 | [Association for Computing Machinery (ACM)](https://www.youtube.com/user/TheOfficialACM/featured)
 ||
 
---------------
-Jan-2019
 
-- [High Performance Numeric Programming with Swift: Explorations and Reflections](https://www.fast.ai/2019/01/10/swift-numerics/)
+
 
 --------------
 12/28
@@ -335,6 +333,12 @@ Jan-2019
 - [The Turing Institute joins forces with Japan to bolster AI research](https://tech.newstatesman.com/policy/turing-institute-japan)
 - [IBM’s Project Debater AI helps humans process complex arguments](https://venturebeat.com/2019/01/07/ibms-project-debater-ai-helps-humans-process-complex-arguments/)
 - [Pentagon Seeks a List of Ethical Principles for Using AI in War](https://www.defenseone.com/technology/2019/01/pentagon-seeks-list-ethical-principles-using-ai-war/153940/)
+- [A neural network can learn to organize the world it sees into concepts—just like we do](https://www.technologyreview.com/s/612746/a-neural-network-can-learn-to-organize-the-world-it-sees-into-conceptsjust-like-we-do/)
+- [School of Engineering welcomes new faculty](http://news.mit.edu/2019/mit-school-engineering-welcomes-new-faculty-0109)
+- [MIT adds computational Earth, atmospheric, and planetary sciences to its PhD offerings](http://news.mit.edu/2019/mit-eaps-adds-computational-earth-atmospheric-planetary-sciences-phd-offering-0109)
+- [Intel: ai-at-ces](https://ai.intel.com/ai-at-ces/#gs.SBGOL1FQ)
+- [Intel: ai-ethics-at-neurips](https://ai.intel.com/ai-ethics-at-neurips/)
+- [High Performance Numeric Programming with Swift: Explorations and Reflections](https://www.fast.ai/2019/01/10/swift-numerics/)
 
 --------------
 12/21
