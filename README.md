@@ -339,6 +339,16 @@
 - [Intel: ai-at-ces](https://ai.intel.com/ai-at-ces/#gs.SBGOL1FQ)
 - [Intel: ai-ethics-at-neurips](https://ai.intel.com/ai-ethics-at-neurips/)
 - [High Performance Numeric Programming with Swift: Explorations and Reflections](https://www.fast.ai/2019/01/10/swift-numerics/)
+- [Finland’s grand AI experiment](https://www.politico.eu/article/finland-one-percent-ai-artificial-intelligence-courses-learning-training/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_94)
+- [Cheaper AI for everyone is the promise with Intel and Facebook’s new chip](https://www.technologyreview.com/s/612722/cheaper-ai-for-everyone-is-the-promise-with-intel-and-facebooks-new-chip/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_94)
+- [World's Largest AI Startup Readies $2 Billion Fundraising](https://www.bloomberg.com/news/articles/2019-01-10/world-s-largest-ai-startup-said-to-ready-2-billion-fundraising-jqq7odu4)
+- [Benedict Evans: Does AI make strong tech companies stronger?](https://www.ben-evans.com/benedictevans/2018/12/19/does-ai-make-strong-tech-companies-stronger?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_94)
+- [Unprovability comes to machine learning](https://www.nature.com/articles/d41586-019-00012-4?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_94)
+- [Lessons Learned at Instagram Stories and Feed Machine Learning](https://instagram-engineering.com/lessons-learned-at-instagram-stories-and-feed-machine-learning-54f3aaa09e56)
+- [What Kagglers are using for Text Classification](https://mlwhiz.com/blog/2018/12/17/text_classification/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_94)
+- [10 Data Science Tools I Explored in 2018](https://towardsdatascience.com/10-data-science-tools-i-explored-in-2018-d8226f99f342)
+- [tensorflow/privacy](https://github.com/tensorflow/privacy?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_94)
+- [Does my Startup Data Team Need a Data Engineer?](https://blog.fishtownanalytics.com/does-my-startup-data-team-need-a-data-engineer-b6f4d68d7da9)
 
 --------------
 12/21
