@@ -298,7 +298,11 @@
 ||
 
 --------------
+Jan-2019
 
+- [High Performance Numeric Programming with Swift: Explorations and Reflections](https://www.fast.ai/2019/01/10/swift-numerics/)
+
+--------------
 12/28
 
 - [Asia’s AI agenda: The ecosystem](https://www.technologyreview.com/s/612654/asias-ai-agenda-the-ecosystem/)
