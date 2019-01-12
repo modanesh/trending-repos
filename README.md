@@ -349,6 +349,8 @@
 - [10 Data Science Tools I Explored in 2018](https://towardsdatascience.com/10-data-science-tools-i-explored-in-2018-d8226f99f342)
 - [tensorflow/privacy](https://github.com/tensorflow/privacy?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_94)
 - [Does my Startup Data Team Need a Data Engineer?](https://blog.fishtownanalytics.com/does-my-startup-data-team-need-a-data-engineer-b6f4d68d7da9)
+- [How big data has created a big crisis in science](https://theconversation.com/how-big-data-has-created-a-big-crisis-in-science-102835?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_94)
+- [Artificial Intelligence APAC - Issue #20](http://newsletters.deeplearning.ml/issues/artificial-intelligence-apac-issue-20-151745)
 
 --------------
 12/21
