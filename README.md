@@ -352,6 +352,7 @@
 - [How big data has created a big crisis in science](https://theconversation.com/how-big-data-has-created-a-big-crisis-in-science-102835?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_94)
 - [Artificial Intelligence APAC - Issue #20](http://newsletters.deeplearning.ml/issues/artificial-intelligence-apac-issue-20-151745)
 
+
 --------------
 12/21
 
@@ -1232,6 +1233,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [tf2_course](https://github.com/ageron/tf2_course) - Notebooks for my "Deep Learning with TensorFlow 2 and Keras" course
+ - [transformer-xl](https://github.com/kimiyoung/transformer-xl)
  - [uber-research/atari-model-zoo](https://github.com/uber-research/atari-model-zoo)
  - [NeuralDater](https://github.com/malllabiisc/NeuralDater) - ACL 2018: Dating Documents using Graph Convolution Networks
  - [NeurIPS-2018-papers](https://github.com/contentinnovation/NeurIPS-2018-papers) - Machine-generated summaries and highlights of the every accepted paper at Thirty-second Conference on Neural Information Processing Systems 2018. Generated with the Scholarcy Highlights API
