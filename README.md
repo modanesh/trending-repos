@@ -353,6 +353,7 @@
 - [Artificial Intelligence APAC - Issue #20](http://newsletters.deeplearning.ml/issues/artificial-intelligence-apac-issue-20-151745)
 
 
+
 --------------
 12/21
 
