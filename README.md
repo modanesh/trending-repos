@@ -1234,6 +1234,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [nsfw_data_scrapper](https://github.com/alexkimxyz/nsfw_data_scrapper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
  - [tf2_course](https://github.com/ageron/tf2_course) - Notebooks for my "Deep Learning with TensorFlow 2 and Keras" course
  - [transformer-xl](https://github.com/kimiyoung/transformer-xl)
  - [uber-research/atari-model-zoo](https://github.com/uber-research/atari-model-zoo)
@@ -1601,6 +1602,9 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
  - [awesome-golang-security](https://github.com/guardrailsio/awesome-golang-security) - Awesome golang Security resources
  - [sherlock](https://github.com/sdushantha/sherlock) -  Find usernames across over 75 social networks
  - [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions. Feel free to contribute!
+ - [Toshi](https://github.com/toshi-search/Toshi) - A full-text search engine in rust
+ - [earth-reverse-engineering](https://github.com/retroplasma/earth-reverse-engineering)
+ 
 -----------
 
 #### AI Residency
