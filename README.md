@@ -1234,6 +1234,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [nlp_with_pytorch](https://github.com/kh-kim/nlp_with_pytorch) - 
+Natural Language Processing with PyTorch
  - [nsfw_data_scrapper](https://github.com/alexkimxyz/nsfw_data_scrapper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
  - [tf2_course](https://github.com/ageron/tf2_course) - Notebooks for my "Deep Learning with TensorFlow 2 and Keras" course
  - [transformer-xl](https://github.com/kimiyoung/transformer-xl)
