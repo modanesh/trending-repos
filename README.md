@@ -1234,6 +1234,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [fourier](https://github.com/Jezzamonn/fourier) - An Interactive Introduction to Fourier Transforms http://www.jezzamon.com/fourier
+ - [deep-learning-ocean](https://github.com/osforscience/deep-learning-ocean) - 📡 All You Need to Know About Deep Learning - A kick-starter
  - [nlp_with_pytorch](https://github.com/kh-kim/nlp_with_pytorch) - 
 Natural Language Processing with PyTorch
  - [nsfw_data_scrapper](https://github.com/alexkimxyz/nsfw_data_scrapper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
