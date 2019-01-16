@@ -1234,6 +1234,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [dtreeviz](https://github.com/parrt/dtreeviz) - A python library for decision tree visualization and model interpretation.
  - [fourier](https://github.com/Jezzamonn/fourier) - An Interactive Introduction to Fourier Transforms http://www.jezzamon.com/fourier
  - [deep-learning-ocean](https://github.com/osforscience/deep-learning-ocean) - 📡 All You Need to Know About Deep Learning - A kick-starter
  - [nlp_with_pytorch](https://github.com/kh-kim/nlp_with_pytorch) - 
