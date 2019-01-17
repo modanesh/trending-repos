@@ -298,8 +298,7 @@
 ||
 
 
-|| 
-| [researchstash](https://www.researchstash.com/)
+||  [researchstash](https://www.researchstash.com/)
 | [gcbias](https://gcbias.org/)
 | [thednageek](https://thednageek.com/blog/)
 | [jmhartley](http://www.jmhartley.com/HBlog/)
@@ -327,7 +326,31 @@
 | [dna-testing-adviser.com](https://www.dna-testing-adviser.com/dna-testing-blog.html)
 ||
 
+||
+ [physicsworld.com/c/materials](https://physicsworld.com/c/materials/)
+| [https://www.reddit.com/r/nanotech/](https://www.reddit.com/r/nanotech/)
+| [sciencedaily](https://www.sciencedaily.com/news/matter_energy/nanotechnology/)
+| [phys.org/nanotech-news](https://phys.org/nanotech-news/)
+| [news-medical.net/?tag=/Nanotechnology](https://www.news-medical.net/?tag=/Nanotechnology)
+| [bioethics.com/nanotechnology](http://www.bioethics.com/nanotechnology)
+| [nanotechia.org/news](http://www.nanotechia.org/news)
+| [nanooze.org/articles/blog](http://www.nanooze.org/articles/blog/)
+| [nanosensors](http://www.nanosensors.com/blog/)
+| [genesisnanotech](http://genesisnanotech.com/)
+| [nanodaily](http://www.nanodaily.com/)
+| [mrnano](https://mrnano.com.au/blog/)
+| [futurenanoneeds](https://www.futurenanoneeds.eu/blog/)
+| [wahmednano](https://wahmednano.wordpress.com/)
+| [ferniglab](https://ferniglab.wordpress.com/category/nanotechnology/)
+| [nano-blog.com](http://www.nano-blog.com/)
+| [futuretimeline](https://www.futuretimeline.net/blog/nanotechnology-blog.htm)
+| [nanowerk](https://www.nanowerk.com/)
+| [sustainable-nano](http://sustainable-nano.com/)
+| [foresight](https://foresight.org/nanodot-blog/)
 
+||
+
+||
 || [space.com](https://www.space.com/) 
 | [futuretimeline](https://www.futuretimeline.net/blog/space-blog.htm) 
 | [planetary](http://www.planetary.org/blogs/) 
