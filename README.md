@@ -298,6 +298,36 @@
 ||
 
 
+|| 
+| [researchstash](https://www.researchstash.com/)
+| [gcbias](https://gcbias.org/)
+| [thednageek](https://thednageek.com/blog/)
+| [jmhartley](http://www.jmhartley.com/HBlog/)
+| [rickilewis](http://www.rickilewis.com/)
+| [core-genomics](http://core-genomics.blogspot.com/)
+| [ethicsandgenetics](http://ethicsandgenetics.org/index.html)
+| [eurasiandna](https://www.eurasiandna.com/)
+| [myopenreadingframe](http://myopenreadingframe.com/)
+| [endeavordna](https://www.endeavordna.com/blog/)
+| [genomeweb](https://www.genomeweb.com/)
+| [genengnews](https://www.genengnews.com/)
+| [medicalnewstoday](https://www.medicalnewstoday.com/categories/genetics)
+| [news-medical.net/?tag=/Genetics](https://www.news-medical.net/?tag=/Genetics)
+| [dnascience](http://blogs.plos.org/dnascience/)
+| [newscientist](https://www.newscientist.com/article-topic/genetics/)
+| [sciencedaily genetics](https://www.sciencedaily.com/news/plants_animals/genetics/)
+| [reddit.com/r/genetics](https://www.reddit.com/r/genetics/)
+| [news.google.com/search?q=genetics](https://news.google.com/search?q=genetics&hl=en-IE&gl=IE&ceid=IE:en)
+| [genestogenomes](http://genestogenomes.org/)
+| [geneticliteracyproject](https://geneticliteracyproject.org/)
+| [http://news.mit.edu/topic/genetics](http://news.mit.edu/topic/genetics)
+| [https://www.reddit.com/r/genomics/](https://www.reddit.com/r/genomics/)
+| [theguardian](https://www.theguardian.com/science/genetics)
+| [sciencenews](https://www.sciencenews.org/topic/genetics)
+| [dna-testing-adviser.com](https://www.dna-testing-adviser.com/dna-testing-blog.html)
+||
+
+
 || [space.com](https://www.space.com/) 
 | [futuretimeline](https://www.futuretimeline.net/blog/space-blog.htm) 
 | [planetary](http://www.planetary.org/blogs/) 
