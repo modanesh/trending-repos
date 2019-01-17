@@ -303,6 +303,10 @@
 | [planetary](http://www.planetary.org/blogs/) 
 | [nature](http://blogs.nature.com/blog/category/space/) 
 | [nasa.gov](https://www.nasa.gov/topics/technology/index.html) 
+| [isro.gov.in](https://www.isro.gov.in/)
+| [spacechina](http://english.spacechina.com/)
+| [blueorigin](https://www.blueorigin.com/)
+| [russianspaceweb](http://www.russianspaceweb.com/)
 | [scitechdaily](https://scitechdaily.com/) 
 | [aerospaceengineeringblog](https://aerospaceengineeringblog.com/) 
 | [astronomycast](http://www.astronomycast.com/) 
@@ -361,9 +365,22 @@
 | [spaceflighthistory](http://spaceflighthistory.blogspot.com/)
 | [spacefacts](http://www.spacefacts.in/?m=1)
 | [human-spaceflight.blogspot](http://human-spaceflight.blogspot.com/)
-| []()
-| []()
-| []()
+| [space.blog.gov.uk](https://space.blog.gov.uk/)
+| [theguardian.com/science/space](https://www.theguardian.com/science/space)
+| [metamedianews](http://www.metamedianews.com/category/space-flight/)
+| [zoharesque](http://zoharesque.blogspot.com/)
+| [phys.org/space-news](https://phys.org/space-news/)
+| [newscientist](https://www.newscientist.com/subject/space/)
+| [redorbit](https://www.redorbit.com/category/news/space/)
+| [earthsky](https://earthsky.org/space)
+| [tass.com](http://tass.com/space-programs)
+| [spaceindustrynews](https://spaceindustrynews.com/)
+| [thegravitywell](http://www.thegravitywell.org/blog)
+| [spacefordummies](http://spacefordummies.com/blog/)
+| [meteorides](http://www.meteorides.com/blog/)
+| [spacefrontier](https://spacefrontier.org/category/newspace-news/)
+ ||
+
 
 --------------
 12/28
