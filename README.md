@@ -432,6 +432,12 @@
 | [spacefrontier](https://spacefrontier.org/category/newspace-news/)
  ||
 
+----------------
+
+- [Google AI: Looking Back at Google’s Research Efforts in 2018](https://ai.googleblog.com/2019/01/looking-back-at-googles-research.html)
+- [Nvidia AI; Cell by Cell: Deep Learning Powers Drug Discovery Effort for Hundreds of Rare Diseases](https://blogs.nvidia.com/blog/2019/01/14/recursion-drug-discovery-rare-diseases/)
+- [Big Data Analytics, Machine Learning and AI in the Renewable Energy Sector](https://www.aitrends.com/ai-in-industry/big-data-analytics-machine-learning-and-ai-in-the-renewable-energy-sector/)
+- [Seeking One-Shot Machine Learning: The Case of AI Self-Driving Cars](https://www.aitrends.com/ai-insider/seeking-one-shot-machine-learning-the-case-of-ai-self-driving-cars/)
 
 --------------
 12/28
