@@ -347,7 +347,8 @@
 | [futuretimeline](https://www.futuretimeline.net/blog/nanotechnology-blog.htm)
 | [nanowerk](https://www.nanowerk.com/)
 | [sustainable-nano](http://sustainable-nano.com/)
-| [foresight](https://foresight.org/nanodot-blog/)||
+| [foresight](https://foresight.org/nanodot-blog/)
+||
 
 ||
 [space.com](https://www.space.com/) 
