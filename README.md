@@ -436,6 +436,8 @@
 
 ----------------
 
+JAN - 2019
+
 - [Google AI: Looking Back at Google’s Research Efforts in 2018](https://ai.googleblog.com/2019/01/looking-back-at-googles-research.html)
 - [Nvidia AI; Cell by Cell: Deep Learning Powers Drug Discovery Effort for Hundreds of Rare Diseases](https://blogs.nvidia.com/blog/2019/01/14/recursion-drug-discovery-rare-diseases/)
 - [Big Data Analytics, Machine Learning and AI in the Renewable Energy Sector](https://www.aitrends.com/ai-in-industry/big-data-analytics-machine-learning-and-ai-in-the-renewable-energy-sector/)
