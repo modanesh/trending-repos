@@ -1377,6 +1377,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [satellite-image-deep-learning](https://github.com/robmarkcole/satellite-image-deep-learning) - Resources for performing deep learning on satellite imagery
  - [facebookincubator/spectrum](https://github.com/facebookincubator/spectrum) - A client-side image transcoding library. https://libspectrum.io
  - [alibaba/euler](https://github.com/alibaba/euler) - A distributed graph deep learning framework.
  - [indigo-player](https://github.com/matvp91/indigo-player) - 
