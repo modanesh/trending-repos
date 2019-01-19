@@ -1377,6 +1377,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡
  - [ObjectDetection-OneStageDet](https://github.com/TencentYoutuResearch/ObjectDetection-OneStageDet) - 
  - [dtreeviz](https://github.com/parrt/dtreeviz) - A python library for decision tree visualization and model interpretation.
  - [fourier](https://github.com/Jezzamonn/fourier) - An Interactive Introduction to Fourier Transforms http://www.jezzamon.com/fourier
