@@ -443,6 +443,7 @@ Jan - 2019
 - [Big Data Analytics, Machine Learning and AI in the Renewable Energy Sector](https://www.aitrends.com/ai-in-industry/big-data-analytics-machine-learning-and-ai-in-the-renewable-energy-sector/)
 - [Seeking One-Shot Machine Learning: The Case of AI Self-Driving Cars](https://www.aitrends.com/ai-insider/seeking-one-shot-machine-learning-the-case-of-ai-self-driving-cars/)
 - [Quantum Communication Just Took a Great Leap Forward](https://singularityhub.com/2018/12/26/quantum-communication-just-took-a-great-leap-forward/#sm.0001aunh4f6r1d4uqjz24tc9h6xoq)
+- [We’d have more quantum computers if it weren’t so hard to find the damn cables](https://www.technologyreview.com/s/612760/quantum-computers-component-shortage/)
 
 --------------
 12/28
