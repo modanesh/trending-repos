@@ -1753,6 +1753,7 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
  - [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions. Feel free to contribute!
  - [Toshi](https://github.com/toshi-search/Toshi) - A full-text search engine in rust
  - [earth-reverse-engineering](https://github.com/retroplasma/earth-reverse-engineering)
+ - [professional-programming](https://github.com/charlax/professional-programming)
  
 -----------
 
