@@ -1377,6 +1377,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [facebookincubator/spectrum](https://github.com/facebookincubator/spectrum) - A client-side image transcoding library. https://libspectrum.io
  - [alibaba/euler](https://github.com/alibaba/euler) - A distributed graph deep learning framework.
  - [indigo-player](https://github.com/matvp91/indigo-player) - 
 Highly extensible, modern, JavaScript video player. Handles MPEG-Dash / HLS / MPEG-4 and is built on top of the HTML5 video element. https://matvp91.github.io/indigo-player/
