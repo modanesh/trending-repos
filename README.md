@@ -1377,6 +1377,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [indigo-player](https://github.com/matvp91/indigo-player) - 
+Highly extensible, modern, JavaScript video player. Handles MPEG-Dash / HLS / MPEG-4 and is built on top of the HTML5 video element. https://matvp91.github.io/indigo-player/
  - [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡
  - [ObjectDetection-OneStageDet](https://github.com/TencentYoutuResearch/ObjectDetection-OneStageDet) - 
  - [dtreeviz](https://github.com/parrt/dtreeviz) - A python library for decision tree visualization and model interpretation.
