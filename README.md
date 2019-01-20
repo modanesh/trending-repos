@@ -434,6 +434,7 @@
 | [spacefrontier](https://spacefrontier.org/category/newspace-news/)
  ||
 
+
 ----------------
 
 Jan - 2019
