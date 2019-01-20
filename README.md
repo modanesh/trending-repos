@@ -1379,6 +1379,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [graph-tutorial.pytorch](https://github.com/meliketoy/graph-tutorial.pytorch) - Pytorch Tutorial for Non-Euclidean Graph Representations
  - [Papers-Literature-ML-DL-RL-AI](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI) - Highly cited and useful papers related to machine learning, deep learning, AI, game theory, reinforcement learning
  - [Neural_Differential_Equations](https://github.com/llSourcell/Neural_Differential_Equations) - This is the code for "Neural DIfferential Equations" By Siraj Raval on Youtube
  - [calebwin/pipelines](https://github.com/calebwin/pipelines) - framework & language for scripting massively parrallel pipelines with Python
