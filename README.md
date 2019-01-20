@@ -1379,6 +1379,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [Papers-Literature-ML-DL-RL-AI](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI) - Highly cited and useful papers related to machine learning, deep learning, AI, game theory, reinforcement learning
  - [Neural_Differential_Equations](https://github.com/llSourcell/Neural_Differential_Equations) - This is the code for "Neural DIfferential Equations" By Siraj Raval on Youtube
  - [calebwin/pipelines](https://github.com/calebwin/pipelines) - framework & language for scripting massively parrallel pipelines with Python
  - [satellite-image-deep-learning](https://github.com/robmarkcole/satellite-image-deep-learning) - Resources for performing deep learning on satellite imagery
