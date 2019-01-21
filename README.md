@@ -1771,6 +1771,7 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
  - [d5/tengo](https://github.com/d5/tengo) - A fast script language for Go https://tengolang.com
  - [tinyraytracer](https://github.com/ssloy/tinyraytracer) - A brief computer graphics / rendering course
  - [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
+ - [serverless-failure-stories](https://github.com/cristim/serverless-failure-stories) - Compilation of public failure/horror stories related to Serverless, inspired by hjacobs/kubernetes-failure-stories
  
 -----------
 
