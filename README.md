@@ -1772,6 +1772,7 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
  - [tinyraytracer](https://github.com/ssloy/tinyraytracer) - A brief computer graphics / rendering course
  - [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
  - [serverless-failure-stories](https://github.com/cristim/serverless-failure-stories) - Compilation of public failure/horror stories related to Serverless, inspired by hjacobs/kubernetes-failure-stories
+ - [Awesome-Game-Networking](https://github.com/MFatihMAR/Awesome-Game-Networking) - A Curated List of Game Network Programming Resources
  
 -----------
 
