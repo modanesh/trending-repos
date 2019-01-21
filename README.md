@@ -1769,6 +1769,7 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
  - [earth-reverse-engineering](https://github.com/retroplasma/earth-reverse-engineering)
  - [professional-programming](https://github.com/charlax/professional-programming)
  - [d5/tengo](https://github.com/d5/tengo) - A fast script language for Go https://tengolang.com
+ - [tinyraytracer](https://github.com/ssloy/tinyraytracer) - A brief computer graphics / rendering course
  
 -----------
 
