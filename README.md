@@ -445,6 +445,7 @@ Jan - 2019
 - [Seeking One-Shot Machine Learning: The Case of AI Self-Driving Cars](https://www.aitrends.com/ai-insider/seeking-one-shot-machine-learning-the-case-of-ai-self-driving-cars/)
 - [Quantum Communication Just Took a Great Leap Forward](https://singularityhub.com/2018/12/26/quantum-communication-just-took-a-great-leap-forward/#sm.0001aunh4f6r1d4uqjz24tc9h6xoq)
 - [We’d have more quantum computers if it weren’t so hard to find the damn cables](https://www.technologyreview.com/s/612760/quantum-computers-component-shortage/)
+- [Automated Machine Learning — An Overview](https://medium.com/thinkgradient/automated-machine-learning-an-overview-5a3595d5c4b5)
 
 --------------
 12/28
