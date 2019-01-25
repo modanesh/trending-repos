@@ -1382,6 +1382,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [LASER](https://github.com/facebookresearch/LASER) - Language-Agnostic SEntence Representations
  - [genetic_deep_learning](https://github.com/gmaggiotti/genetic_deep_learning) - Genetic Deep Learning
  - [graph-tutorial.pytorch](https://github.com/meliketoy/graph-tutorial.pytorch) - Pytorch Tutorial for Non-Euclidean Graph Representations
  - [Papers-Literature-ML-DL-RL-AI](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI) - Highly cited and useful papers related to machine learning, deep learning, AI, game theory, reinforcement learning
@@ -1775,6 +1776,7 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
  - [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
  - [serverless-failure-stories](https://github.com/cristim/serverless-failure-stories) - Compilation of public failure/horror stories related to Serverless, inspired by hjacobs/kubernetes-failure-stories
  - [Awesome-Game-Networking](https://github.com/MFatihMAR/Awesome-Game-Networking) - A Curated List of Game Network Programming Resources
+ - [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - ⚡️ This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress.
  
 -----------
 
