@@ -1777,7 +1777,8 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
  - [serverless-failure-stories](https://github.com/cristim/serverless-failure-stories) - Compilation of public failure/horror stories related to Serverless, inspired by hjacobs/kubernetes-failure-stories
  - [Awesome-Game-Networking](https://github.com/MFatihMAR/Awesome-Game-Networking) - A Curated List of Game Network Programming Resources
  - [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - ⚡️ This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress.
- 
+ - [ARMmbed/littlefs](https://github.com/ARMmbed/littlefs) - A little fail-safe filesystem designed for microcontrollers
+ - [queueing_theory](https://github.com/joelparkerhenderson/queueing_theory) - Queueing theory: an introduction for software development
 -----------
 
 #### AI Residency
