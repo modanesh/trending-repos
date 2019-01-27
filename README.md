@@ -1779,6 +1779,8 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
  - [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - ⚡️ This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress.
  - [ARMmbed/littlefs](https://github.com/ARMmbed/littlefs) - A little fail-safe filesystem designed for microcontrollers
  - [queueing_theory](https://github.com/joelparkerhenderson/queueing_theory) - Queueing theory: an introduction for software development
+ - [awesome-mobile-web-development](https://github.com/myshov/awesome-mobile-web-development)
+ 
 -----------
 
 #### AI Residency
