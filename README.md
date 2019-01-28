@@ -1396,6 +1396,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [jupyter-Kqlmagic](https://github.com/Microsoft/jupyter-Kqlmagic) - Extension (Magic) to Jupyter notebook and Jupyter lab, that enable notebook experience working with Kusto, ApplicationInsights, and LogAnalytics data.
  - [LASER](https://github.com/facebookresearch/LASER) - Language-Agnostic SEntence Representations
  - [genetic_deep_learning](https://github.com/gmaggiotti/genetic_deep_learning) - Genetic Deep Learning
  - [graph-tutorial.pytorch](https://github.com/meliketoy/graph-tutorial.pytorch) - Pytorch Tutorial for Non-Euclidean Graph Representations
