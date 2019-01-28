@@ -453,6 +453,11 @@ Jan - 2019
 - [GoogleAI: Expanding the Application of Deep Learning to Electronic Health Records](https://ai.googleblog.com/2019/01/expanding-application-of-deep-learning.html)
 - [Practical Deep Learning for Coders 2019](https://www.fast.ai/2019/01/24/course-v3/)
 - [C++11, random distributions, and Swift](https://www.fast.ai/2019/01/13/swift-random/)
+- [introducing-int8-quantization-for-fast-cpu-inference-using-openvino](https://www.intel.ai/introducing-int8-quantization-for-fast-cpu-inference-using-openvino/#gs.WdlwruU2)
+- [Introducing Nauta: A Distributed Deep Learning Platform for Kubernetes*](https://www.intel.ai/introducing-nauta/#gs.nPM08mEO)
+- [multi-node-convergence-and-scaling-of-inception-resnet-v2-model-using-intel-xeon-processors](https://www.intel.ai/multi-node-convergence-and-scaling-of-inception-resnet-v2-model-using-intel-xeon-processors/#gs.e3Ct7oXz)
+- [optimization-of-tensorflow-wavenet-models-on-intel-xeon-processors](https://www.intel.ai/optimization-of-tensorflow-wavenet-models-on-intel-xeon-processors/#gs.NifhIbKA)
+- [fast-inference-with-early-exit](https://www.intel.ai/fast-inference-with-early-exit/#gs.QYJFMHIM)
 
 --------------
 12/28
