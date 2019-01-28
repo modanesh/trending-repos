@@ -447,6 +447,12 @@ Jan - 2019
 - [We’d have more quantum computers if it weren’t so hard to find the damn cables](https://www.technologyreview.com/s/612760/quantum-computers-component-shortage/)
 - [Automated Machine Learning — An Overview](https://medium.com/thinkgradient/automated-machine-learning-an-overview-5a3595d5c4b5)
 - [Snagging Parking Spaces with Mask R-CNN and Python](https://medium.com/@ageitgey/snagging-parking-spaces-with-mask-r-cnn-and-python-955f2231c400)
+- [DeepMind: AlphaStar: Mastering the Real-Time Strategy Game StarCraft II](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
+- [GoogleAI: Soft Actor-Critic: Deep Reinforcement Learning for Robotics](https://ai.googleblog.com/2019/01/soft-actor-critic-deep-reinforcement.html)
+- [GoogleAI: Natural Questions: a New Corpus and Challenge for Question Answering Research](https://ai.googleblog.com/2019/01/natural-questions-new-corpus-and.html)
+- [GoogleAI: Expanding the Application of Deep Learning to Electronic Health Records](https://ai.googleblog.com/2019/01/expanding-application-of-deep-learning.html)
+- [Practical Deep Learning for Coders 2019](https://www.fast.ai/2019/01/24/course-v3/)
+- [C++11, random distributions, and Swift](https://www.fast.ai/2019/01/13/swift-random/)
 
 --------------
 12/28
