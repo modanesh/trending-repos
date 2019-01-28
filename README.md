@@ -458,6 +458,8 @@ Jan - 2019
 - [multi-node-convergence-and-scaling-of-inception-resnet-v2-model-using-intel-xeon-processors](https://www.intel.ai/multi-node-convergence-and-scaling-of-inception-resnet-v2-model-using-intel-xeon-processors/#gs.e3Ct7oXz)
 - [optimization-of-tensorflow-wavenet-models-on-intel-xeon-processors](https://www.intel.ai/optimization-of-tensorflow-wavenet-models-on-intel-xeon-processors/#gs.NifhIbKA)
 - [fast-inference-with-early-exit](https://www.intel.ai/fast-inference-with-early-exit/#gs.QYJFMHIM)
+- [BAIDU: A Breakthrough in Speech Technology: Baidu Launched SMLTA, the First Streaming Multi-layer Truncated Attention Model for Large-scale Online Speech Recognition](http://research.baidu.com/Blog/index-view?id=109)
+
 
 --------------
 12/28
