@@ -459,6 +459,7 @@ Jan - 2019
 - [optimization-of-tensorflow-wavenet-models-on-intel-xeon-processors](https://www.intel.ai/optimization-of-tensorflow-wavenet-models-on-intel-xeon-processors/#gs.NifhIbKA)
 - [fast-inference-with-early-exit](https://www.intel.ai/fast-inference-with-early-exit/#gs.QYJFMHIM)
 - [BAIDU: A Breakthrough in Speech Technology: Baidu Launched SMLTA, the First Streaming Multi-layer Truncated Attention Model for Large-scale Online Speech Recognition](http://research.baidu.com/Blog/index-view?id=109)
+- [Former Google Chief to Chair Government AI Advisory Group](https://www.aitrends.com/ai-in-government/former-google-chief-to-chair-government-ai-advisory-group/)
 
 
 --------------
