@@ -1396,6 +1396,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [One-shot-Relational-Learning](https://github.com/xwhan/One-shot-Relational-Learning) - Code for One-shot Relational Learning for Knowledge Graphs
  - [vqa-project](https://github.com/aimbrain/vqa-project) - Code for our paper: Learning Conditioned Graph Structures for Interpretable Visual Question Answering
  - [convex_adversarial](https://github.com/locuslab/convex_adversarial) - A method for training neural networks that are provably robust to adversarial attacks.
  - [jupyter-Kqlmagic](https://github.com/Microsoft/jupyter-Kqlmagic) - Extension (Magic) to Jupyter notebook and Jupyter lab, that enable notebook experience working with Kusto, ApplicationInsights, and LogAnalytics data.
