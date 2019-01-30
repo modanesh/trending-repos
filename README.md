@@ -461,6 +461,7 @@ Jan - 2019
 - [BAIDU: A Breakthrough in Speech Technology: Baidu Launched SMLTA, the First Streaming Multi-layer Truncated Attention Model for Large-scale Online Speech Recognition](http://research.baidu.com/Blog/index-view?id=109)
 - [Former Google Chief to Chair Government AI Advisory Group](https://www.aitrends.com/ai-in-government/former-google-chief-to-chair-government-ai-advisory-group/)
 - [What is the Potential ROI from AI in 5G Wireless Networks?](https://www.aitrends.com/ai-and-5g/what-is-the-potential-roi-from-ai-in-5g-wireless-networks/)
+- [The Advent of Architectural AI](https://medium.com/built-horizons/the-advent-of-architectural-ai-2fb6b6d0c0a8)
 
 --------------
 12/28
