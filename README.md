@@ -462,6 +462,7 @@ Jan - 2019
 - [Former Google Chief to Chair Government AI Advisory Group](https://www.aitrends.com/ai-in-government/former-google-chief-to-chair-government-ai-advisory-group/)
 - [What is the Potential ROI from AI in 5G Wireless Networks?](https://www.aitrends.com/ai-and-5g/what-is-the-potential-roi-from-ai-in-5g-wireless-networks/)
 - [The Advent of Architectural AI](https://medium.com/built-horizons/the-advent-of-architectural-ai-2fb6b6d0c0a8)
+- [The Science Behind AlphaStar](https://towardsdatascience.com/the-science-behind-alphastar-714bd7824d4b)
 
 --------------
 12/28
