@@ -1398,6 +1398,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [aresdb](https://github.com/uber/aresdb) - A GPU-powered real-time analytics storage and query engine. https://eng.uber.com/aresdb/
  - [One-shot-Relational-Learning](https://github.com/xwhan/One-shot-Relational-Learning) - Code for One-shot Relational Learning for Knowledge Graphs
  - [vqa-project](https://github.com/aimbrain/vqa-project) - Code for our paper: Learning Conditioned Graph Structures for Interpretable Visual Question Answering
  - [convex_adversarial](https://github.com/locuslab/convex_adversarial) - A method for training neural networks that are provably robust to adversarial attacks.
