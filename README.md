@@ -1800,6 +1800,7 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
  - [ARMmbed/littlefs](https://github.com/ARMmbed/littlefs) - A little fail-safe filesystem designed for microcontrollers
  - [queueing_theory](https://github.com/joelparkerhenderson/queueing_theory) - Queueing theory: an introduction for software development
  - [awesome-mobile-web-development](https://github.com/myshov/awesome-mobile-web-development)
+ - [awesome-podcasts](https://github.com/rShetty/awesome-podcasts)
  
 -----------
 
