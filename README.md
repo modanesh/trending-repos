@@ -1398,6 +1398,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [stanfordnlp/stanfordnlp](https://github.com/stanfordnlp/stanfordnlp) - Official Stanford NLP Python Library for Many Human Languages 
  - [aresdb](https://github.com/uber/aresdb) - A GPU-powered real-time analytics storage and query engine. https://eng.uber.com/aresdb/
  - [One-shot-Relational-Learning](https://github.com/xwhan/One-shot-Relational-Learning) - Code for One-shot Relational Learning for Knowledge Graphs
  - [vqa-project](https://github.com/aimbrain/vqa-project) - Code for our paper: Learning Conditioned Graph Structures for Interpretable Visual Question Answering
@@ -1802,7 +1803,9 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
  - [queueing_theory](https://github.com/joelparkerhenderson/queueing_theory) - Queueing theory: an introduction for software development
  - [awesome-mobile-web-development](https://github.com/myshov/awesome-mobile-web-development)
  - [awesome-podcasts](https://github.com/rShetty/awesome-podcasts)
- 
+- [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings)
+- [react-movable](https://github.com/tajo/react-movable) - 🔀 Drag and drop for your React lists and tables. Accessible. Tiny.
+
 -----------
 
 #### AI Residency
