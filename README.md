@@ -463,6 +463,8 @@ Jan - 2019
 - [What is the Potential ROI from AI in 5G Wireless Networks?](https://www.aitrends.com/ai-and-5g/what-is-the-potential-roi-from-ai-in-5g-wireless-networks/)
 - [The Advent of Architectural AI](https://medium.com/built-horizons/the-advent-of-architectural-ai-2fb6b6d0c0a8)
 - [The Science Behind AlphaStar](https://towardsdatascience.com/the-science-behind-alphastar-714bd7824d4b)
+- [IBM builds a more diverse million-face data set to help reduce bias in AI](https://techcrunch.com/2019/01/29/ibm-builds-a-more-diverse-million-face-dataset-to-help-reduce-bias-in-ai/)
+- [https://www.aiin.healthcare/](https://www.aiin.healthcare/)
 
 --------------
 12/28
