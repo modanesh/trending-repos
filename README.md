@@ -1400,6 +1400,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
+ - [nlp-tutorial](https://github.com/graykode/nlp-tutorial) - Natural Language Processing Tutorial for Deep Learning Researchers
  - [stanfordnlp/stanfordnlp](https://github.com/stanfordnlp/stanfordnlp) - Official Stanford NLP Python Library for Many Human Languages 
  - [aresdb](https://github.com/uber/aresdb) - A GPU-powered real-time analytics storage and query engine. https://eng.uber.com/aresdb/
  - [One-shot-Relational-Learning](https://github.com/xwhan/One-shot-Relational-Learning) - Code for One-shot Relational Learning for Knowledge Graphs
