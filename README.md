@@ -1809,6 +1809,8 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
  - [awesome-podcasts](https://github.com/rShetty/awesome-podcasts)
 - [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 - [react-movable](https://github.com/tajo/react-movable) - 🔀 Drag and drop for your React lists and tables. Accessible. Tiny.
+- [github-history](https://github.com/pomber/github-history)
+- [react-testing-library](https://github.com/kentcdodds/react-testing-library)
 
 -----------
 
