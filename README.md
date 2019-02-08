@@ -1400,6 +1400,12 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [info8010-deep-learning](https://github.com/glouppe/info8010-deep-learning)
+- [COMS4995-s19](https://github.com/amueller/COMS4995-s19)
+- [Recommenders](https://github.com/Microsoft/Recommenders)
+- [NLP-with-Python](https://github.com/susanli2016/NLP-with-Python)
+- [stat479-deep-learning-ss19](https://github.com/rasbt/stat479-deep-learning-ss19)
+- [pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT)
 - [stylegan](https://github.com/NVlabs/stylegan) - StyleGAN - Official TensorFlow Implementation
  - [deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
  - [nlp-tutorial](https://github.com/graykode/nlp-tutorial) - Natural Language Processing Tutorial for Deep Learning Researchers
@@ -1745,6 +1751,7 @@ ML study process record
 - [CFDPython](https://github.com/barbagroup/CFDPython) - 
 A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http://lorenabarba.com/
 -  [eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support. https://akveo.github.io/eva-icons/
+- [messenger-app-android](https://github.com/mesibo/messenger-app-android)
 
 ---------------
 
