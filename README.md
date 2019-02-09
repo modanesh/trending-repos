@@ -1403,8 +1403,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
 - [generative_adversarial_networks_101](https://github.com/mafda/generative_adversarial_networks_101)
 - [Eye_Correction_GAN](https://github.com/zhangqianhui/Eye_Correction_GAN)
 - [Advanced-R-Solutions](https://github.com/Tazinho/Advanced-R-Solutions)
-- [Delving-deep-into-GANs](https://github.com/GKalliatakis/Delving-deep-into-GANs) - 
-📈 A curated list of Generative Adversarial Networks (GANs) resources sorted by reputation 
+- [Delving-deep-into-GANs](https://github.com/GKalliatakis/Delving-deep-into-GANs) - 📈 A curated list of Generative Adversarial Networks (GANs) resources sorted by reputation 
 - [ICLR2019-OpenReviewData](https://github.com/shaohua0116/ICLR2019-OpenReviewData) - Crawl data from ICLR 2019 OpenReview webpage
 - [info8010-deep-learning](https://github.com/glouppe/info8010-deep-learning)
 - [COMS4995-s19](https://github.com/amueller/COMS4995-s19)
