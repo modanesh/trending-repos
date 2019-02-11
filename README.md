@@ -1840,6 +1840,8 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
 - [react-movable](https://github.com/tajo/react-movable) - 🔀 Drag and drop for your React lists and tables. Accessible. Tiny.
 - [github-history](https://github.com/pomber/github-history)
 - [react-testing-library](https://github.com/kentcdodds/react-testing-library)
+- [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
+
 
 -----------
 
