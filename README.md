@@ -437,6 +437,18 @@
 
 ----------------
 
+Feb - 2019
+
+- [Real-time Continuous Transcription with Live Transcribe](https://ai.googleblog.com/2019/02/real-time-continuous-transcription-with.html)
+- [Announcing the Second Workshop and Challenge on Learned Image Compression](https://ai.googleblog.com/2019/02/announcing-second-workshop-and.html)
+- [Five Things That Scare Me About AI](https://www.fast.ai/2019/01/29/five-scary-things/)
+- [fast.ai Diversity Fellows and Sponsors Wanted](https://www.fast.ai/2019/01/28/diversity-fellowships/)
+- [Hiring and Managing AI Rockstars: The Case of AI Self-Driving Cars](https://www.aitrends.com/ai-insider/hiring-and-managing-ai-rockstars-the-case-of-ai-self-driving-cars/)
+- [Framework for Better Deep Learning](https://machinelearningmastery.com/framework-for-better-deep-learning/)
+- [Putting neural networks under the microscope](https://www.csail.mit.edu/news/putting-neural-networks-under-microscope)
+
+---------------
+
 Jan - 2019
 
 - [Google AI: Looking Back at Google’s Research Efforts in 2018](https://ai.googleblog.com/2019/01/looking-back-at-googles-research.html)
@@ -465,6 +477,10 @@ Jan - 2019
 - [The Science Behind AlphaStar](https://towardsdatascience.com/the-science-behind-alphastar-714bd7824d4b)
 - [IBM builds a more diverse million-face data set to help reduce bias in AI](https://techcrunch.com/2019/01/29/ibm-builds-a-more-diverse-million-face-dataset-to-help-reduce-bias-in-ai/)
 - [https://www.aiin.healthcare/](https://www.aiin.healthcare/)
+- [Transformer-XL: Unleashing the Potential of Attention Models](https://ai.googleblog.com/2019/01/transformer-xl-unleashing-potential-of.html)
+- [Creating a Zoo of Atari-Playing Agents to Catalyze the Understanding of Deep Reinforcement Learning](https://eng.uber.com/atari-zoo-deep-reinforcement-learning/)
+- [POET: Endlessly Generating Increasingly Complex and Diverse Learning Environments and their Solutions through the Paired Open-Ended Trailblazer](https://eng.uber.com/poet-open-ended-deep-learning/)
+- [How Uber Beacon Helps Improve Safety for Riders and Drivers](https://eng.uber.com/uber-beacon/)
 
 --------------
 12/28
