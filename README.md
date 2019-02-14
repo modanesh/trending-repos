@@ -1415,7 +1415,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  ###### Latest
  
  [Back to top](#contents)
-
+ 
+- [Web-Data-Scraping-S2019](https://github.com/CU-ITSS/Web-Data-Scraping-S2019)
 - [generative_adversarial_networks_101](https://github.com/mafda/generative_adversarial_networks_101)
 - [Eye_Correction_GAN](https://github.com/zhangqianhui/Eye_Correction_GAN)
 - [Advanced-R-Solutions](https://github.com/Tazinho/Advanced-R-Solutions)
