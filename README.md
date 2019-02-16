@@ -1416,6 +1416,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+- [google-research/planet](https://github.com/google-research/planet) - Deep Planning Network: Control from pixels by latent planning with learned dynamics 
+- [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [Web-Data-Scraping-S2019](https://github.com/CU-ITSS/Web-Data-Scraping-S2019)
 - [generative_adversarial_networks_101](https://github.com/mafda/generative_adversarial_networks_101)
 - [Eye_Correction_GAN](https://github.com/zhangqianhui/Eye_Correction_GAN)
@@ -1842,7 +1844,7 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
 - [github-history](https://github.com/pomber/github-history)
 - [react-testing-library](https://github.com/kentcdodds/react-testing-library)
 - [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
-
+- [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything.
 
 -----------
 
