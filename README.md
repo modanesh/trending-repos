@@ -446,7 +446,7 @@ Feb - 2019
 - [Hiring and Managing AI Rockstars: The Case of AI Self-Driving Cars](https://www.aitrends.com/ai-insider/hiring-and-managing-ai-rockstars-the-case-of-ai-self-driving-cars/)
 - [Framework for Better Deep Learning](https://machinelearningmastery.com/framework-for-better-deep-learning/)
 - [Putting neural networks under the microscope](https://www.csail.mit.edu/news/putting-neural-networks-under-microscope)
-
+- [Tractica Report: 10 AI Technology Predictions for 2019](https://www.itprotoday.com/artificial-intelligence/tractica-report-10-ai-technology-predictions-2019)
 ---------------
 
 Jan - 2019
