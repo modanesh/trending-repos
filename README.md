@@ -447,6 +447,7 @@ Feb - 2019
 - [Framework for Better Deep Learning](https://machinelearningmastery.com/framework-for-better-deep-learning/)
 - [Putting neural networks under the microscope](https://www.csail.mit.edu/news/putting-neural-networks-under-microscope)
 - [Tractica Report: 10 AI Technology Predictions for 2019](https://www.itprotoday.com/artificial-intelligence/tractica-report-10-ai-technology-predictions-2019)
+- [OpenAI: Better Language Models and Their Implications](https://blog.openai.com/better-language-models/)
 ---------------
 
 Jan - 2019
