@@ -448,6 +448,22 @@ Feb - 2019
 - [Putting neural networks under the microscope](https://www.csail.mit.edu/news/putting-neural-networks-under-microscope)
 - [Tractica Report: 10 AI Technology Predictions for 2019](https://www.itprotoday.com/artificial-intelligence/tractica-report-10-ai-technology-predictions-2019)
 - [OpenAI: Better Language Models and Their Implications](https://blog.openai.com/better-language-models/)
+- [Introducing PlaNet: A Deep Planning Network for Reinforcement Learning](https://ai.googleblog.com/2019/02/introducing-planet-deep-planning.html)
+- [Using Global Localization to Improve Navigation](https://ai.googleblog.com/2019/02/using-global-localization-to-improve.html)
+- [A new predictive model for more accurate electrical grid mapping](https://code.fb.com/connectivity/electrical-grid-mapping/)
+- [Some thoughts on zero-day threats in AI, and OpenAI's GP2](https://www.fast.ai/2019/02/15/openai-gp2/)
+- [This is Microsoft’s AI pipeline, from research to reality](https://www.fastcompany.com/90305091/this-is-microsofts-ai-pipeline-from-research-to-reality?utm_campaign=ai-news-brief)
+- [Controlling False Discoveries in Large-Scale Experimentation: Challenges and Solutions](https://bair.berkeley.edu/blog/2019/02/15/false-discoveries/)
+- [Learning Preferences by Looking at the World](https://bair.berkeley.edu/blog/2019/02/11/learning_preferences/)
+- [how-ai-can-help-solve-some-of-humanitys-greatest-challenges](https://www.aitrends.com/ai-in-government/how-ai-can-help-solve-some-of-humanitys-greatest-challenges/)
+- [Teaching self-driving cars to predict pedestrian movement](https://www.sciencedaily.com/releases/2019/02/190212134757.htm)
+- [How to Get Better Deep Learning Results (7-Day Mini-Course)](https://machinelearningmastery.com/better-deep-learning-neural-networks-crash-course/)
+- [3Q: Machine learning and climate modeling](http://news.mit.edu/2019/mit-3q-paul-o-gorman-machine-learning-for-climate-modeling-0213)
+- [OpenAI built a text generator so good, it’s considered too dangerous to release](https://techcrunch.com/2019/02/17/openai-text-generator-dangerous/)
+- [Research: Automation Affects High-Skill Workers More Often, but Low-Skill Workers More Deeply](https://hbr.org/2019/02/research-automation-affects-high-skill-workers-more-often-but-low-skill-workers-more-deeply)
+- [How to Set Up an AI Center of Excellence](https://hbr.org/2019/01/how-to-set-up-an-ai-center-of-excellence)
+
+
 ---------------
 
 Jan - 2019
@@ -482,6 +498,8 @@ Jan - 2019
 - [Creating a Zoo of Atari-Playing Agents to Catalyze the Understanding of Deep Reinforcement Learning](https://eng.uber.com/atari-zoo-deep-reinforcement-learning/)
 - [POET: Endlessly Generating Increasingly Complex and Diverse Learning Environments and their Solutions through the Paired Open-Ended Trailblazer](https://eng.uber.com/poet-open-ended-deep-learning/)
 - [How Uber Beacon Helps Improve Safety for Riders and Drivers](https://eng.uber.com/uber-beacon/)
+- [The Cost of Self-Driving Cars Will Be the Biggest Barrier to Their Adoption](https://hbr.org/2019/01/the-cost-of-self-driving-cars-will-be-the-biggest-barrier-to-their-adoption)
+- [The Future of AI Will Be About Less Data, Not More](https://hbr.org/2019/01/the-future-of-ai-will-be-about-less-data-not-more)
 
 --------------
 12/28
