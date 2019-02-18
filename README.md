@@ -1435,6 +1435,9 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) 
+- [Tensorflow-Cookbook](https://github.com/taki0112/Tensorflow-Cookbook) 
+- [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Non official project based on original /r/Deepfakes thread. Many thanks to him! 
 - [google-research/planet](https://github.com/google-research/planet) - Deep Planning Network: Control from pixels by latent planning with learned dynamics 
 - [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [Web-Data-Scraping-S2019](https://github.com/CU-ITSS/Web-Data-Scraping-S2019)
@@ -1864,6 +1867,7 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
 - [react-testing-library](https://github.com/kentcdodds/react-testing-library)
 - [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything.
+- [awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits) - ✨ A collection of awesome companies offering free/discounted plans for eligible startups
 
 -----------
 
