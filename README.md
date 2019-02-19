@@ -1435,6 +1435,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+- [pytorch-handbook](https://github.com/zergtant/pytorch-handbook) - pytorch handbook
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) 
 - [Tensorflow-Cookbook](https://github.com/taki0112/Tensorflow-Cookbook) 
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Non official project based on original /r/Deepfakes thread. Many thanks to him! 
