@@ -1435,6 +1435,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+- [lascar](https://github.com/Ledger-Donjon/lascar) - Ledger's Advanced Side-Channel Analysis Repository
+- [Tensorflow-Cookbook](https://github.com/taki0112/Tensorflow-Cookbook) - Simple Tensorflow Cookbook for easy-to-use
 - [pytorch-handbook](https://github.com/zergtant/pytorch-handbook) - pytorch handbook
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) 
 - [Tensorflow-Cookbook](https://github.com/taki0112/Tensorflow-Cookbook) 
