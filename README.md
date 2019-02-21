@@ -1382,6 +1382,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
 
 [Back to top](#contents)
 
+- [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [ufldl.stanford](http://ufldl.stanford.edu/tutorial/)
 - [deeplearning.stanford](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 - [neuralnetworksanddeeplearning](http://neuralnetworksanddeeplearning.com/)
@@ -1435,6 +1436,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+- [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
 - [lascar](https://github.com/Ledger-Donjon/lascar) - Ledger's Advanced Side-Channel Analysis Repository
 - [Tensorflow-Cookbook](https://github.com/taki0112/Tensorflow-Cookbook) - Simple Tensorflow Cookbook for easy-to-use
 - [pytorch-handbook](https://github.com/zergtant/pytorch-handbook) - pytorch handbook
@@ -1871,6 +1873,8 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
 - [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything.
 - [awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits) - ✨ A collection of awesome companies offering free/discounted plans for eligible startups
+- [personal-website](https://github.com/github/personal-website)
+- [hacker-news-undocumented](https://github.com/minimaxir/hacker-news-undocumented) - Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.
 
 -----------
 
